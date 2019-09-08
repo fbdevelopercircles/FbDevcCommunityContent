@@ -24,12 +24,12 @@ A curated list of awesome content created by Facebook Developer Circles communit
   - Region: APAC
   - GitHub: https://github.com/devcbali
   
- + **DevC Delhi, NCR**
-  - Leads: 
-    - [Saransh Kataria](https://github.com/saranshkataria)
-  - Facebook Group: https://www.facebook.com/groups/DevCDelhiNCR/
-  - Region: India
-  - GitHub: https://github.com/facebook-developer-circle-delhi
+ + **DevC Delhi NCR**
+    - Leads: 
+      - [Saransh Kataria](https://github.com/saranshkataria)
+    - Facebook Group: https://www.facebook.com/groups/DevCDelhiNCR/
+    - Region: India
+    - GitHub: https://github.com/facebook-developer-circle-delhi
   
 + **DevC Beirut**
   - Leads: 
