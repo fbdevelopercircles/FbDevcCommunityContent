@@ -5,6 +5,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 ## Contents
 
+- [DevC Around The World](#devc)
 - [Tools](#tools)
 - [Articles](#articles)
 - [Workshops Materials](#workshops)
@@ -12,6 +13,45 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Podcasts](#podcasts)
 - [Fun/chill](#fun)
 
+## DevC
+
+
++ **DevC Bali**
+  - Leads: 
+    - [Reza Primasatya](https://github.com/rezaprimasatya)
+    - [Teofilus Candra](https://github.com/teofiluscandra)
+  - Facebook Group: https://www.facebook.com/groups/DevCBali/
+  - Region: APAC
+  - GitHub: https://github.com/devcbali
+  
+ + **DevC Delhi, NCR**
+  - Leads: 
+    - [Saransh Kataria](https://github.com/saranshkataria)
+  - Facebook Group: https://www.facebook.com/groups/DevCDelhiNCR/
+  - Region: India
+  - GitHub: https://github.com/facebook-developer-circle-delhi
+  
++ **DevC Beirut**
+  - Leads: 
+    - [Salah Awad](https://github.com/salahawad)
+    - [Sarah Abdallah](https://www.facebook.com/groups/DevCBeirut/)
+  - Facebook Group: https://www.facebook.com/groups/DevCBeirut/
+  - Region: MENA
+  - GitHub: https://github.com/DevCBeirut
+  
++ **DevC Casablanca**
+  - Leads: 
+    - [Mohammed Aboullite](https://github.com/aboullaite)
+  - Facebook Group: https://www.facebook.com/groups/DevC.Casablanca/
+  - Region: MENA
+  - GitHub:
+  
++ **DevC [Add yours here]**
+  - Leads: 
+    - N/A
+  - Facebook Group: [Link to FB Group]
+  - Region: [Region]
+  - Github: [Link to local DevC GitHub repo (if any)]
 
 ## Tools
 
