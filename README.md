@@ -5,13 +5,44 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 ## Contents
 
-- [DevC Around The World](#devc)
-- [Tools](#tools)
-- [Articles](#articles)
 - [Workshops Materials](#workshops)
+- [Articles](#articles)
+- [Tools](#tools)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
+- [DevC Around The World](#devc)
 - [Fun/chill](#fun)
+
+
+## Workshops
+
+Useful workshop materials.
+
+- [Basic Javascript](https://github.com/bpesquet/thejsway)
+- [React Router](https://github.com/DevCBali/react-router-workshop) *Bahasa Indonesia
+
+## Articles
+
+Useful articles and learning resources.
+
+- [Hello GraphQL Using Express](https://www.wisdomgeek.com/development/web-development/hello-graphql-using-express/)
+
+
+## Tools
+
+Useful tools.
+
+
+## Videos
+
+Useful videos link.
+
+
+## Podcasts
+
+Useful podcast.
+
+
 
 ## DevC
 
@@ -52,30 +83,6 @@ A curated list of awesome content created by Facebook Developer Circles communit
   - Facebook Group: [Link to FB Group]
   - Region: [Region]
   - Github: [Link to local DevC GitHub repo (if any)]
-
-## Tools
-
-Useful tools.
-
-
-## Articles
-
-Useful articles and learning resources.
-
-
-## Workshops
-
-Useful workshop materials.
-
-
-## Videos
-
-Useful videos link.
-
-
-## Podcasts
-
-Useful podcast.
 
 
 ## Fun
