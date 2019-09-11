@@ -5,7 +5,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 ## Contents
 
-- [Workshops Materials](#workshops)
+- [Workshop Materials](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Videos](#videos)
@@ -26,7 +26,7 @@ Useful workshop materials.
 Useful articles and learning resources.
 
 - [Hello GraphQL Using Express](https://www.wisdomgeek.com/development/web-development/hello-graphql-using-express/)
-
+- [DevC Resources CMS](https://developercircleresources.com/)
 
 ## Tools
 
@@ -44,7 +44,7 @@ Useful podcasts.
 
 
 
-## DevC
+## Deveoper Circles
 
 
 + **DevC Bali**
