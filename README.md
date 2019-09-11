@@ -1,6 +1,6 @@
 ### **Facebook Developer Circles Community Content** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome content created by Facebook Developer Circles community around the world.
+A curated list of awesome content created by Facebook Developer Circles community members around the world.
 
 
 ## Contents
@@ -35,12 +35,12 @@ Useful tools.
 
 ## Videos
 
-Useful videos link.
+Useful video links.
 
 
 ## Podcasts
 
-Useful podcast.
+Useful podcasts.
 
 
 
