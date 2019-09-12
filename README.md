@@ -18,6 +18,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 Useful workshop materials.
 
+- [Git training kit](https://github.github.com/training-kit/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
 - [React Router](https://github.com/DevCBali/react-router-workshop) *Bahasa Indonesia
 
