@@ -76,7 +76,14 @@ Useful podcasts.
     - [Mohammed Aboullite](https://github.com/aboullaite)
   - Facebook Group: https://www.facebook.com/groups/DevC.Casablanca/
   - Region: MENA
-  - GitHub:
+  - GitHub: 
+    
++ **DevC Lokoja**
+  - Leads: 
+    - [Bolaji Ayodeji](https://github.com/BolajiAyodeji)
+  - Facebook Group: https://facebook.com/groups/devclokoja/
+  - Region: West Africa
+  - Github: https://github.com/devclokoja
   
 + **DevC [Add yours here]**
   - Leads: 
