@@ -10,7 +10,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Tools](#tools)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
-- [DevC Around The World](#devc)
+- [DevC Around The World](#developer-circles)
 - [Fun/chill](#fun)
 
 
@@ -21,6 +21,8 @@ Useful workshop materials.
 - [Git training kit](https://github.github.com/training-kit/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
 - [React Router](https://github.com/DevCBali/react-router-workshop) *Bahasa Indonesia
+- [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
+- 
 
 ## Articles
 
@@ -36,16 +38,15 @@ Useful tools.
 
 ## Videos
 
-Useful video links.
-
+- [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
 
 ## Podcasts
 
-Useful podcasts.
+- [The Diff](https://thediffpodcast.com/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
 
-
-## Deveoper Circles
+## Developer Circles
 
 
 + **DevC Bali**
