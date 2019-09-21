@@ -77,6 +77,16 @@ Useful podcasts.
   - Facebook Group: https://www.facebook.com/groups/DevC.Casablanca/
   - Region: MENA
   - GitHub:
+
++ **DevC Seoul**
+  - Leads: 
+    - [Yurim Jin](https://github.com/milooy)
+    - [Dongwoo Gim](https://github.com/gimdongwoo)
+    - [Ian Choi]()
+    - [Yeonsoo Jeon]()
+  - Facebook Group: https://www.facebook.com/groups/DevCSeoul/
+  - Region: APAC
+  - GitHub: https://github.com/Developer-Circles-Seoul
   
 + **DevC [Add yours here]**
   - Leads: 
