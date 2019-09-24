@@ -5,13 +5,14 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 ## Contents
 
-- [Workshop Materials](#workshops)
+- [Contents](#contents)
+- [Workshops](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
-- [DevC Around The World](#devc)
-- [Fun/chill](#fun)
+- [Deveoper Circles](#deveoper-circles)
+- [Fun](#fun)
 
 
 ## Workshops
@@ -77,7 +78,17 @@ Useful podcasts.
   - Facebook Group: https://www.facebook.com/groups/DevC.Casablanca/
   - Region: MENA
   - GitHub:
-  
+
++ **DevC Medan**
+  - Leads: 
+    - [Sastra Nababan](https://github.com/SastraNababan)
+    - [Indra Gunawan](https://github.com/IndraGunawan)
+  - Facebook Group: https://www.facebook.com/groups/DevCMedan/
+  - Region: APAC
+  - Github: https://github.com/devc-medan
+
+
+
 + **DevC [Add yours here]**
   - Leads: 
     - N/A
