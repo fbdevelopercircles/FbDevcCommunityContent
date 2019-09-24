@@ -78,6 +78,16 @@ Useful podcasts.
   - Facebook Group: https://www.facebook.com/groups/DevC.Casablanca/
   - Region: MENA
   - GitHub:
+  
++ **DevC Abuja**
+  - Leads: 
+    - [Hassan Sani](https://github.com/inidaname)
+    - [Ahmad Abdulaziz](https://github.com/devamaz)
+    - Nafiu Garba
+    - Samuel Stephen
+  - Facebook Group: https://www.facebook.com/groups/devcabuja/
+  - Region: West Africa
+  - GitHub: https://github.com/DevCAbuja
 
 + **DevC Medan**
   - Leads: 
@@ -86,7 +96,6 @@ Useful podcasts.
   - Facebook Group: https://www.facebook.com/groups/DevCMedan/
   - Region: APAC
   - Github: https://github.com/devc-medan
-
 
 
 + **DevC [Add yours here]**
