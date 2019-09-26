@@ -46,7 +46,7 @@ Useful podcasts.
 
 
 
-## Deveoper Circles
+## Developer Circles
 
 
 + **DevC Bali**
