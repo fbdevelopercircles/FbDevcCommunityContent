@@ -11,7 +11,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Tools](#tools)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
-- [Deveoper Circles](#deveoper-circles)
+- [Developer Circles](#developer-circles)
 - [Fun](#fun)
 
 
