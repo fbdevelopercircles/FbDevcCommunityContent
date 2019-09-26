@@ -5,13 +5,15 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 ## Contents
 
-- [Workshop Materials](#workshops)
+- [Contents](#contents)
+- [Workshops](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
-- [DevC Around The World](#developer-circles)
-- [Fun/chill](#fun)
+- [Developer Circles](#developer-circles)
+- [Fun](#fun)
+
 
 
 ## Workshops
@@ -79,6 +81,25 @@ Useful tools.
   - Region: MENA
   - GitHub:
   
++ **DevC Abuja**
+  - Leads: 
+    - [Hassan Sani](https://github.com/inidaname)
+    - [Ahmad Abdulaziz](https://github.com/devamaz)
+    - Nafiu Garba
+    - Samuel Stephen
+  - Facebook Group: https://www.facebook.com/groups/devcabuja/
+  - Region: West Africa
+  - GitHub: https://github.com/DevCAbuja
+
++ **DevC Medan**
+  - Leads: 
+    - [Sastra Nababan](https://github.com/SastraNababan)
+    - [Indra Gunawan](https://github.com/IndraGunawan)
+  - Facebook Group: https://www.facebook.com/groups/DevCMedan/
+  - Region: APAC
+  - Github: https://github.com/devc-medan
+
+
 + **DevC [Add yours here]**
   - Leads: 
     - N/A
