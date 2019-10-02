@@ -95,8 +95,8 @@ Useful tools.
   - Leads: 
     - [Hassan Sani](https://github.com/inidaname)
     - [Ahmad Abdulaziz](https://github.com/devamaz)
-    - Nafiu Garba
-    - Samuel Stephen
+    - [Nafiu Garba](https://github.com/naslig)
+    - [Samuel Stephen](https://github.com/samora4biz)
   - Facebook Group: https://www.facebook.com/groups/devcabuja/
   - Region: West Africa
   - GitHub: https://github.com/DevCAbuja
