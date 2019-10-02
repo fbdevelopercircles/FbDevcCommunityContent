@@ -62,6 +62,7 @@ Useful tools.
  + **DevC Delhi NCR**
     - Leads: 
       - [Saransh Kataria](https://github.com/saranshkataria)
+      - [Harshit Juneja](https://github.com/harshitjuneja)
     - Facebook Group: https://www.facebook.com/groups/DevCDelhiNCR/
     - Region: India
     - GitHub: https://github.com/facebook-developer-circle-delhi
