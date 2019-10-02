@@ -5,13 +5,15 @@ A curated list of awesome content created by Facebook Developer Circles communit
 
 ## Contents
 
-- [Workshop Materials](#workshops)
+- [Contents](#contents)
+- [Workshops](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
-- [DevC Around The World](#devc)
-- [Fun/chill](#fun)
+- [Developer Circles](#developer-circles)
+- [Fun](#fun)
+
 
 
 ## Workshops
@@ -21,6 +23,8 @@ Useful workshop materials.
 - [Git training kit](https://github.github.com/training-kit/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
 - [React Router](https://github.com/DevCBali/react-router-workshop) *Bahasa Indonesia
+- [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
+- 
 
 ## Articles
 
@@ -36,16 +40,15 @@ Useful tools.
 
 ## Videos
 
-Useful video links.
-
+- [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
 
 ## Podcasts
 
-Useful podcasts.
+- [The Diff](https://thediffpodcast.com/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
 
-
-## Deveoper Circles
+## Developer Circles
 
 
 + **DevC Bali**
@@ -66,7 +69,7 @@ Useful podcasts.
 + **DevC Beirut**
   - Leads: 
     - [Salah Awad](https://github.com/salahawad)
-    - [Sarah Abdallah](https://www.facebook.com/groups/DevCBeirut/)
+    - [Sarah Abdallah](https://www.facebook.com/sarah.abdallah.lb)
   - Facebook Group: https://www.facebook.com/groups/DevCBeirut/
   - Region: MENA
   - GitHub: https://github.com/DevCBeirut
@@ -84,7 +87,36 @@ Useful podcasts.
   - Facebook Group: https://facebook.com/groups/devclokoja/
   - Region: West Africa
   - Github: https://github.com/devclokoja
+
++ **DevC Seoul**
+  - Leads: 
+    - [Yurim Jin](https://github.com/milooy)
+    - [Dongwoo Gim](https://github.com/gimdongwoo)
+    - [Ian Choi]()
+    - [Yeonsoo Jeon]()
+  - Facebook Group: https://www.facebook.com/groups/DevCSeoul/
+  - Region: APAC
+  - GitHub: https://github.com/Developer-Circles-Seoul
   
++ **DevC Abuja**
+  - Leads: 
+    - [Hassan Sani](https://github.com/inidaname)
+    - [Ahmad Abdulaziz](https://github.com/devamaz)
+    - [Nafiu Garba](https://github.com/naslig)
+    - [Samuel Stephen](https://github.com/samora4biz)
+  - Facebook Group: https://www.facebook.com/groups/devcabuja/
+  - Region: West Africa
+  - GitHub: https://github.com/DevCAbuja
+
++ **DevC Medan**
+  - Leads: 
+    - [Sastra Nababan](https://github.com/SastraNababan)
+    - [Indra Gunawan](https://github.com/IndraGunawan)
+  - Facebook Group: https://www.facebook.com/groups/DevCMedan/
+  - Region: APAC
+  - Github: https://github.com/devc-medan
+
+
 + **DevC [Add yours here]**
   - Leads: 
     - N/A
