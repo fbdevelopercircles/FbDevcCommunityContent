@@ -69,7 +69,7 @@ Useful tools.
 + **DevC Beirut**
   - Leads: 
     - [Salah Awad](https://github.com/salahawad)
-    - [Sarah Abdallah](https://www.facebook.com/groups/DevCBeirut/)
+    - [Sarah Abdallah](https://www.facebook.com/sarah.abdallah.lb)
   - Facebook Group: https://www.facebook.com/groups/DevCBeirut/
   - Region: MENA
   - GitHub: https://github.com/DevCBeirut
