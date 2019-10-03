@@ -76,8 +76,6 @@ Useful articles and learning resources.
 - [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
 - [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
 - [How to prepare for a technical interview - tips and tricks to perform your best](https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/)
-- [Learning to Learn](https://css-tricks.com/learning-to-learn/)
-- [Prioritizing](https://css-tricks.com/prioritizing/)
 - [Introduction to ES6 modules](https://www.bolajiayodeji.com/introduction-to-es6-modules/)
 - [Handling Static Forms - The Client-side Way](https://www.bolajiayodeji.com/handling-static-forms-the-client-side-way/)
 - [How to Contribute to an Open Source Project](https://css-tricks.com/how-to-contribute-to-an-open-source-project/)
