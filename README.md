@@ -159,6 +159,13 @@ Useful articles and learning resources.
   - Region: APAC
   - Github: https://github.com/devc-medan
 
++ **DevC Bandung**
+  - Leads: 
+    - [Ahmad Zaky](https://github.com/azaky)
+    - [Michaela Sandra](https://www.facebook.com/michaela.sandra.18)
+  - Facebook Group: https://www.facebook.com/groups/DevCBandung/
+  - Region: APAC
+  - Github: https://github.com/DevCBandung
 
 + **DevC [Add yours here]**
   - Leads: 
