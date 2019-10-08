@@ -67,6 +67,13 @@
   - Region: APAC
   - Github: https://github.com/devc-medan
 
++ **DevC Indore**
+  - Leads: 
+    - [Mrinal Jain](https://github.com/mrinaljain)
+  - Facebook Group: https://www.facebook.com/groups/DevCIndore/
+  - Region: India
+  - Github: https://github.com/devcindore
+
 
 + **DevC [Add yours here]**
   - Leads: 
