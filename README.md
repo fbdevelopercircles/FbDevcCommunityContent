@@ -129,3 +129,10 @@ Useful articles and learning resources.
 Useful fun activities that can be done at the meetup/events/activities.
 
 - [Kahoot](https://kahoot.com/) - Kahoot! brings engagement and fun to your events and makes learning awesome.
+
+
+## License
+
+Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
+
+The Facebook Developer Circles Community Content documentation (e.g., `.md` files) is [Creative Commons licensed](./LICENSE-docs).
