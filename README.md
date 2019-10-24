@@ -79,6 +79,7 @@ Useful articles and learning resources.
 - [Introduction to ES6 modules](https://www.bolajiayodeji.com/introduction-to-es6-modules/)
 - [Handling Static Forms - The Client-side Way](https://www.bolajiayodeji.com/handling-static-forms-the-client-side-way/)
 - [How to Contribute to an Open Source Project](https://css-tricks.com/how-to-contribute-to-an-open-source-project/)
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
 ## Tools
 
@@ -123,6 +124,7 @@ Useful articles and learning resources.
 - [Ladybug Podcast](https://ladybug.dev/)
 - [GraphQL Radio](https://graphqlradio.com/)
 - [Front End Happy Hour](https://frontendhappyhour.com/)
+- [Go Figure](https://gofigure.go-jek.com/)
 
 
 ## Fun
