@@ -9,6 +9,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Workshops](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
+- [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Developer Circles](./DevCGlobalDirectory.md)
@@ -99,6 +100,10 @@ Useful articles and learning resources.
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 
+## Books
+
+- [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
+- [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 
 ## Videos
 
