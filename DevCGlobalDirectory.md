@@ -73,6 +73,14 @@
   - Facebook Group: https://www.facebook.com/groups/DevCIndore/
   - Region: India
   - Github: https://github.com/devcindore
+  
++ **DevC Pune**
+  - Leads: 
+    - Sangeeta Gupta
+    - Navneet Singh
+  - Facebook Group: https://www.facebook.com/groups/DevCIndore/
+  - Region: India
+  - Github: https://github.com/devcpune
 
 + **DevC Bandung**
   - Leads: 
