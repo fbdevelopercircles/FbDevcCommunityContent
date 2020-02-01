@@ -90,6 +90,17 @@
   - Region: APAC
   - Github: https://github.com/DevCBandung
 
+**DevC Mexico City**
+  - Leads: 
+    - [Adan Figueroa](https://www.facebook.com/Atticusnd)
+    - [Joshua Pedraza](https://www.facebook.com/jochua.pedrazacruz)
+    - [Martin Manriquez](https://www.facebook.com/MANRIQUEZMAR)
+    - [Miguel Lopez](https://www.facebook.com/miguel.lopezj)
+    - [Rihan Topete](https://www.facebook.com/rihantopete)
+  - Facebook Group: https://www.facebook.com/groups/DevCCiudaddeMexico/
+  - Region: Latam
+  - Github:
+
 + **DevC [Add yours here]**
   - Leads: 
     - N/A
