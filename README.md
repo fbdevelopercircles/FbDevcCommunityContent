@@ -114,6 +114,7 @@ Useful articles and learning resources.
 - [Frontend for a server-less stack](https://www.youtube.com/watch?v=XpveOehxvoM), by Brian Douglas
 - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
+- [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 
 ## Podcasts
 
