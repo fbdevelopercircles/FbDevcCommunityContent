@@ -104,6 +104,8 @@ Useful articles and learning resources.
 
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
+- [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
+- [The Effective Engineer](goodreads.com/book/show/25238425-the-effective-engineer), by Edmond Lau
 
 ## Videos
 
