@@ -9,6 +9,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Workshops](#workshops)
 - [Articles](#articles)
 - [Tools](#tools)
+- [First Contributions](#contributions)
 - [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -99,6 +100,18 @@ Useful articles and learning resources.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+
+
+## Contributions
+
+[About Facebook Open Source projects.](https://opensource.facebook.com/)
+
+- [PyTorch.](https://github.com/pytorch/pytorch/labels/Good%20first%20issue) - Make your first contribution to PyTorch.
+- [Hermes.](https://github.com/facebook/hermes/labels/Good%20first%20issue) - Make your first contribution to Hermes.
+- [Hydra.](https://github.com/facebookresearch/hydra/labels/good%20first%20issue) - Make your first contribution to Hydra.
+- [React](https://github.com/facebook/react/labels/good%20first%20issue)- Make your first contribution to React.
+- [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue)- Make your first contribution to Create React App.
+- [React Native](https://github.com/facebook/react-native/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue%22)- Make your first contribution to React Native.
 
 ## Books
 
