@@ -100,6 +100,12 @@
   - Facebook Group: https://www.facebook.com/groups/DevCCiudaddeMexico/
   - Region: Latam
   - Github:
+  + **DevC Hyderabad**
+  - Leads: 
+    - Navya Tatikonda
+  - Facebook Group: https://www.facebook.com/groups/DevCHyderabad/
+  - Region: India
+  - Github: https://github.com/DevCHyderabad
 
 + **DevC [Add yours here]**
   - Leads: 
@@ -107,3 +113,4 @@
   - Facebook Group: [Link to FB Group]
   - Region: [Region]
   - Github: [Link to local DevC GitHub repo (if any)]
+  
