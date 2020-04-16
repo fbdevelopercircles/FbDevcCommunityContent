@@ -113,6 +113,7 @@ Useful articles and learning resources.
 
 ## Videos
 
+- [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg), by Cami Williams
 - [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
 - [GraphQL: The Mental Model](https://www.youtube.com/watch?v=zWhVAN4Tg6M), by Dhaivat Pandya
 - [You need an API: Now what?](https://www.youtube.com/watch?v=uWOWTwJA4rc), by Erin McKean
