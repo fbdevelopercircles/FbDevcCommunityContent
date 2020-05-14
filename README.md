@@ -108,8 +108,8 @@ Useful articles and learning resources.
 - [The Effective Engineer](https://www.goodreads.com/book/show/25238425-the-effective-engineer), by Edmond Lau
 - [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/), by Stephanie Morillo
 - [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog), by  Flavio Copes
-- [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/ref=sr_1_1?ie=UTF8&s=books&qid=1283958591&sr=8-1), by Sheryl Lindsell-Roberts
-- [The Handbook of Technical Writing](https://www.amazon.com/gp/aw/d/1457675528/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8), by Gerald J. Alre
+- [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
+- [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
 
 ## Videos
