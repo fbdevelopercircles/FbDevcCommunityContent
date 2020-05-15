@@ -1,6 +1,29 @@
-### **Facebook Developer Circles Community Content** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome content created by Facebook Developer Circles community members around the world.
+
+<h1 align="center">
+  <a href="https://developers.facebook.com/developercircles/">
+    Facebook Developer Circles Community Content
+  </a>
+</h1>
+
+<p align="center">
+  <strong>Developer Circles are communities of innovators, where aspiring and experienced developers receive free tools to build new skills, grow ideas and boost their careers.</strong><br>
+  These are the curated list of awesome content created by Facebook Developer Circles community members around the world.
+</p>
+
+<p align="center">
+ 
+<a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="This repository is released under the MIT license." />
+  </a>
+  
+  <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
+  
+
+</p>
+
 
 ## Contents
 
