@@ -2,7 +2,6 @@
 
 A curated list of awesome content created by Facebook Developer Circles community members around the world.
 
-
 ## Contents
 
 - [Contents](#contents)
@@ -15,15 +14,13 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Developer Circles](./DevCGlobalDirectory.md)
 - [Fun](#fun)
 
-
-
 ## Workshops
 
 Useful workshop materials.
 
 - [Git training kit](https://github.github.com/training-kit/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
-- [React Router](https://github.com/DevCBali/react-router-workshop) *Bahasa Indonesia
+- [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
 
@@ -81,6 +78,7 @@ Useful articles and learning resources.
 - [Handling Static Forms - The Client-side Way](https://www.bolajiayodeji.com/handling-static-forms-the-client-side-way/)
 - [How to Contribute to an Open Source Project](https://css-tricks.com/how-to-contribute-to-an-open-source-project/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+- [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 
 ## Tools
 
@@ -92,7 +90,7 @@ Useful articles and learning resources.
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
-- [Zeit](https://zeit.co/) - The easiest way to deploy websites 
+- [Vercel](https://vercel.com/) - The easiest way to deploy websites
 - [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 - [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
@@ -107,9 +105,9 @@ Useful articles and learning resources.
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
 - [The Effective Engineer](https://www.goodreads.com/book/show/25238425-the-effective-engineer), by Edmond Lau
 - [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/), by Stephanie Morillo
-- [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog), by  Flavio Copes
-- [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/ref=sr_1_1?ie=UTF8&s=books&qid=1283958591&sr=8-1), by Sheryl Lindsell-Roberts
-- [The Handbook of Technical Writing](https://www.amazon.com/gp/aw/d/1457675528/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8), by Gerald J. Alre
+- [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog), by Flavio Copes
+- [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
+- [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
 
 ## Videos
@@ -140,7 +138,6 @@ Useful articles and learning resources.
 - [Front End Happy Hour](https://frontendhappyhour.com/)
 - [Go Figure](https://gofigure.go-jek.com/)
 
-
 ## Fun
 
 Useful fun activities that can be done at the meetup/events/activities.
@@ -149,7 +146,6 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [Wheel Of Names](https://wheelofnames.com/) - Random name picker with Wheel Of Fortunes style animation.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
-
 
 ## License
 
