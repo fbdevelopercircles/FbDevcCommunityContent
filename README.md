@@ -35,6 +35,8 @@
   <a href="https://developers.facebook.com/developercircles/join/">Community</a>
   <span> · </span>
   <a href="https://developers.facebook.com/developercircles/">Support</a>
+  <span> · </span>
+  <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/DevCGlobalDirectory.md">Directory</a>
 </h3>
 
 
