@@ -1,6 +1,44 @@
-### **Facebook Developer Circles Community Content** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome content created by Facebook Developer Circles community members around the world.
+
+<h1 align="center">
+  <a href="https://developers.facebook.com/developercircles/">
+    Facebook Developer Circles Community Content
+  </a>
+</h1>
+
+<p align="center">
+  <strong>Developer Circles are communities of innovators, where aspiring and experienced developers receive free tools to build new skills, grow ideas and boost their careers.</strong><br>
+  These are the curated list of awesome content created by Facebook Developer Circles community members around the world.
+</p>
+
+<p align="center">
+ 
+<a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="This repository is released under the MIT license." />
+  </a>
+  
+  <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
+  
+
+</p>
+
+
+<h3 align="center">
+  <a href="https://www.developercircleresources.com/learningPath/open-source">Getting Started</a>
+  <span> · </span>
+  <a href="https://www.developercircleresources.com/learningPath/open-source">Learn the Basics</a>
+  <span> · </span>
+  <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">Contribute</a>
+  <span> · </span>
+  <a href="https://developers.facebook.com/developercircles/join/">Community</a>
+  <span> · </span>
+  <a href="https://developers.facebook.com/developercircles/">Support</a>
+  <span> · </span>
+  <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/DevCGlobalDirectory.md">Directory</a>
+</h3>
+
 
 ## Contents
 
@@ -14,7 +52,7 @@ A curated list of awesome content created by Facebook Developer Circles communit
 - [Developer Circles](./DevCGlobalDirectory.md)
 - [Fun](#fun)
 
-## Workshops
+## 💻Workshops
 
 Useful workshop materials.
 
@@ -24,7 +62,7 @@ Useful workshop materials.
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
 
-## Articles
+## 📋Articles
 
 Useful articles and learning resources.
 
@@ -80,7 +118,7 @@ Useful articles and learning resources.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 
-## Tools
+## 🛠Tools
 
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
@@ -98,7 +136,7 @@ Useful articles and learning resources.
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 
-## Books
+## 📖Books
 
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
@@ -110,7 +148,7 @@ Useful articles and learning resources.
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
 
-## Videos
+## 📺Videos
 
 - [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg), by Cami Williams
 - [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
@@ -122,7 +160,7 @@ Useful articles and learning resources.
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 
-## Podcasts
+## 🎙Podcasts
 
 - [The Diff](https://thediffpodcast.com/)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
@@ -138,7 +176,7 @@ Useful articles and learning resources.
 - [Front End Happy Hour](https://frontendhappyhour.com/)
 - [Go Figure](https://gofigure.go-jek.com/)
 
-## Fun
+## 🎊Fun
 
 Useful fun activities that can be done at the meetup/events/activities.
 
