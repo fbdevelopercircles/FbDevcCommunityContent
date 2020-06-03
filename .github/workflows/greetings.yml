@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hi :wave:, we welcome all kinds of contributions, please feel free to contribute and/or ask questions.'
+        pr-message: 'Hi :wave:, we welcome all kinds of contributions, please feel free to contribute and/or ask questions.'
