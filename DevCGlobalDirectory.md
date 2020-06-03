@@ -99,8 +99,9 @@
     - [Rihan Topete](https://www.facebook.com/rihantopete)
   - Facebook Group: https://www.facebook.com/groups/DevCCiudaddeMexico/
   - Region: Latam
-  - Github:
-  + **DevC Hyderabad**
+  - Github: https://github.com/Facebook-Developers-Circle-CDMX-Retos
+  
++ **DevC Hyderabad**
   - Leads: 
     - Navya Tatikonda
   - Facebook Group: https://www.facebook.com/groups/DevCHyderabad/
