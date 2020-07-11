@@ -116,6 +116,16 @@
   - Facebook Group: https://www.facebook.com/groups/DevCBangkok/
   - Region: APAC
   - Github: https://github.com/devcbkk
+  
++ **DevC Jakarta**
+  - Leads:
+    - [Anne Regina](https://www.facebook.com/annereginancy)
+    - [Luri Darmawan](https://www.facebook.com/luridarmawan)
+    - [Riza Fahmi](https://www.facebook.com/rizafahmi)
+    - [Nila Wilda Al Aluf](https://www.facebook.com/nilawilda)
+  - Facebook Group: https://www.facebook.com/groups/DevCJakarta/
+  - Region: APAC
+  - Github: https://github.com/devcjakarta
 
 + **DevC [Add yours here]**
   - Leads:
