@@ -126,6 +126,13 @@
   - Facebook Group: https://www.facebook.com/groups/DevCJakarta/
   - Region: APAC
   - Github: https://github.com/devcjakarta
+  
+  + **DevC Kathmandu**
+  - Leads:
+    - [Chandan Thakur](https://www.facebook.com/iCBStaff)
+  - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
+  - Region: Nepal
+  - Github: 
 
 + **DevC [Add yours here]**
   - Leads:
