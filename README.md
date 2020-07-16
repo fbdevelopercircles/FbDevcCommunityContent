@@ -43,14 +43,14 @@
 ## Contents
 
 - [Contents](#contents)
-- [Workshops](#workshops)
-- [Articles](#articles)
-- [Tools](#tools)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Developer Circles](./DevCGlobalDirectory.md)
-- [Fun](#fun)
+- [💻Workshops](#workshops)
+- [📋Articles](#articles)
+- [🛠Tools](#tools)
+- [📖Books](#books)
+- [📺Videos](#videos)
+- [🎙Podcasts](#podcasts)
+- [🎊Fun](#fun)
+- [License](#license)
 
 ## 💻Workshops
 
@@ -66,6 +66,7 @@ Useful workshop materials.
 
 Useful articles and learning resources.
 
+- [Prepare for you next Interview](https://github.com/Nabagata/interview-prep)
 - [Hello GraphQL Using Express](https://www.wisdomgeek.com/development/web-development/hello-graphql-using-express/)
 - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
