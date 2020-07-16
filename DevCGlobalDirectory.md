@@ -127,7 +127,7 @@
   - Region: APAC
   - Github: https://github.com/devcjakarta
   
-  + **DevC Kathmandu**
++ **DevC Kathmandu**
   - Leads:
     - [Chandan Thakur](https://www.facebook.com/iCBStaff)
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
