@@ -164,8 +164,8 @@ Useful articles and learning resources.
 
 - [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive th mission of building open source community.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics.
-- [JAMstack Radio](https://www.netlify.com/tags/podcast/) - Exploring the Jamstack, static sites, and the future of web development.
-- [Syntax.fm](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+- [JAMstack Radio](https://www.netlify.com/tags/podcast/) - Exploring the Jamstack, static sites, and the future of Web Development.
+- [Syntax.fm](https://syntax.fm/) - A Tasty Treats podcast for Web Developers.
 - [Full Stack Radio](http://www.fullstackradio.com/) - Covering everything from product design and UI/UX to unit testing and system administration.
 - [Shop Talk](https://shoptalkshow.com/) - About building websites.
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) - The JavaScript lovers podcast.
