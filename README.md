@@ -163,19 +163,19 @@ Useful articles and learning resources.
 
 ## 🎙Podcasts
 
-- [The Diff](https://thediffpodcast.com/)
-- [Software Engineering Daily](https://softwareengineeringdaily.com/)
-- [JAMstack Radio](https://www.netlify.com/tags/podcast/)
-- [Syntax.fm](https://syntax.fm/)
-- [Full Stack Radio](http://www.fullstackradio.com/)
-- [Shop Talk](https://shoptalkshow.com/)
-- [JavaScript Jabber](https://devchat.tv/js-jabber/)
-- [React Podcast](https://reactpodcast.simplecast.fm/)
-- [Code Newbie](https://www.codenewbie.org/podcast)
-- [Ladybug Podcast](https://ladybug.dev/)
-- [GraphQL Radio](https://graphqlradio.com/)
-- [Front End Happy Hour](https://frontendhappyhour.com/)
-- [Go Figure](https://gofigure.go-jek.com/)
+- [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive th mission of building open source community.
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics.
+- [JAMstack Radio](https://www.netlify.com/tags/podcast/) - Exploring the Jamstack, static sites, and the future of Web Development.
+- [Syntax.fm](https://syntax.fm/) - A Tasty Treats podcast for Web Developers.
+- [Full Stack Radio](http://www.fullstackradio.com/) - Covering everything from product design and UI/UX to unit testing and system administration.
+- [Shop Talk](https://shoptalkshow.com/) - About building websites.
+- [JavaScript Jabber](https://devchat.tv/js-jabber/) - The JavaScript lovers podcast.
+- [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with your favorite developers.
+- [Code Newbie](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
+- [Ladybug Podcast](https://ladybug.dev/) - Women debugging the tech industry.
+- [GraphQL Radio](https://graphqlradio.com/) - About the GraphQL ecosystem. Monthly talks with experienced developers and experts.
+- [Front End Happy Hour](https://frontendhappyhour.com/) - Featuring of engineers from Netflix, Twitch, & Atlassian talking things Front End development.
+- [Go Figure](https://gofigure.go-jek.com/) - A podcast discussing the inner workings of tech companies.
 
 ## 🎊Fun
 
