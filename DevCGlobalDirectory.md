@@ -126,7 +126,15 @@
   - Facebook Group: https://www.facebook.com/groups/DevCJakarta/
   - Region: APAC
   - Github: https://github.com/devcjakarta
-
+ 
++ **DevC Lahore**
+  - Leads:
+    - [Mikaal Anwar](https://www.facebook.com/mikaal.anwar)
+    - [Salman Tariq](https://www.facebook.com/salman.tariq.921025)
+  - Facebook Group: https://www.facebook.com/groups/DevCLahore/
+  - Region: Lahore
+  - Github: https://github.com/devclahore
+  
 + **DevC [Add yours here]**
   - Leads:
     - N/A
