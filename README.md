@@ -61,6 +61,7 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+- [Packt](https://github.com/PacktWorkshops)
 
 ## 📋Articles
 
