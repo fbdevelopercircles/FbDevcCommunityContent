@@ -78,7 +78,7 @@
   - Leads:
     - Sangeeta Gupta
     - Navneet Singh
-  - Facebook Group: https://www.facebook.com/groups/DevCIndore/
+  - Facebook Group: https://www.facebook.com/groups/DevCPune/
   - Region: India
   - Github: https://github.com/devcpune
 
