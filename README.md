@@ -66,7 +66,6 @@ Useful workshop materials.
 
 Useful articles and learning resources.
 
-- [Hello GraphQL Using Express](https://www.wisdomgeek.com/development/web-development/hello-graphql-using-express/)
 - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
@@ -118,6 +117,10 @@ Useful articles and learning resources.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
+
+## 📝Blogs
+
+- [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related blog posts
 
 ## 🛠Tools
 
