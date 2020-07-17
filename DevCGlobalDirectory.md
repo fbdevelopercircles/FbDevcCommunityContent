@@ -105,9 +105,7 @@
   </summary>
 
   - Lead(s):
-    - [Le Thanh Hung](https://www.facebook.com/lethanhhung028)
-    - [Tran Duy Linh](https://www.facebook.com/DuyLinhsl)
-    - [Le Hanh Quyen](https://www.facebook.com/quinlele18)
+    - [Le Thanh Hung](https://github.com/hungle90)
   - Facebook Group: https://www.facebook.com/groups/DevCHanoi
   - GitHub: https://github.com/DevCHanoi
 </details>
