@@ -143,7 +143,7 @@
     - [Clement Tang](https://www.facebook.com/clementtang)
     - [Layla Xu](https://www.facebook.com/haoyue.xu)
     - [Sean Liu](https://www.facebook.com/modeerf)
-  - Facebook Group: https://www.facebook.com/groups/DevCTaipei/members/admins
+  - Facebook Group: https://www.facebook.com/groups/DevCTaipei
   - Region: APAC
   - Github: 
 
