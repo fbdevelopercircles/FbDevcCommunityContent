@@ -213,6 +213,16 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
 </details>
 
+<details>
+  <summary>
+🔵 Developer Circles Directory
+  </summary>
+  
+<br />  
+
+[Click here](./DevCGlobalDirectory.md)
+</details>
+
 ## License
 
 Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
