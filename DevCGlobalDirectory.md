@@ -99,6 +99,18 @@
   - Github: https://github.com/devcjakarta
 </details>
 
+<details>
+  <summary>
+    <b>DevC Hanoi</b>
+  </summary>
+
+  - Lead(s):
+    - [Le Thanh Hung](https://github.com/hungle90)
+  - Facebook Group: https://www.facebook.com/groups/DevCHanoi
+  - GitHub: https://github.com/DevCHanoi
+</details>
+
+
 ## India
 
 <details>
