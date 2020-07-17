@@ -78,7 +78,7 @@
   - Leads:
     - Sangeeta Gupta
     - Navneet Singh
-  - Facebook Group: https://www.facebook.com/groups/DevCIndore/
+  - Facebook Group: https://www.facebook.com/groups/DevCPune/
   - Region: India
   - Github: https://github.com/devcpune
 
@@ -126,7 +126,7 @@
   - Facebook Group: https://www.facebook.com/groups/DevCJakarta/
   - Region: APAC
   - Github: https://github.com/devcjakarta
- 
+  
 + **DevC Lahore**
   - Leads:
     - [Mikaal Anwar](https://www.facebook.com/mikaal.anwar)
@@ -135,6 +135,14 @@
   - Region: Lahore
   - Github: https://github.com/devclahore
   
++ **DevC Uyo**
+  - Leads:
+    - [Edidiong Asikpo](https://github.com/didicodes)
+    - [Ekene Christian](https://github.com/officialchriseo)
+  - Facebook Group: https://facebook.com/groups/devcuyo
+  - Region: West Africa
+  - Github: https://github.com/devcuyo
+ 
 + **DevC [Add yours here]**
   - Leads:
     - N/A
