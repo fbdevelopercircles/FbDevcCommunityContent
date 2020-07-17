@@ -112,6 +112,16 @@
 
 <details>
   <summary>
+    <b>DevC Da Nang</b>
+  </summary>
+
+  - Lead(s):
+    - [Tran Hanh Trang](https://github.com/tranghanhtran)
+  - Facebook Group: https://www.facebook.com/groups/devcdanang/
+</details>
+
+<details>
+  <summary>
     <b>DevC Ho Chi Minh City</b>
   </summary>
 
@@ -119,6 +129,7 @@
     - [Duong The Vinh](https://github.com/leovinh)
   - Facebook Group: https://www.facebook.com/groups/DevCHoChiMinhCity/
 </details>
+
 
 ## India
 
