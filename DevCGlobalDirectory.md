@@ -135,6 +135,19 @@
   - Region: West Africa
   - Github: https://github.com/devcuyo
 
+**DevC Taipei**
+  - Leads:
+    - [HyeJin Kang](https://www.facebook.com/hj.kang0521)
+    - [Trimikha Valentius](https://www.facebook.com/trimikhavalentius)
+    - [Kevin Huang](https://www.facebook.com/bubukevin)
+    - [Clement Tang](https://www.facebook.com/clementtang)
+    - [Layla Xu](https://www.facebook.com/haoyue.xu)
+    - [Sean Liu](https://www.facebook.com/modeerf)
+  - Facebook Group: https://www.facebook.com/groups/DevCTaipei/members/admins
+  - Region: APAC
+  - Github: 
+
+
 + **DevC [Add yours here]**
   - Leads:
     - N/A
