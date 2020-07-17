@@ -17,29 +17,8 @@
   - Github: https://github.com/Facebook-Developers-Circle-CDMX-Retos
 </details>
 
-<details>
-  <summary>
-    <b>DevC [Add yours here]</b>
-  </summary>
-
-  - Lead(s):
-    - N/A
-  - Facebook Group: [Link to FB Group]
-  - Github: [Link to local DevC GitHub repo (if any)]
-</details>
-
 ## NORAM (North America)
 
-<details>
-  <summary>
-    <b>DevC [Add yours here]</b>
-  </summary>
-
-  - Lead(s):
-    - N/A
-  - Facebook Group: [Link to FB Group]
-  - Github: [Link to local DevC GitHub repo (if any)]
-</details>
 
 ## APAC (Asia Pacific)
 
@@ -120,17 +99,6 @@
   - Github: https://github.com/devcjakarta
 </details>
 
-<details>
-  <summary>
-    <b>DevC [Add yours here]</b>
-  </summary>
-
-  - Lead(s):
-    - N/A
-  - Facebook Group: [Link to FB Group]
-  - Github: [Link to local DevC GitHub repo (if any)]
-</details>
-
 ## India
 
 <details>
@@ -177,17 +145,6 @@
     - Navya Tatikonda
   - Facebook Group: https://www.facebook.com/groups/DevCHyderabad
   - Github: https://github.com/DevCHyderabad
-</details>
-
-<details>
-  <summary>
-    <b>DevC [Add yours here]</b>
-  </summary>
-
-  - Lead(s):
-    - N/A
-  - Facebook Group: [Link to FB Group]
-  - Github: [Link to local DevC GitHub repo (if any)]
 </details>
 
 ## EMEA (Europe, the Middle East and Africa)
@@ -250,6 +207,8 @@
   - Facebook Group: https://facebook.com/groups/devcuyo
   - Github: https://github.com/devcuyo
 </details>
+
+## Template
 
 <details>
   <summary>
