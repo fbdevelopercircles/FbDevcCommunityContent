@@ -70,7 +70,6 @@ Useful articles and learning resources.
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
 - [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
-- [Build a Low Latency, Globally Distributed Python App using Macrometa's Geo-Distributed Database Cloud.]()
 - [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
 - [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
 - [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
