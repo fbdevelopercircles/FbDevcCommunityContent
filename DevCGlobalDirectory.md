@@ -137,7 +137,7 @@
 
 + **DevC Hanoi**
   - Leads:
-    - [Le Thanh Hung](https://www.facebook.com/lethanhhung028)
+    - [Le Thanh Hung](https://github.com/hungle90)
     - [Tran Duy Linh](https://tranduylinh.com/)
     - [Le Hanh Quyen](https://www.facebook.com/quinlele18)
   - Facebook Group: https://www.facebook.com/groups/DevCHanoi
