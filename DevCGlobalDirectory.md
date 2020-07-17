@@ -8,11 +8,11 @@
   </summary>
 
   - Lead(s):
-    - [Adan Figueroa](https://www.facebook.com/Atticusnd)
-    - [Joshua Pedraza](https://www.facebook.com/jochua.pedrazacruz)
-    - [Martin Manriquez](https://www.facebook.com/MANRIQUEZMAR)
-    - [Miguel Lopez](https://www.facebook.com/miguel.lopezj)
-    - [Rihan Topete](https://www.facebook.com/rihantopete)
+    - Adan Figueroa
+    - Joshua Pedraza
+    - Martin Manriquez
+    - Miguel Lopez
+    - Rihan Topete
   - Facebook Group: https://www.facebook.com/groups/DevCCiudaddeMexico
   - Github: https://github.com/Facebook-Developers-Circle-CDMX-Retos
 </details>
@@ -67,7 +67,7 @@
 
   - Lead(s):
     - [Ahmad Zaky](https://github.com/azaky)
-    - [Michaela Sandra](https://www.facebook.com/michaela.sandra.18)
+    - Michaela Sandra
   - Facebook Group: https://www.facebook.com/groups/DevCBandung
   - Github: https://github.com/DevCBandung
 </details>
@@ -78,9 +78,9 @@
   </summary>
 
   - Lead(s):
-    - [Virot Chiraphadhanakul (Ta)](https://www.facebook.com/ta.chiraphadhanakul)
-    - [Nattanicha Phatharamalai (Natty)](https://www.facebook.com/nattanicha)
-    - [Kan Ouivirach (Kan)](https://www.facebook.com/zkan.cs)
+    - Virot Chiraphadhanakul (Ta)
+    - Nattanicha Phatharamalai (Natty)
+    - Kan Ouivirach (Kan)
   - Facebook Group: https://www.facebook.com/groups/DevCBangkok
   - Github: https://github.com/devcbkk
 </details>
@@ -91,10 +91,10 @@
   </summary>
 
   - Lead(s):
-    - [Anne Regina](https://www.facebook.com/annereginancy)
-    - [Luri Darmawan](https://www.facebook.com/luridarmawan)
-    - [Riza Fahmi](https://www.facebook.com/rizafahmi)
-    - [Nila Wilda Al Aluf](https://www.facebook.com/nilawilda)
+    - Anne Regina
+    - Luri Darmawan
+    - Riza Fahmi
+    - Nila Wilda Al Aluf
   - Facebook Group: https://www.facebook.com/groups/DevCJakarta
   - Github: https://github.com/devcjakarta
 </details>
@@ -156,7 +156,7 @@
 
   - Lead(s):
     - [Salah Awad](https://github.com/salahawad)
-    - [Sarah Abdallah](https://www.facebook.com/sarah.abdallah.lb)
+    - Sarah Abdallah
   - Facebook Group: https://www.facebook.com/groups/DevCBeirut/
   - GitHub: https://github.com/DevCBeirut
 </details>
