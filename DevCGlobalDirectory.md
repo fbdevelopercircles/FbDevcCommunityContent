@@ -135,6 +135,15 @@
   - Region: West Africa
   - Github: https://github.com/devcuyo
 
++ **DevC Hanoi**
+  - Leads:
+    - [Le Thanh Hung](https://www.facebook.com/lethanhhung028)
+    - [Tran Duy Linh](https://tranduylinh.com/)
+    - [Le Hanh Quyen](https://www.facebook.com/quinlele18)
+  - Facebook Group: https://www.facebook.com/groups/DevCHanoi
+  - Region: APAC
+  - GitHub: https://github.com/DevCHanoi
+
 + **DevC [Add yours here]**
   - Leads:
     - N/A
