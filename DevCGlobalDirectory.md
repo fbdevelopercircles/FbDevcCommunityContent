@@ -131,8 +131,8 @@
   - Leads:
     - [Chandan Thakur](https://www.facebook.com/iCBStaff)
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
-  - Region: Nepal
-  - Github: 
+  - Region: South Asia
+  - Github: N/A
 
 + **DevC [Add yours here]**
   - Leads:
