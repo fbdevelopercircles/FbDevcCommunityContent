@@ -103,7 +103,7 @@
   
 + **DevC Hyderabad**
   - Leads: 
-    - Navya Tatikonda
+    - [Navya Tatikonda](https://www.facebook.com/iNavyaTatikonda)
   - Facebook Group: https://www.facebook.com/groups/DevCHyderabad/
   - Region: India
   - Github: https://github.com/DevCHyderabad
