@@ -127,6 +127,14 @@
   - Region: APAC
   - Github: https://github.com/devcjakarta
 
+**DevC Uyo**
+  - Leads:
+    - [Edidiong Asikpo](https://github.com/didicodes)
+    - [Ekene Christian](https://github.com/officialchriseo)
+  - Facebook Group: https://facebook.com/groups/devcuyo
+  - Region: West Africa
+  - Github: https://github.com/devcuyo
+
 + **DevC [Add yours here]**
   - Leads:
     - N/A
