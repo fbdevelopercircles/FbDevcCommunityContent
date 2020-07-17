@@ -42,9 +42,9 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Workshops](#workshops)
 - [Articles](#articles)
+- [Blogs](#blogs)
 - [Tools](#tools)
 - [Books](#books)
 - [Videos](#videos)
