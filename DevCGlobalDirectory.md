@@ -110,6 +110,15 @@
   - GitHub: https://github.com/DevCHanoi
 </details>
 
+<details>
+  <summary>
+    <b>DevC Ho Chi Minh City</b>
+  </summary>
+
+  - Lead(s):
+    - [Duong The Vinh](https://github.com/leovinh)
+  - Facebook Group: https://www.facebook.com/groups/DevCHoChiMinhCity/
+</details>
 
 ## India
 
