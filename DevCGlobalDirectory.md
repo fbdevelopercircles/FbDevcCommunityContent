@@ -134,11 +134,43 @@
   - Facebook Group: https://facebook.com/groups/devcuyo
   - Region: West Africa
   - Github: https://github.com/devcuyo
-
-+ **DevC [Add yours here]**
-  - Leads:
-    - N/A
-  - Facebook Group: [Link to FB Group]
-  - Region: [Region]
-  - Github: [Link to local DevC GitHub repo (if any)]
   
+  **DevC Mumbai**
+  - Leads:
+    - [Prerak Gala](https://www.facebook.com/prerak.gala.9)
+    - [Jatin Malhotra](https://www.facebook.com/jatin1malhotra)
+    - [Satyajeet Singh](https://www.facebook.com/satyajeet.singh)
+  - Facebook Group: https://www.facebook.com/groups/DevCMumbai
+  - Region: India
+   
+**DevC Goa**
+  - Leads:
+    - [Jonathan Peréira](https://www.facebook.com/jonathanpereira)
+  - Facebook Group:  https://www.facebook.com/groups/DevCGoa/
+  - Region: India
+    
+**DevC Ahmedabad**
+  - Leads:
+    - [Rishabh Agnihotri](https://www.facebook.com/rishabh.agnihotri.001)
+  - Facebook Group: https://www.facebook.com/groups/DevCAhmedabad
+  - Region: India
+  
+**DevC Bengaluru**
+  - Leads:
+    - [Satyajeet Singh](https://www.facebook.com/satyajeet.singh)
+    - Nelson J Vasanth
+  - Facebook Group: https://www.facebook.com/groups/DevCBengaluru
+  - Region: India
+    
+**DevC Chennai**
+  - Leads:
+    - [Srikanth Mohan](https://www.facebook.com/cap10cheeka)
+  - Facebook Group: https://www.facebook.com/groups/DevCChennai
+  - Region: India
+  
+  + **DevC [Add yours here]**
+    - Leads:
+      - N/A
+    - Facebook Group: [Link to FB Group]
+    - Region: [Region]
+    - Github: [Link to local DevC GitHub repo (if any)]  
