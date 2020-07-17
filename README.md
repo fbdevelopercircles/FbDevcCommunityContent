@@ -1,5 +1,5 @@
-
-
+<div>
+  
 <h1 align="center">
   <a href="https://developers.facebook.com/developercircles/">
     Facebook Developer Circles Community Content
@@ -20,10 +20,7 @@
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
-  
-
 </p>
-
 
 <h3 align="center">
   <a href="https://www.developercircleresources.com/learningPath/open-source">Getting Started</a>
@@ -39,6 +36,11 @@
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/DevCGlobalDirectory.md">Directory</a>
 </h3>
 
+</div>
+
+---
+
+<br />
 
 ## Contents
 
