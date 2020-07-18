@@ -312,7 +312,6 @@
   </summary>
 
   - Lead(s):
-<<<<<<< HEAD
     - [Tane J. Tangu](https://github.com/tanerochris)
   - Facebook Group: https://www.facebook.com/groups/DevCBuea
   - Github: https://github.com/devcbuea
@@ -327,13 +326,6 @@
   - Lead(s):
     - [Herve Dzeudjouo](https://github.com/dherve19)
   - Facebook Group: https://www.facebook.com/groups/devcdouala/
-=======
-    - [Enmanuel Toribio](https://github.com/eatskolnikov)
-    - [Giancarlos Castillo](https://github.com/GianCastle)
-    - [Harry Vizcaino](https://github.com/harysvizcaino)
-    - [Julissa Mateo](https://julissa.tech/)
-  - Facebook Group: https://www.facebook.com/groups/628943874499693
->>>>>>> ba876b8... Update DevCGlobalDirectory.md
 </details>
 
 ## Template
