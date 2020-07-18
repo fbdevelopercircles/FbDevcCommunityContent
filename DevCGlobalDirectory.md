@@ -19,6 +19,19 @@
 
 ## NORAM (North America)
 
+<details>
+  <summary>
+    <b>DevC Santo Domingo</b>
+  </summary>
+
+  - Lead(s):
+    - [Enmanuel Toribio](https://github.com/eatskolnikov)
+    - [Giancarlos Castillo](https://github.com/GianCastle)
+    - [Harry Vizcaino](https://github.com/harysvizcaino)
+    - [Julissa Mateo](https://julissa.tech/)
+  - Facebook Group: https://www.facebook.com/groups/628943874499693
+</details>
+
 
 ## APAC (Asia Pacific)
 
