@@ -1,5 +1,5 @@
-
-
+<div>
+  
 <h1 align="center">
   <a href="https://developers.facebook.com/developercircles/">
     Facebook Developer Circles Community Content
@@ -20,10 +20,7 @@
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
-  
-
 </p>
-
 
 <h3 align="center">
   <a href="https://www.developercircleresources.com/learningPath/open-source">Getting Started</a>
@@ -39,20 +36,20 @@
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/DevCGlobalDirectory.md">Directory</a>
 </h3>
 
+</div>
+
+---
+
+<br />
 
 ## Contents
 
-- [Workshops](#workshops)
-- [Articles](#articles)
-- [Blogs](#blogs)
-- [Tools](#tools)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Developer Circles](./DevCGlobalDirectory.md)
-- [Fun](#fun)
+<details>
+  <summary>
+    💻 Workshops
+  </summary>
 
-## 💻Workshops
+<br />
 
 Useful workshop materials.
 
@@ -61,8 +58,14 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+</details>
 
-## 📋Articles
+<details>
+  <summary>
+    📋 Articles
+  </summary>
+
+<br />
 
 Useful articles and learning resources.
 
@@ -70,7 +73,6 @@ Useful articles and learning resources.
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
 - [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
-- [Build a Low Latency, Globally Distributed Python App using Macrometa's Geo-Distributed Database Cloud.]()
 - [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
 - [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
 - [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
@@ -96,15 +98,27 @@ Useful articles and learning resources.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
+</details>
 
-## 📝Blogs
+<details>
+  <summary>
+    📝 Blogs
+  </summary>
+
+<br />
 
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
+</details>
 
-## 🛠Tools
+<details>
+  <summary>
+    🛠 Tools
+  </summary>
+  
+<br />
 
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
@@ -121,8 +135,14 @@ Useful articles and learning resources.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+</details>
 
-## 📖Books
+<details>
+  <summary>
+    📖 Books
+  </summary>
+
+<br />
 
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
@@ -133,8 +153,14 @@ Useful articles and learning resources.
 - [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
+</details>
 
-## 📺Videos
+<details>
+  <summary>
+    📺 Videos
+  </summary>
+
+<br />
 
 - [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg), by Cami Williams
 - [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
@@ -146,8 +172,14 @@ Useful articles and learning resources.
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
+</details>
 
-## 🎙Podcasts
+<details>
+  <summary>
+    🎙 Podcasts
+  </summary>
+
+<br />
 
 - [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive th mission of building open source community.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics.
@@ -162,8 +194,14 @@ Useful articles and learning resources.
 - [GraphQL Radio](https://graphqlradio.com/) - About the GraphQL ecosystem. Monthly talks with experienced developers and experts.
 - [Front End Happy Hour](https://frontendhappyhour.com/) - Featuring of engineers from Netflix, Twitch, & Atlassian talking things Front End development.
 - [Go Figure](https://gofigure.go-jek.com/) - A podcast discussing the inner workings of tech companies.
+</details>
 
-## 🎊Fun
+<details>
+  <summary>
+    🎊 Fun
+  </summary>
+
+<br />
 
 Useful fun activities that can be done at the meetup/events/activities.
 
@@ -172,6 +210,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
+</details>
 
 ## License
 
