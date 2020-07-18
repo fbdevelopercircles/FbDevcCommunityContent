@@ -15,6 +15,15 @@ We actively welcome your pull requests.
 1. Fork the repo and create your branch from `master`.
 2. If you've added code that should be tested, add tests.
 3. If you haven't already, complete the Contributor License Agreement ("CLA").
+4. Ensure to describe your pull request using the pull request template.
+
+## Guidelines
+While contributing to the [DevC global directory](DevCGlobalDirectory.md), please ensure to use the format below:
+
+1. Add the DevC under the appropriate region heading.
+2. Lead(s) name(s) should be linked to their GitHub account.
+3. DevC `Facebook Group` should be linked to their Facebook group.
+4. `Github` should be linked to the DevC's local GitHub organization (if any).
 
 ## Contributor License Agreement ("CLA")
 In order to accept your pull request, we need you to submit a CLA. You only need
