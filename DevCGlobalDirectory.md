@@ -130,6 +130,19 @@
   - Facebook Group: https://www.facebook.com/groups/DevCHoChiMinhCity/
 </details>
 
+<details>
+  <summary>
+    <b>DevC Taipei</b>
+  </summary>
+
+  - Lead(s):
+    - [Kevin Huang](https://github.com/kevinbubu)
+    - [Clement Tang](https://github.com/clementtang)
+    - [Sean Liu](https://github.com/liushihyen)
+  - Facebook Group: https://www.facebook.com/groups/DevCTaipei
+  - Github: 
+</details>
+
 
 ## India
 
@@ -315,18 +328,6 @@
   - Facebook Group: https://www.facebook.com/groups/devcdouala/
 </details>
 
-<details>
-  <summary>
-    <b>DevC Taipei</b>
-  </summary>
-  
-  - Lead(s):
-    - [Kevin Huang](https://github.com/kevinbubu)
-    - [Clement Tang](https://github.com/clementtang)
-    - [Sean Liu](https://github.com/liushihyen)
-  - Facebook Group: https://www.facebook.com/groups/DevCTaipei
-  - Github: 
-</details>
 
 ## Template
 
