@@ -204,17 +204,6 @@
 
 <details>
   <summary>
-    <b>DevC Bengaluru</b>
-  </summary>
-
-  - Lead(s):
-    - Nelson J Vasanth
-    - Satyajeet Singh
-  - Facebook Group: https://www.facebook.com/groups/DevCBengaluru
-</details>
-
-<details>
-  <summary>
     <b>DevC Ahmedabad</b>
   </summary>
 
@@ -241,7 +230,6 @@
   - Lead(s):
     - Jatin Malhotra
     - Prerak Gala
-    - Satyajeet Singh
   - Facebook Group: https://www.facebook.com/groups/DevCMumbai
 </details>
 
