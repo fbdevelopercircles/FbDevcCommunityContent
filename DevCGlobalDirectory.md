@@ -293,6 +293,28 @@
   - Github: https://github.com/devcuyo
 </details>
 
+<details>
+  <summary>
+    <b>DevC Buea</b>
+  </summary>
+
+  - Lead(s):
+    - [Tane J. Tangu](https://github.com/tanerochris)
+  - Facebook Group: https://www.facebook.com/groups/DevCBuea
+  - Github: https://github.com/devcbuea
+</details>
+
+
+<details>
+  <summary>
+    <b>DevC Douala</b>
+  </summary>
+
+  - Lead(s):
+    - [Herve Dzeudjouo](https://github.com/dherve19)
+  - Facebook Group: https://www.facebook.com/groups/devcdouala/
+</details>
+
 ## Template
 
 <details>
