@@ -154,7 +154,7 @@
   </summary>
 
   - Lead(s): 
-    - Navya Tatikonda
+    - [Navya Tatikonda](https://github.com/NavyaTatikonda)
   - Facebook Group: https://www.facebook.com/groups/DevCHyderabad
   - Github: https://github.com/DevCHyderabad
 </details>
