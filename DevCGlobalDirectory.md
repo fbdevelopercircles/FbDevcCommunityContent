@@ -300,7 +300,7 @@
 
   - Lead(s):
     - [Tane J. Tangu](https://github.com/tanerochris)
-  - Facebook Group: https://web.facebook.com/groups/DevCBuea
+  - Facebook Group: https://www.facebook.com/groups/DevCBuea
   - Github: https://github.com/devcbuea
 </details>
 
