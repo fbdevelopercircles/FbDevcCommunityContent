@@ -162,6 +162,8 @@ Useful articles and learning resources.
 - [GraphQL Radio](https://graphqlradio.com/) - About the GraphQL ecosystem. Monthly talks with experienced developers and experts.
 - [Front End Happy Hour](https://frontendhappyhour.com/) - Featuring of engineers from Netflix, Twitch, & Atlassian talking things Front End development.
 - [Go Figure](https://gofigure.go-jek.com/) - A podcast discussing the inner workings of tech companies.
+- [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow Podcast is a twice-weekly conversation about working in software development, learning to code, and the art and culture of computer programming.
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly updates on Cloud Platform professionals, answer some of your burning questions, and introduce you to cool new things!
 
 ## 🎊Fun
 
