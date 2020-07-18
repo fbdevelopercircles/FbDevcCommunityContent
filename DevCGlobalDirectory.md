@@ -159,6 +159,59 @@
   - Github: https://github.com/DevCHyderabad
 </details>
 
+<details>
+  <summary>
+    <b>DevC Chennai</b>
+  </summary>
+
+  - Lead(s):
+    - Srikanth Mohan
+  - Facebook Group: https://www.facebook.com/groups/DevCChennai
+</details>
+
+<details>
+  <summary>
+    <b>DevC Bengaluru</b>
+  </summary>
+
+  - Lead(s):
+    - Nelson J Vasanth
+    - Satyajeet Singh
+  - Facebook Group: https://www.facebook.com/groups/DevCBengaluru
+</details>
+
+<details>
+  <summary>
+    <b>DevC Ahmedabad</b>
+  </summary>
+
+  - Lead(s):
+    - Rishabh Agnihotri
+  - Facebook Group: https://www.facebook.com/groups/DevCAhmedabad
+</details>
+
+<details>
+  <summary>
+    <b>DevC Goa</b>
+  </summary>
+
+  - Lead(s):
+    - Jonathan Peréira
+  - Facebook Group: https://www.facebook.com/groups/DevCGoa
+</details>
+
+<details>
+  <summary>
+    <b>DevC Mumbai</b>
+  </summary>
+
+  - Lead(s):
+    - Jatin Malhotra
+    - Prerak Gala
+    - Satyajeet Singh
+  - Facebook Group: https://www.facebook.com/groups/DevCMumbai
+</details>
+
 ## EMEA (Europe, the Middle East and Africa)
 
 <details>
