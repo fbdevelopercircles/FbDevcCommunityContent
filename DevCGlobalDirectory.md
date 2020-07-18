@@ -162,7 +162,7 @@
   </summary>
 
   - Lead(s):
-    - Sangeeta Gupta
+    - [Sangeeta Gupta](https://github.com/sangeetagupta2068)
     - Navneet Singh
   - Facebook Group: https://www.facebook.com/groups/DevCPune
   - Github: https://github.com/devcpune
