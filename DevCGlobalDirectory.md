@@ -137,12 +137,9 @@
 
 **DevC Taipei**
   - Leads:
-    - [HyeJin Kang](https://www.facebook.com/hj.kang0521)
-    - [Trimikha Valentius](https://www.facebook.com/trimikhavalentius)
-    - [Kevin Huang](https://www.facebook.com/bubukevin)
-    - [Clement Tang](https://www.facebook.com/clementtang)
-    - [Layla Xu](https://www.facebook.com/haoyue.xu)
-    - [Sean Liu](https://www.facebook.com/modeerf)
+    - [Kevin Huang](https://github.com/kevinbubu)
+    - [Clement Tang](https://github.com/clementtang)
+    - [Sean Liu](https://github.com/liushihyen)
   - Facebook Group: https://www.facebook.com/groups/DevCTaipei
   - Region: APAC
   - Github: 
