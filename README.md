@@ -99,6 +99,7 @@ Useful articles and learning resources.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
+
 </details>
 
 <details>
@@ -195,6 +196,8 @@ Useful articles and learning resources.
 - [GraphQL Radio](https://graphqlradio.com/) - About the GraphQL ecosystem. Monthly talks with experienced developers and experts.
 - [Front End Happy Hour](https://frontendhappyhour.com/) - Featuring of engineers from Netflix, Twitch, & Atlassian talking things Front End development.
 - [Go Figure](https://gofigure.go-jek.com/) - A podcast discussing the inner workings of tech companies.
+- [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
+- [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 </details>
 
 <details>
