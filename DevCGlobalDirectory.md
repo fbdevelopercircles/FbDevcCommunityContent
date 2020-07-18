@@ -216,7 +216,7 @@
   </summary>
 
   - Lead(s):
-    - N/A
+    - [Full Name](Github Profile Link)
   - Facebook Group: [Link to FB Group]
   - Github: [Link to local DevC GitHub repo (if any)]
 </details>
