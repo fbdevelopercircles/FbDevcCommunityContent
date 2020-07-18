@@ -99,7 +99,6 @@ Useful articles and learning resources.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
-
 </details>
 
 <details>
