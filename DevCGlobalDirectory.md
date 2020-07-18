@@ -295,13 +295,13 @@
 
 <details>
   <summary>
-    <b>DevC [Buea]</b>
+    <b>DevC Buea</b>
   </summary>
 
   - Lead(s):
     - [Tane J. Tangu](https://github.com/tanerochris)
-  - Facebook Group: [https://web.facebook.com/groups/DevCBuea]
-  - Github: [https://github.com/devcbuea]
+  - Facebook Group: https://web.facebook.com/groups/DevCBuea
+  - Github: https://github.com/devcbuea
 </details>
 
 
