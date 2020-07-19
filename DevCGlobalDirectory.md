@@ -32,6 +32,18 @@
   - Facebook Group: https://www.facebook.com/groups/628943874499693
 </details>
 
+<details>
+  <summary>
+    <b>DevC Kingston</b>
+  </summary>
+
+  - Lead(s):
+    - [Nicholas Kee](https://github.com/nkkee)
+    - [Jordan Liu](https://github.com/jordanliu)
+  - Facebook Group: https://www.facebook.com/groups/devckingston
+  - Github: https://github.com/DevC-Kingston
+</details>
+
 
 ## APAC (Asia Pacific)
 
