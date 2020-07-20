@@ -330,6 +330,20 @@
 </details>
 
 
+## Pakistaa
+
+<details>
+  <summary>
+    <b>DevC Islamabad</b>
+  </summary>
+
+  - Lead(s):
+    - [Saima Tariq](https://github.com/saimatq)
+  - Facebook Group: [https://www.facebook.com/groups/IslamabadDevC]
+  - Github: [https://github.com/DevCIslamabad]
+</details>
+
+
 ## Template
 
 <details>
