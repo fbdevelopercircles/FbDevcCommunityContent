@@ -189,7 +189,7 @@
 
   - Lead(s):
     - [Sangeeta Gupta](https://github.com/sangeetagupta2068)
-    - Navneet Singh
+    - [Navneet Singh](https://github.com/navneet0693)
   - Facebook Group: https://www.facebook.com/groups/DevCPune
   - Github: https://github.com/devcpune
 </details>
