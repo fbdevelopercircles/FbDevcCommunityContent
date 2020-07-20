@@ -337,7 +337,7 @@
   </summary>
 
   - Lead(s):
-    - [Chandan Thakur]
+    - Chandan Thakur
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
   - Github: N/A
 </details>
