@@ -328,6 +328,17 @@
     - [Herve Dzeudjouo](https://github.com/dherve19)
   - Facebook Group: https://www.facebook.com/groups/devcdouala/
 </details>
+<details>
+  <summary>
+    <b>DevC Owerri</b>
+  </summary>
+
+  - Lead(s):
+    - [Ndubuisi Onyemenam](https://github.com/prondubuisi)
+    - [Prosper Opara](https://github.com/kodekage)
+  - Facebook Group: https://web.facebook.com/groups/325261998362175/
+  - Github: https://github.com/fbdevcowerri
+</details>
 
 
 ## Template
