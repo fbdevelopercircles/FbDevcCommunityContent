@@ -330,7 +330,7 @@
 </details>
 
 
-## Pakistaa
+## Pakistan
 
 <details>
   <summary>
