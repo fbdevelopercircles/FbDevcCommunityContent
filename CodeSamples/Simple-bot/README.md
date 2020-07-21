@@ -1,4 +1,4 @@
-# Computer-Cell-bot
+# Simple-bot
 v0.01
 ### Defining your own command
 
