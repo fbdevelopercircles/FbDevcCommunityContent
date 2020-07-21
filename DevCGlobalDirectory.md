@@ -353,6 +353,18 @@
 </details>
 
 
+<details>
+  <summary>
+    <b>DevC Algiers</b>
+  </summary>
+
+  - Lead(s):
+    - [Abdelkrim Embarek](https://github.com/karim-embarek)
+  - Facebook Group: https://web.facebook.com/groups/DevCAlgiers
+  - Github: https://github.com/fb-devc-algiers
+</details>
+
+
 ## Template
 
 <details>
