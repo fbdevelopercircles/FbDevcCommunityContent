@@ -1,4 +1,4 @@
-## ComputerCell-bot
+## Simple-bot
 
 The bot was written quickly in few hours.
 
