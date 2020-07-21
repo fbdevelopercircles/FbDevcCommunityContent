@@ -58,6 +58,7 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+
 </details>
 
 <details>
@@ -112,6 +113,7 @@ Useful articles and learning resources.
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
+- (https://later.com/blog/spark-ar-instagram/) - The Ultimate Guide to Spark AR Studio for Instagram
 </details>
 
 <details>
@@ -174,6 +176,7 @@ Useful articles and learning resources.
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
+-[Maru Studio](https://www.youtube.com/watch?v=Dbhy8C3aI_A)Spark AR Studio - Tutorial for beginners Series
 </details>
 
 <details>
