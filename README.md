@@ -68,11 +68,12 @@ Useful workshop materials.
 <br />
 
 Useful articles and learning resources.
-- [DevC]
+- DevC
   - [DevC Resources CMS](https://developercircleresources.com/)
-- [DevOps]
+- DevOps
   - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
-- [Web Development]
+  - [Zero to HTTP/2 with AWS and Hugo](https://habd.as/zero-to-http-2-aws-hugo/)
+- Web Development
   - [JAMstack](https://jamstack.org)
     - [New to JAMstack? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
     - [JAMstack Basics: How to Create a Gatsby Starter with Contentful and Deploy to Netlify](https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc)
@@ -85,29 +86,35 @@ Useful articles and learning resources.
     - [Build a JAMstack Personal Blog with Headless Ghost 2.0 CMS & Gatsby](https://josebrowne.com/tutorial-static-blog-using-headless-ghost-2-0-gatsby-netlify/)
     - [How to Build a JAMstack Website using Vue.js, Nuxt.js and Cosmic JS](https://cosmicjs.com/articles/how-to-build-a-jamstack-website-using-vuejs-nuxtjs-and-cosmic-js-jws3mpy1)
     - [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
-- [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
-- [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
-- [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
+    - [Secure and Scalable: An Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)
+    
+  - React
+    - [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
+  - Node.Js
+    - [A step by step guide to your first CLI(Command Line Interface) app using Node.js](https://blog.greenroots.info/a-step-by-step-guide-to-your-first-clicommand-line-interface-app-using-nodejs-cjvm6woau000mkvs1sd8u3qxm)
+  - Vue
+    - [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
+  - Next.js
+    - [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
+  - Ghost CMS
+    - [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://hashnode.com/post/a-ghost-demo-how-to-go-headless-with-ghost-cms-tutorial-cjy4fxmmr0001rts1pyp2ch2s)
+  - Developer Guids
+    - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
+- Interview Guid
+  - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
+  - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+  - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
+- Career Development and Personal Branding
+  - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
+  - [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
+  - [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
+  - [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
+- Serverless
+  - [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
+  
+- Computer Science
+  - [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
 
-- [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
-- [Secure and Scalable: An Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)
-
-- [Zero to HTTP/2 with AWS and Hugo](https://habd.as/zero-to-http-2-aws-hugo/)
-
-- [A step by step guide to your first CLI(Command Line Interface) app using Node.js](https://blog.greenroots.info/a-step-by-step-guide-to-your-first-clicommand-line-interface-app-using-nodejs-cjvm6woau000mkvs1sd8u3qxm)
-
-
-- [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://hashnode.com/post/a-ghost-demo-how-to-go-headless-with-ghost-cms-tutorial-cjy4fxmmr0001rts1pyp2ch2s)
-- [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
-- [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
-- [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
-
-- [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
-- [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
-- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
-- [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
-- [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
-- [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 </details>
 
 <details>
