@@ -68,8 +68,8 @@ Useful workshop materials.
 <br />
 
 Useful articles and learning resources.
-
-- [DevC Resources CMS](https://developercircleresources.com/)
+- test
+  - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
 - [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
