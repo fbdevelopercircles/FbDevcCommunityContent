@@ -265,7 +265,7 @@
 
   - Lead(s):
     - Nitin Vasanth
-    - Shahul Hameed
+    - [Shahul Hameed](https://github.com/shahulhameed00)
   - Facebook Group: https://www.facebook.com/groups/DevCKochi
 </details>
 
