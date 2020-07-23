@@ -264,7 +264,7 @@
   </summary>
 
   - Lead(s):
-    - Bharath Raj Kumar
+    - [Bharath Raj Kumar](https://github.com/brk9595)
   - Facebook Group: https://www.facebook.com/groups/DevCCoimbatore/
 </details>
 
