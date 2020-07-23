@@ -100,7 +100,7 @@ Useful articles and learning resources.
     - [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://hashnode.com/post/a-ghost-demo-how-to-go-headless-with-ghost-cms-tutorial-cjy4fxmmr0001rts1pyp2ch2s)
   - Developer Guids
     - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
-- Interview Guid
+- Interview Guides
   - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
   - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
   - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
