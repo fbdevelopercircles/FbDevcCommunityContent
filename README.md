@@ -219,6 +219,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
+- [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 </details>
 
 ## License
