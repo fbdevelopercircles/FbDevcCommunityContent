@@ -118,6 +118,18 @@ Useful articles and learning resources.
 
 <details>
   <summary>
+    🐱‍💻 Courses
+  </summary>
+
+<br />
+
+- [Github Education Pack](https://education.github.com/pack/) - Resources for programming and other
+
+</details>
+
+
+<details>
+  <summary>
     🛠 Tools
   </summary>
   
