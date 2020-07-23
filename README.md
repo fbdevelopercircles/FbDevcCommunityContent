@@ -112,6 +112,7 @@ Useful articles and learning resources.
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
+- [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 </details>
 
 <details>
@@ -127,6 +128,7 @@ Useful articles and learning resources.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 - [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
+- [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
