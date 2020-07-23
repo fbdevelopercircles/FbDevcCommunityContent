@@ -100,7 +100,6 @@ Useful articles and learning resources.
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
-- [The modern way to learn javascript](https://javascript.info/)
 </details>
 
 <details>
@@ -115,7 +114,7 @@ Useful articles and learning resources.
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
-- [Devpost](https://devpost.com/) - A great place for hackathons
+- [The modern way to learn javascript](https://javascript.info/)
 </details>
 
 <details>
