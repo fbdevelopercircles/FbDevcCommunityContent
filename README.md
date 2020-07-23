@@ -179,17 +179,28 @@ Useful articles and learning resources.
 
 <br />
 
-- [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg), by Cami Williams
-- [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
-- [GraphQL: The Mental Model](https://www.youtube.com/watch?v=zWhVAN4Tg6M), by Dhaivat Pandya
-- [You need an API: Now what?](https://www.youtube.com/watch?v=uWOWTwJA4rc), by Erin McKean
-- [The All Powerful Front End Developer](https://www.youtube.com/watch?v=grSxHfGoaeg), by Chris Coyier
-- [Frontend for a server-less stack](https://www.youtube.com/watch?v=XpveOehxvoM), by Brian Douglas
-- [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
-- [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
-- [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
-- [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
-- [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
+- Open Source
+  - [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg), by Cami Williams
+- Version Control
+  - [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw), by Edward Thomson
+- Frontend Developing
+  - [The All Powerful Front End Developer](https://www.youtube.com/watch?v=grSxHfGoaeg), by Chris Coyier
+  - [Frontend for a server-less stack](https://www.youtube.com/watch?v=XpveOehxvoM), by Brian Douglas
+- API Developing
+  - GraphQL
+    - [GraphQL: The Mental Model](https://www.youtube.com/watch?v=zWhVAN4Tg6M), by Dhaivat Pandya
+  - [You need an API: Now what?](https://www.youtube.com/watch?v=uWOWTwJA4rc), by Erin McKean
+- Interview Guides
+  - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
+- Tech Talks
+  - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
+  - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
+- Web Development
+  - Javascripts
+    - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
+  - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
+
+
 </details>
 
 <details>
