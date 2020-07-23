@@ -258,6 +258,16 @@
   - Facebook Group: https://www.facebook.com/groups/DevCMumbai
 </details>
 
+<details>
+  <summary>
+    <b>DevC Coimbatore</b>
+  </summary>
+
+  - Lead(s):
+    - Bharath Raj Kumar
+  - Facebook Group: https://www.facebook.com/groups/DevCCoimbatore/
+</details>
+
 ## EMEA (Europe, the Middle East and Africa)
 
 <details>
