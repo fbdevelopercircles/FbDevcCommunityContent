@@ -100,6 +100,7 @@ Useful articles and learning resources.
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
+- [The modern way to learn javascript](https://javascript.info/)
 </details>
 
 <details>
