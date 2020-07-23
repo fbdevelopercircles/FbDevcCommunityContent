@@ -114,7 +114,7 @@ Useful articles and learning resources.
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
-- [The modern way to learn javascript](https://javascript.info/)
+- [The modern way to learn javascript](https://javascript.info/) - A great place to learn javascript in an easy and understandable way
 </details>
 
 <details>
