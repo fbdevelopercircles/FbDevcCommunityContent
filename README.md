@@ -115,6 +115,7 @@ Useful articles and learning resources.
 - Computer Science
   - [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
 
+
 </details>
 
 <details>
@@ -128,6 +129,7 @@ Useful articles and learning resources.
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
+- [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 </details>
 
 <details>
@@ -143,6 +145,7 @@ Useful articles and learning resources.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 - [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
+- [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
@@ -170,6 +173,7 @@ Useful articles and learning resources.
 - [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
+- [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 </details>
 
 <details>
@@ -178,6 +182,7 @@ Useful articles and learning resources.
   </summary>
 
 <br />
+
 
 - Open Source
   - [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg), by Cami Williams
@@ -204,6 +209,9 @@ Useful articles and learning resources.
     - [Building 3D deep learning models with PyTorch3D](https://www.youtube.com/watch?v=0JEb7knenps), by Facebook AI
     
   - [Powered by AI: Engineering new shopping experiences](https://www.youtube.com/watch?v=GoOgOGkFpIU), by Facebook AI
+- Tools
+  - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
+
 
 </details>
 
