@@ -8,16 +8,41 @@
   </summary>
 
   - Lead(s):
-    - [Adan Figueroa](https://www.facebook.com/Atticusnd)
-    - [Joshua Pedraza](https://www.facebook.com/jochua.pedrazacruz)
-    - [Martin Manriquez](https://www.facebook.com/MANRIQUEZMAR)
-    - [Miguel Lopez](https://www.facebook.com/miguel.lopezj)
-    - [Rihan Topete](https://www.facebook.com/rihantopete)
+    - Adan Figueroa
+    - Joshua Pedraza
+    - Martin Manriquez
+    - Miguel Lopez
+    - Rihan Topete
   - Facebook Group: https://www.facebook.com/groups/DevCCiudaddeMexico
   - Github: https://github.com/Facebook-Developers-Circle-CDMX-Retos
 </details>
 
 ## NORAM (North America)
+
+<details>
+  <summary>
+    <b>DevC Santo Domingo</b>
+  </summary>
+
+  - Lead(s):
+    - [Enmanuel Toribio](https://github.com/eatskolnikov)
+    - [Giancarlos Castillo](https://github.com/GianCastle)
+    - [Harry Vizcaino](https://github.com/harysvizcaino)
+    - [Julissa Mateo](https://julissa.tech/)
+  - Facebook Group: https://www.facebook.com/groups/628943874499693
+</details>
+
+<details>
+  <summary>
+    <b>DevC Kingston</b>
+  </summary>
+
+  - Lead(s):
+    - [Nicholas Kee](https://github.com/nkkee)
+    - [Jordan Liu](https://github.com/jordanliu)
+  - Facebook Group: https://www.facebook.com/groups/devckingston
+  - Github: https://github.com/DevC-Kingston
+</details>
 
 
 ## APAC (Asia Pacific)
@@ -67,7 +92,7 @@
 
   - Lead(s):
     - [Ahmad Zaky](https://github.com/azaky)
-    - [Michaela Sandra](https://www.facebook.com/michaela.sandra.18)
+    - Michaela Sandra
   - Facebook Group: https://www.facebook.com/groups/DevCBandung
   - Github: https://github.com/DevCBandung
 </details>
@@ -78,9 +103,9 @@
   </summary>
 
   - Lead(s):
-    - [Virot Chiraphadhanakul (Ta)](https://www.facebook.com/ta.chiraphadhanakul)
-    - [Nattanicha Phatharamalai (Natty)](https://www.facebook.com/nattanicha)
-    - [Kan Ouivirach (Kan)](https://www.facebook.com/zkan.cs)
+    - Virot Chiraphadhanakul (Ta)
+    - Nattanicha Phatharamalai (Natty)
+    - Kan Ouivirach (Kan)
   - Facebook Group: https://www.facebook.com/groups/DevCBangkok
   - Github: https://github.com/devcbkk
 </details>
@@ -91,10 +116,10 @@
   </summary>
 
   - Lead(s):
-    - [Anne Regina](https://www.facebook.com/annereginancy)
-    - [Luri Darmawan](https://www.facebook.com/luridarmawan)
-    - [Riza Fahmi](https://www.facebook.com/rizafahmi)
-    - [Nila Wilda Al Aluf](https://www.facebook.com/nilawilda)
+    - Anne Regina
+    - Luri Darmawan
+    - Riza Fahmi
+    - Nila Wilda Al Aluf
   - Facebook Group: https://www.facebook.com/groups/DevCJakarta
   - Github: https://github.com/devcjakarta
 </details>
@@ -108,6 +133,39 @@
     - [Le Thanh Hung](https://github.com/hungle90)
   - Facebook Group: https://www.facebook.com/groups/DevCHanoi
   - GitHub: https://github.com/DevCHanoi
+</details>
+
+<details>
+  <summary>
+    <b>DevC Da Nang</b>
+  </summary>
+
+  - Lead(s):
+    - [Tran Hanh Trang](https://github.com/tranghanhtran)
+  - Facebook Group: https://www.facebook.com/groups/devcdanang/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Ho Chi Minh City</b>
+  </summary>
+
+  - Lead(s):
+    - [Duong The Vinh](https://github.com/leovinh)
+  - Facebook Group: https://www.facebook.com/groups/DevCHoChiMinhCity/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Taipei</b>
+  </summary>
+
+  - Lead(s):
+    - [Kevin Huang](https://github.com/kevinbubu)
+    - [Clement Tang](https://github.com/clementtang)
+    - [Sean Liu](https://github.com/liushihyen)
+  - Facebook Group: https://www.facebook.com/groups/DevCTaipei
+  - Github: 
 </details>
 
 
@@ -142,8 +200,8 @@
   </summary>
 
   - Lead(s):
-    - Sangeeta Gupta
-    - Navneet Singh
+    - [Sangeeta Gupta](https://github.com/sangeetagupta2068)
+    - [Navneet Singh](https://github.com/navneet0693)
   - Facebook Group: https://www.facebook.com/groups/DevCPune
   - Github: https://github.com/devcpune
 </details>
@@ -154,9 +212,50 @@
   </summary>
 
   - Lead(s): 
-    - Navya Tatikonda
+    - [Navya Tatikonda](https://github.com/NavyaTatikonda)
   - Facebook Group: https://www.facebook.com/groups/DevCHyderabad
   - Github: https://github.com/DevCHyderabad
+</details>
+
+<details>
+  <summary>
+    <b>DevC Chennai</b>
+  </summary>
+
+  - Lead(s):
+    - Srikanth Mohan
+  - Facebook Group: https://www.facebook.com/groups/DevCChennai
+</details>
+
+<details>
+  <summary>
+    <b>DevC Ahmedabad</b>
+  </summary>
+
+  - Lead(s):
+    - Rishabh Agnihotri
+  - Facebook Group: https://www.facebook.com/groups/DevCAhmedabad
+</details>
+
+<details>
+  <summary>
+    <b>DevC Goa</b>
+  </summary>
+
+  - Lead(s):
+    - Jonathan Peréira
+  - Facebook Group: https://www.facebook.com/groups/DevCGoa
+</details>
+
+<details>
+  <summary>
+    <b>DevC Mumbai</b>
+  </summary>
+
+  - Lead(s):
+    - Jatin Malhotra
+    - Prerak Gala
+  - Facebook Group: https://www.facebook.com/groups/DevCMumbai
 </details>
 
 ## EMEA (Europe, the Middle East and Africa)
@@ -168,7 +267,7 @@
 
   - Lead(s):
     - [Salah Awad](https://github.com/salahawad)
-    - [Sarah Abdallah](https://www.facebook.com/sarah.abdallah.lb)
+    - Sarah Abdallah
   - Facebook Group: https://www.facebook.com/groups/DevCBeirut/
   - GitHub: https://github.com/DevCBeirut
 </details>
@@ -234,6 +333,49 @@
   - Github: https://github.com/devclahore
 </details>
 
+<details>
+  <summary>
+    <b>DevC Buea</b>
+  </summary>
+
+  - Lead(s):
+    - [Tane J. Tangu](https://github.com/tanerochris)
+  - Facebook Group: https://www.facebook.com/groups/DevCBuea
+  - Github: https://github.com/devcbuea
+</details>
+
+<details>
+  <summary>
+    <b>DevC Douala</b>
+  </summary>
+
+  - Lead(s):
+    - [Herve Dzeudjouo](https://github.com/dherve19)
+  - Facebook Group: https://www.facebook.com/groups/devcdouala/
+</details>
+<details>
+  <summary>
+    <b>DevC Owerri</b>
+  </summary>
+
+  - Lead(s):
+    - [Ndubuisi Onyemenam](https://github.com/prondubuisi)
+    - [Prosper Opara](https://github.com/kodekage)
+  - Facebook Group: https://web.facebook.com/groups/325261998362175/
+  - Github: https://github.com/fbdevcowerri
+</details>
+
+<details>
+  <summary>
+    <b>DevC Algiers</b>
+  </summary>
+
+  - Lead(s):
+    - [Abdelkrim Embarek](https://github.com/karim-embarek)
+  - Facebook Group: https://web.facebook.com/groups/DevCAlgiers
+  - Github: https://github.com/fb-devc-algiers
+</details>
+
 ## Template
 
 <details>
@@ -242,7 +384,7 @@
   </summary>
 
   - Lead(s):
-    - N/A
+    - [Full Name](Github Profile Link)
   - Facebook Group: [Link to FB Group]
   - Github: [Link to local DevC GitHub repo (if any)]
 </details>
