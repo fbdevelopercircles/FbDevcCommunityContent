@@ -219,6 +219,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
+- [Wheel of Names](https://wheelofnames.com/) - Wheel of Names is an amazing tool using which you can select random stuffs (names, objects, etc) from a list, or play games with the community by spinning a wheel.
 </details>
 
 ## License
