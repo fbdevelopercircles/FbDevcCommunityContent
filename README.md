@@ -200,7 +200,7 @@ Useful articles and learning resources.
     - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
   - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - Machine Learning & AI
-  -Pytorch
+  - Pytorch
     - [Building 3D deep learning models with PyTorch3D](https://www.youtube.com/watch?v=0JEb7knenps), by Facebook AI
     
   - [Powered by AI: Engineering new shopping experiences](https://www.youtube.com/watch?v=GoOgOGkFpIU), by Facebook AI
