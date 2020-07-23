@@ -243,6 +243,30 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
 </details>
 
+<details>
+  <summary>
+    :circus_tent: Events
+  </summary>
+
+<br />
+
+Current events hosted by Facebook
+
+</details>
+
+<details>
+  <summary>
+    :chart_with_upwards_trend: Projects
+  </summary>
+
+<br />
+
+Current projects hosted by facebook
+
+
+</details>
+
+
 ## License
 
 Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
