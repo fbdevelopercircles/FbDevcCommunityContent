@@ -264,7 +264,7 @@
   </summary>
 
   - Lead(s):
-    - Prashanth Reddy
+    - [Prashanth Reddy](https://github.com/prashanth726)
   - Facebook Group: https://www.facebook.com/groups/DevCTRV/
 </details>
 
