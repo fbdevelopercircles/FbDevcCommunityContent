@@ -99,6 +99,7 @@ Useful articles and learning resources.
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
+- [The Deno Handbook](https://flaviocopes.com/deno/)
 </details>
 
 <details>
