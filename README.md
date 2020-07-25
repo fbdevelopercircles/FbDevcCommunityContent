@@ -158,6 +158,7 @@ Useful articles and learning resources.
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+- [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
 </details>
 
 <details>
