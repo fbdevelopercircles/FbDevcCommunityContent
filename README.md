@@ -58,6 +58,9 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+- [Learn React.js Part - 1](https://www.codecademy.com/learn/react-101) 
+- [Learn React.js Part - 2](https://www.codecademy.com/learn/react-102) 
+
 </details>
 
 <details>
@@ -68,6 +71,7 @@ Useful workshop materials.
 <br />
 
 Useful articles and learning resources.
+
 
 - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
@@ -100,6 +104,7 @@ Useful articles and learning resources.
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
+
 </details>
 
 <details>
