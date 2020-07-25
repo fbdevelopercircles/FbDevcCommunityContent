@@ -58,6 +58,9 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+- [Learn React.js Part - 1](https://www.codecademy.com/learn/react-101) 
+- [Learn React.js Part - 2](https://www.codecademy.com/learn/react-102) 
+
 </details>
 
 <details>
@@ -200,8 +203,7 @@ Useful articles and learning resources.
     - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
   - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 
-- [Learn React.js Part - 1](https://www.codecademy.com/learn/react-101) by codecademy
-- [Learn React.js Part - 2](https://www.codecademy.com/learn/react-102) by codecademy
+
 
 </details>
 
