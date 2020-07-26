@@ -351,7 +351,6 @@
   - Github: https://github.com/devcbuea
 </details>
 
-
 <details>
   <summary>
     <b>DevC Douala</b>
@@ -362,6 +361,7 @@
   - Facebook Group: https://www.facebook.com/groups/devcdouala/
   - Github: https://github.com/Devc-Douala
 </details>
+
 <details>
   <summary>
     <b>DevC Owerri</b>
@@ -374,7 +374,6 @@
   - Github: https://github.com/fbdevcowerri
 </details>
 
-
 <details>
   <summary>
     <b>DevC Algiers</b>
@@ -384,6 +383,17 @@
     - [Abdelkrim Embarek](https://github.com/karim-embarek)
   - Facebook Group: https://web.facebook.com/groups/DevCAlgiers
   - Github: https://github.com/fb-devc-algiers
+</details>
+
+<details>
+  <summary>
+    <b>DevC Tunis</b>
+  </summary>
+
+  - Lead(s):
+    - [Faten Ghriss](https://github.com/fatenghriss)
+  - Facebook Group: https://www.facebook.com/groups/DevCTunis
+  - Github: https://github.com/Facebook-DevC-Tunis
 </details>
 
 
