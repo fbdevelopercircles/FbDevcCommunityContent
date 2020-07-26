@@ -133,6 +133,7 @@ Useful articles and learning resources.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
+- [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 - [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 - [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
