@@ -223,7 +223,7 @@
   </summary>
 
   - Lead(s):
-    - [Kaushik Mishra](https://github.com/kaushik27mishra)
+    - [Meghal Agrawal](https://github.com/meghalagrawal)
   - Facebook Group: https://www.facebook.com/groups/DevCRaipur
 </details>
 
