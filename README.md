@@ -136,7 +136,7 @@ Useful articles and learning resources.
 - [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 - [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
-- [Babel] (https://babeljs.io/) - A JS compiler and toolochain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+- [Babel](https://babeljs.io/) - A JS compiler and toolochain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
