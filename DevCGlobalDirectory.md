@@ -219,6 +219,16 @@
 
 <details>
   <summary>
+    <b>DevC Raipur</b>
+  </summary>
+
+  - Lead(s):
+    - [Kaushik Mishra](https://github.com/kaushik27mishra)
+  - Facebook Group: https://www.facebook.com/groups/DevCRaipur
+</details>
+
+<details>
+  <summary>
     <b>DevC Hyderbad</b>
   </summary>
 
