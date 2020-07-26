@@ -223,6 +223,7 @@ Useful articles and learning resources.
 
 Useful fun activities that can be done at the meetup/events/activities.
 
+- [Git reference tool](https://ohshitgit.com/) - FAQ site for Git commands.
 - [Kahoot](https://kahoot.com/) - Kahoot! brings engagement and fun to your events and makes learning awesome.
 - [Wheel Of Names](https://wheelofnames.com/) - Random name picker with Wheel Of Fortunes style animation.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
