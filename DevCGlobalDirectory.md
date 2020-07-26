@@ -364,6 +364,20 @@
   - Github: https://github.com/fb-devc-algiers
 </details>
 
+<details>
+  <summary>
+    <b>DevC Lagos</b>
+  </summary>
+
+  - Lead(s):
+    - [Akinjide Bankole](https://github.com/akinjide)
+    - [Emmanuel Odianosen Oaikhenan](https://github.com/innocentamadi)
+    - [Innocent Amadi](https://github.com/emmaodia)
+    - [Peculiar Ediomo-Abasi]
+  - Facebook Group: [https://fb.com/groups/devclagos]
+  - Github: [https://github.com/FBDevCLagos]
+</details>
+
 
 ## Template
 
