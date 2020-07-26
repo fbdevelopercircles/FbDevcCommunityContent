@@ -339,6 +339,7 @@
   - Lead(s):
     - [Herve Dzeudjouo](https://github.com/dherve19)
   - Facebook Group: https://www.facebook.com/groups/devcdouala/
+  - Github: https://github.com/Devc-Douala
 </details>
 <details>
   <summary>
