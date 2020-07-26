@@ -100,6 +100,7 @@ Useful articles and learning resources.
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
+- [The Deno Handbook](https://flaviocopes.com/deno/)
 </details>
 
 <details>
@@ -113,7 +114,7 @@ Useful articles and learning resources.
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
-- (https://later.com/blog/spark-ar-instagram/) - The Ultimate Guide to Spark AR Studio for Instagram
+
 </details>
 
 <details>
@@ -129,6 +130,7 @@ Useful articles and learning resources.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 - [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
+- [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
@@ -156,6 +158,8 @@ Useful articles and learning resources.
 - [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
+- [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+- [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
 </details>
 
 <details>
@@ -176,7 +180,7 @@ Useful articles and learning resources.
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
-- [Maru Studio](https://www.youtube.com/watch?v=Dbhy8C3aI_A) Spark AR Studio - Tutorial for beginners Series
+
 </details>
 
 <details>
@@ -199,6 +203,8 @@ Useful articles and learning resources.
 - [GraphQL Radio](https://graphqlradio.com/) - About the GraphQL ecosystem. Monthly talks with experienced developers and experts.
 - [Front End Happy Hour](https://frontendhappyhour.com/) - Featuring of engineers from Netflix, Twitch, & Atlassian talking things Front End development.
 - [Go Figure](https://gofigure.go-jek.com/) - A podcast discussing the inner workings of tech companies.
+- [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow Podcast is a twice-weekly conversation about working in software development, learning to code, and the art and culture of computer programming.
+- [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly updates on Cloud Platform professionals, answer some of your burning questions, and introduce you to cool new things!
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 </details>
