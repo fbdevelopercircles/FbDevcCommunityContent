@@ -397,6 +397,18 @@
 </details>
 
 
+<details>
+  <summary>
+    <b>DevC Eldoret</b>
+  </summary>
+
+  - Lead(s):
+    - [Gertie Sheshe](https://github.com/gertie-sheshe)
+    - [Fatma M. Ali](https://github.com/fatmali)
+  - Facebook Group: https://www.facebook.com/groups/DevCEldoret
+  - Github: https://github.com/DevCEldoret
+</details>
+
 ## Template
 
 <details>
