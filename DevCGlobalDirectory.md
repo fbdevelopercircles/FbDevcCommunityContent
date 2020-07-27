@@ -207,6 +207,17 @@
 
 <details>
   <summary>
+    <b>DevC Bhopal</b>
+  </summary>
+
+  - Lead(s):
+    - [Abhishek Yagnik](https://www.facebook.com/abhishekyagnik)
+  - Facebook Group: https://www.facebook.com/groups/481484032658576 
+
+</details>
+
+<details>
+  <summary>
     <b>DevC Pune</b>
   </summary>
 
