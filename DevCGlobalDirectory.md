@@ -173,6 +173,17 @@
 
 <details>
   <summary>
+    <b>DevC Kolkata</b>
+  </summary>
+
+  - Lead(s):
+    - [Sabyasachi Mukhopadhyay](https://github.com/Sabyasachi123276)
+  - Facebook Group: https://www.facebook.com/groups/DevCKolkata/
+  - GitHub: 
+</details>
+
+<details>
+  <summary>
     <b>DevC Delhi NCR</b>
   </summary>
 
@@ -204,6 +215,16 @@
     - [Navneet Singh](https://github.com/navneet0693)
   - Facebook Group: https://www.facebook.com/groups/DevCPune
   - Github: https://github.com/devcpune
+</details>
+
+<details>
+  <summary>
+    <b>DevC Raipur</b>
+  </summary>
+
+  - Lead(s):
+    - [Kaushik Mishra](https://github.com/kaushik27mishra)
+  - Facebook Group: https://www.facebook.com/groups/DevCRaipur
 </details>
 
 <details>
@@ -352,7 +373,9 @@
   - Lead(s):
     - [Herve Dzeudjouo](https://github.com/dherve19)
   - Facebook Group: https://www.facebook.com/groups/devcdouala/
+  - Github: https://github.com/Devc-Douala
 </details>
+
 <details>
   <summary>
     <b>DevC Owerri</b>
@@ -374,6 +397,17 @@
     - [Abdelkrim Embarek](https://github.com/karim-embarek)
   - Facebook Group: https://web.facebook.com/groups/DevCAlgiers
   - Github: https://github.com/fb-devc-algiers
+</details>
+
+<details>
+  <summary>
+    <b>DevC Tunis</b>
+  </summary>
+
+  - Lead(s):
+    - [Faten Ghriss](https://github.com/fatenghriss)
+  - Facebook Group: https://www.facebook.com/groups/DevCTunis
+  - Github: https://github.com/Facebook-DevC-Tunis
 </details>
 
 ## Template
