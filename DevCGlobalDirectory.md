@@ -279,6 +279,16 @@
   - Facebook Group: https://www.facebook.com/groups/DevCMumbai
 </details>
 
+<details>
+  <summary>
+    <b>DevC Trivandrum</b>
+  </summary>
+
+  - Lead(s):
+    - [Prashanth Reddy](https://github.com/prashanth726)
+  - Facebook Group: https://www.facebook.com/groups/DevCTRV/
+</details>
+
 ## EMEA (Europe, the Middle East and Africa)
 
 <details>
