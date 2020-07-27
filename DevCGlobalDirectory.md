@@ -340,6 +340,20 @@
   - Github: https://github.com/devcuyo
 </details>
 
+## Pakistan
+
+<details>
+  <summary>
+    <b>DevC Lahore</b>
+  </summary>
+
+  - Lead(s):
+    - [Mikaal Anwar](https://www.facebook.com/mikaal.anwar)
+    - [Salman Tariq](https://www.facebook.com/salman.tariq.921025)
+  - Facebook Group: https://www.facebook.com/groups/DevCLahore
+  - Github: https://github.com/devclahore
+</details>
+
 <details>
   <summary>
     <b>DevC Buea</b>
@@ -395,7 +409,6 @@
   - Facebook Group: https://www.facebook.com/groups/DevCTunis
   - Github: https://github.com/Facebook-DevC-Tunis
 </details>
-
 
 ## Template
 

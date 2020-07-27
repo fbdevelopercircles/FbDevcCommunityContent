@@ -184,6 +184,7 @@ Useful articles and learning resources.
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
+- [React Native](https://www.youtube.com/watch?v=0-S5a0eXPoc), by Mosh Hamedani
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
 </details>
