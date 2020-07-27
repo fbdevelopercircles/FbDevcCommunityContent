@@ -279,6 +279,18 @@
   - Facebook Group: https://www.facebook.com/groups/DevCMumbai
 </details>
 
+<details>
+  <summary>
+    <b>DevC Kochi</b>
+  </summary>
+
+  - Lead(s):
+    - Nitin Vasanth
+    - [Shahul Hameed](https://github.com/shahulhameed00)
+  - Facebook Group: https://www.facebook.com/groups/DevCKochi
+</details>
+
+
 ## EMEA (Europe, the Middle East and Africa)
 
 <details>
