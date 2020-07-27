@@ -260,12 +260,12 @@
 
 <details>
   <summary>
-    <b>DevC [Kolkata]</b>
+    <b>DevC Kolkata</b>
   </summary>
 
   - Lead(s):
     - [Sabyasachi Mukhopadhyay](https://github.com/Sabyasachi123276)
-  - Facebook Group: [https://www.facebook.com/groups/DevCKolkata]
+  - Facebook Group: https://www.facebook.com/groups/DevCKolkata
 </details>
 
 ## EMEA (Europe, the Middle East and Africa)
