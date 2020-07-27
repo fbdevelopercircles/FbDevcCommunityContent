@@ -374,6 +374,18 @@
 
 <details>
   <summary>
+    <b>DevC Yaounde</b>
+  </summary>
+
+  - Lead(s):
+    - [Aurelien Xavier](https://github.com/xavier-pay)
+    - [Suzy Tresor Tchegnelene](#)
+  - Facebook Group: https://www.facebook.com/groups/1216588391854380/
+  - Github: #
+</details>
+
+<details>
+  <summary>
     <b>DevC Owerri</b>
   </summary>
 
