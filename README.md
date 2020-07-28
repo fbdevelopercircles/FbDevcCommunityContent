@@ -54,6 +54,7 @@
 Useful workshop materials.
 
 - [Git training kit](https://github.github.com/training-kit/)
+- [Github Learning Lab](https://lab.github.com/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
@@ -100,6 +101,8 @@ Useful articles and learning resources.
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
+- [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
+
 </details>
 
 <details>
@@ -133,12 +136,14 @@ Useful articles and learning resources.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
+- [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 - [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 - [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+- [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 </details>
 
 <details>
@@ -158,6 +163,7 @@ Useful articles and learning resources.
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+- [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
 </details>
 
 <details>
@@ -206,6 +212,7 @@ Useful articles and learning resources.
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly updates on Cloud Platform professionals, answer some of your burning questions, and introduce you to cool new things!
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
+- [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software. 
 </details>
 
 <details>
@@ -222,6 +229,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
+- [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 </details>
 
 ## License
