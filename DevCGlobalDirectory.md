@@ -229,7 +229,7 @@
 
 <details>
   <summary>
-    <b>DevC Hyderbad</b>
+    <b>DevC Hyderabad</b>
   </summary>
 
   - Lead(s): 
@@ -255,6 +255,7 @@
 
   - Lead(s):
     - Rishabh Agnihotri
+    - [Daxeel Soni](https://github.com/daxeel)
   - Facebook Group: https://www.facebook.com/groups/DevCAhmedabad
 </details>
 
@@ -274,7 +275,7 @@
   </summary>
 
   - Lead(s):
-    - Jatin Malhotra
+    - Gaurang Shetty
     - Prerak Gala
   - Facebook Group: https://www.facebook.com/groups/DevCMumbai
 </details>
@@ -287,6 +288,25 @@
   - Lead(s):
     - [Prashanth Reddy](https://github.com/prashanth726)
   - Facebook Group: https://www.facebook.com/groups/DevCTRV/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Bengaluru</b>
+  </summary>
+
+  - Lead(s):
+  - Facebook Group: https://www.facebook.com/groups/DevCBengaluru/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Vellore</b>
+  </summary>
+
+  - Lead(s):
+    - [Ashwini Purohit](https://github.com/ashwini0529)
+  - Facebook Group: https://www.facebook.com/groups/DevCVellore/
 </details>
 
 ## EMEA (Europe, the Middle East and Africa)
