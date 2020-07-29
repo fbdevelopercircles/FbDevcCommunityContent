@@ -161,7 +161,7 @@ Useful articles and learning resources.
 - [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog), by Flavio Copes
 - [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
-- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed), by Kyle Simpson
+- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
 </details>
