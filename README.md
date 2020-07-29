@@ -22,9 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">
-  <a href="https://www.developercircleresources.com/learningPath/open-source">Getting Started</a>
-  <span> · </span>
+<h3 align="center">  
   <a href="https://www.developercircleresources.com/learningPath/open-source">Learn the Basics</a>
   <span> · </span>
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">Contribute</a>
