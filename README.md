@@ -117,6 +117,7 @@ Useful articles and learning resources.
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
+- [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 </details>
 
 <details>
