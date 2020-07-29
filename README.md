@@ -195,7 +195,7 @@ Useful articles and learning resources.
 
 <br />
 
-- [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive th mission of building open source community.
+- [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive the mission of building open source community.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics.
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/) - Exploring the Jamstack, static sites, and the future of Web Development.
 - [Syntax.fm](https://syntax.fm/) - A Tasty Treats podcast for Web Developers.
@@ -228,8 +228,9 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [Wheel Of Names](https://wheelofnames.com/) - Random name picker with Wheel Of Fortunes style animation.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
-- [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
+- [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a good way to engage the community live and understand them using it's analytical dashboard.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
+- [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
 
 ## License
