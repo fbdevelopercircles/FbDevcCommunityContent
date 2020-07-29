@@ -211,6 +211,7 @@ P
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
 <br>
+
 S
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
