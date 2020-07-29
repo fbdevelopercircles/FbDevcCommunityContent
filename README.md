@@ -118,6 +118,7 @@ Useful articles and learning resources.
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
+- [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 </details>
 
 <details>
