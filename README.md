@@ -125,6 +125,7 @@ Useful articles and learning resources.
 - [Nextjs blog](https://nextjs.org/blog) - Javascript, React(using Nextjs framework), Nextjs
 - [Gatsby](https://www.gatsbyjs.org/blog/) - JavaScript, React(using gatsby framework), Gatsby
 - [WebDev Trick](https://webdevtrick.com/) - HTML, CSS, JQuery designs.
+- [React blog](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html) - Reactjs blog
 </details>
 
 <details>
