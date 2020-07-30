@@ -118,6 +118,13 @@ Useful articles and learning resources.
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
+- [Blogs by DevC Nairobi](https://medium.com/devcnairobi) - Technical articles by Facebook for Developers Circle Nairobi
+- [GitHub Blog](https://github.blog/) - Regular updates, ideas, and inspiration from GitHub to help developers build and design software.
+- [WhatsApp Blog](https://blog.whatsapp.com/) - New features updates by Whatsapp and guides on using WhatsApp business.
+- [Facebook for Media](https://web.facebook.com/facebookmedia/blog) - Friendly tips and news on using facebook features
+- [Nextjs blog](https://nextjs.org/blog) - Javascript, React(using Nextjs framework), Nextjs
+- [Gatsby](https://www.gatsbyjs.org/blog/) - JavaScript, React(using gatsby framework), Gatsby
+- [WebDev Trick](https://webdevtrick.com/) - HTML, CSS, JQuery designs.
 </details>
 
 <details>
