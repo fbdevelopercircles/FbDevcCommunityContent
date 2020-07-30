@@ -372,9 +372,8 @@
 
   - Lead(s):
     - [Eddie Kago](https://github.com/scripttie)
-    - [Carol Kariuki]
-  - Facebook Group: [https://www.facebook.com/groups/devcnairobi]
-  - Github: [Link to local DevC GitHub repo (if any)]
+    - Carol Kariuki
+  - Facebook Group:https://www.facebook.com/groups/devcnairobi
 </details>
 
 
