@@ -168,7 +168,10 @@ Useful articles and learning resources.
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
+- [Cracking the Code to a Successful Interview](https://www.amazon.com/Cracking-Code-Successful-Interview-Top-Level/dp/1504760883), by Evan Pellett
+- [Guide to Competitive Programming](https://www.pdfdrive.com/guide-to-competitive-programming-learning-and-improving-algorithms-through-contests-e187746875.html), by Antti Laaksonen
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
+
 </details>
 <details>
   <summary>
