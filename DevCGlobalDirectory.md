@@ -168,6 +168,17 @@
   - Github: 
 </details>
 
+<details>
+  <summary>
+    <b>DevC Kathmandu</b>
+  </summary>
+  
+  - Lead(s):
+    - Chandan Thakur
+    
+  - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
+</details>
+
 
 ## India
 
@@ -178,7 +189,7 @@
 
   - Lead(s):
     - [Sabyasachi Mukhopadhyay](https://github.com/Sabyasachi123276)
-  - Facebook Group: https://www.facebook.com/groups/DevCKolkata/
+  - Facebook Group: https://www.facebook.com/groups/DevCKolkata
   - GitHub: 
 </details>
 
