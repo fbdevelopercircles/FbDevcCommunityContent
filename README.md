@@ -119,6 +119,7 @@ Useful articles and learning resources.
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
+- [Towards Data Science](https://towardsdatascience.com/) - Blog for evething Data Science and Machine Learning
 </details>
 
 <details>
