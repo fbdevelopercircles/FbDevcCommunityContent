@@ -116,19 +116,11 @@ Useful articles and learning resources.
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
 >>>>>>> db0991564823159c77b58d97a61aa501597787df
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
->>>>>>> db0991564823159c77b58d97a61aa501597787df
 </details>
 
 <details>
