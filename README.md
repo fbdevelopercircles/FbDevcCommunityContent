@@ -216,6 +216,7 @@ Useful articles and learning resources.
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software. 
+- [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 </details>
 
 <details>
