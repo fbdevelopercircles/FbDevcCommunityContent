@@ -281,9 +281,19 @@
 
 <details>
   <summary>
-    <b>DevC Trivandrum</b>
+    <b>DevC Coimbatore</b>
   </summary>
 
+  - Lead(s):
+    - [Bharath Raj Kumar](https://github.com/brk9595)
+  - Facebook Group: https://www.facebook.com/groups/DevCCoimbatore/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Trivandrum</b>
+  </summary>
+  
   - Lead(s):
     - [Prashanth Reddy](https://github.com/prashanth726)
   - Facebook Group: https://www.facebook.com/groups/DevCTRV/
