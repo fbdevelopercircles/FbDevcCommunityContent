@@ -118,6 +118,7 @@ Useful articles and learning resources.
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
+- [Towards Data Science](https://towardsdatascience.com/) - Blog for evething Data Science and Machine Learning
 </details>
 
 <details>
@@ -216,7 +217,7 @@ Useful articles and learning resources.
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly updates on Cloud Platform professionals, answer some of your burning questions, and introduce you to cool new things!
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
-- [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software. 
+- [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 </details>
 
