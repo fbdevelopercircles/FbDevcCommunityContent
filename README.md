@@ -22,9 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">
-  <a href="https://www.developercircleresources.com/learningPath/open-source">Getting Started</a>
-  <span> · </span>
+<h3 align="center">  
   <a href="https://www.developercircleresources.com/learningPath/open-source">Learn the Basics</a>
   <span> · </span>
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">Contribute</a>
@@ -54,6 +52,7 @@
 Useful workshop materials.
 
 - [Git training kit](https://github.github.com/training-kit/)
+- [Github Learning Lab](https://lab.github.com/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
@@ -69,6 +68,7 @@ Useful workshop materials.
 
 Useful articles and learning resources.
 
+- [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
@@ -117,6 +117,8 @@ Useful articles and learning resources.
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
+- [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
+- [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 </details>
 
 <details>
@@ -136,12 +138,16 @@ Useful articles and learning resources.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
+- [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 - [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
 - [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+- [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+
 </details>
 
 <details>
@@ -151,6 +157,7 @@ Useful articles and learning resources.
 
 <br />
 
+- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
@@ -159,11 +166,14 @@ Useful articles and learning resources.
 - [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog), by Flavio Copes
 - [Technical Writing for Dummies](http://www.amazon.co.uk/Technical-Writing-Dummies-Sheryl-Lindsell-Roberts/dp/0764553089/), by Sheryl Lindsell-Roberts
 - [The Handbook of Technical Writing](https://www.amazon.com/dp/1457675528), by Gerald J. Alre
-- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by Kyle Simpson
+- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
-</details>
+- [Cracking the Code to a Successful Interview](https://www.amazon.com/Cracking-Code-Successful-Interview-Top-Level/dp/1504760883), by Evan Pellett
+- [Guide to Competitive Programming](https://www.pdfdrive.com/guide-to-competitive-programming-learning-and-improving-algorithms-through-contests-e187746875.html), by Antti Laaksonen
+- [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
+</details>
 <details>
   <summary>
     📺 Videos
@@ -193,7 +203,7 @@ Useful articles and learning resources.
 
 <br />
 
-- [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive th mission of building open source community.
+- [The Diff](https://thediffpodcast.com/) - The Diff showcases the program, the projects and the people that drive the mission of building open source community.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics.
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/) - Exploring the Jamstack, static sites, and the future of Web Development.
 - [Syntax.fm](https://syntax.fm/) - A Tasty Treats podcast for Web Developers.
@@ -211,6 +221,7 @@ Useful articles and learning resources.
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software. 
+- [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 </details>
 
 <details>
@@ -222,11 +233,15 @@ Useful articles and learning resources.
 
 Useful fun activities that can be done at the meetup/events/activities.
 
+- [Git reference tool](https://ohshitgit.com/) - FAQ site for Git commands.
 - [Kahoot](https://kahoot.com/) - Kahoot! brings engagement and fun to your events and makes learning awesome.
 - [Wheel Of Names](https://wheelofnames.com/) - Random name picker with Wheel Of Fortunes style animation.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
-- [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a goodway to engage the community live and understand them using it's analytical dashboard.
+- [DevSwag](https://devswag.io/) - FREE Swag for developers!
+- [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a good way to engage the community live and understand them using it's analytical dashboard.
+- [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
+- [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
 
 ## License
