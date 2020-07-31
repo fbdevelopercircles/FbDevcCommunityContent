@@ -167,8 +167,8 @@ Useful articles and learning resources.
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
+- [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 </details>
-
 <details>
   <summary>
     📺 Videos
