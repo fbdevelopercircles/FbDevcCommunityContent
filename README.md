@@ -145,6 +145,7 @@ Useful articles and learning resources.
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 </details>
 
 <details>
