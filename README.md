@@ -156,6 +156,7 @@ Useful articles and learning resources.
 
 <br />
 
+- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
