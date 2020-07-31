@@ -40,4 +40,5 @@ def main():
     a_coin.sideup  = 'Head'
     print('i set the side up to be ', a_coin.get_sideup())
 
+    
 main()
