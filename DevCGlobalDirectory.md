@@ -168,6 +168,17 @@
   - Github: 
 </details>
 
+<details>
+  <summary>
+    <b>DevC Kathmandu</b>
+  </summary>
+  
+  - Lead(s):
+    - [Chandan Thakur](https://github.com/ihackme)
+    
+  - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
+</details>
+
 
 ## India
 
@@ -178,7 +189,7 @@
 
   - Lead(s):
     - [Sabyasachi Mukhopadhyay](https://github.com/Sabyasachi123276)
-  - Facebook Group: https://www.facebook.com/groups/DevCKolkata/
+  - Facebook Group: https://www.facebook.com/groups/DevCKolkata
   - GitHub: 
 </details>
 
@@ -223,7 +234,7 @@
   </summary>
 
   - Lead(s):
-    - [Kaushik Mishra](https://github.com/kaushik27mishra)
+    - [Meghal Agrawal](https://github.com/meghalagrawal)
   - Facebook Group: https://www.facebook.com/groups/DevCRaipur
 </details>
 
@@ -281,9 +292,19 @@
 
 <details>
   <summary>
-    <b>DevC Trivandrum</b>
+    <b>DevC Coimbatore</b>
   </summary>
 
+  - Lead(s):
+    - [Bharath Raj Kumar](https://github.com/brk9595)
+  - Facebook Group: https://www.facebook.com/groups/DevCCoimbatore/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Trivandrum</b>
+  </summary>
+  
   - Lead(s):
     - [Prashanth Reddy](https://github.com/prashanth726)
   - Facebook Group: https://www.facebook.com/groups/DevCTRV/
@@ -418,6 +439,18 @@
   - Facebook Group: https://www.facebook.com/groups/DevCEldoret
   - Github: https://github.com/DevCEldoret
 </details>
+
+<details>
+  <summary>
+    <b>DevC Nairobi</b>
+  </summary>
+
+  - Lead(s):
+    - [Eddie Kago](https://github.com/scripttie)
+    - Carol Kariuki
+  - Facebook Group:https://www.facebook.com/groups/devcnairobi
+</details>
+
 
 ## Template
 

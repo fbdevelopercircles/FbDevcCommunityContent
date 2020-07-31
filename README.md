@@ -22,9 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">
-  <a href="https://www.developercircleresources.com/learningPath/open-source">Getting Started</a>
-  <span> · </span>
+<h3 align="center">  
   <a href="https://www.developercircleresources.com/learningPath/open-source">Learn the Basics</a>
   <span> · </span>
   <a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent/blob/master/CONTRIBUTING.md">Contribute</a>
@@ -71,12 +69,17 @@ Useful workshop materials.
 Useful articles and learning resources.
 <br>
 
+
 0-9
+
+
+- [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 <br>
 
 A
+- [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [A step by step guide to your first CLI(Command Line Interface) app using Node.js](https://blog.greenroots.info/a-step-by-step-guide-to-your-first-clicommand-line-interface-app-using-nodejs-cjvm6woau000mkvs1sd8u3qxm)
 - [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://hashnode.com/post/a-ghost-demo-how-to-go-headless-with-ghost-cms-tutorial-cjy4fxmmr0001rts1pyp2ch2s)
 - [Adopting the JAMStack: Building CMS-backed static websites with Vue or React](https://www.codegram.com/blog/a-jamstack-journey-headless-content-management-with-vue-react/)
@@ -161,7 +164,9 @@ Z
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
+- [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
+- [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 </details>
 
 <details>
@@ -216,11 +221,14 @@ S
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
+
 <br>
 
 V
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
+
 
 </details>
 
@@ -231,6 +239,7 @@ V
 
 <br />
 
+- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
@@ -242,8 +251,11 @@ V
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md), by Kyle Simpson
 - [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 - [Eloquent JavaScript Modern Introduction Programming](https://eloquentjavascript.net/), by Marijn Haverbeke
-</details>
+- [Cracking the Code to a Successful Interview](https://www.amazon.com/Cracking-Code-Successful-Interview-Top-Level/dp/1504760883), by Evan Pellett
+- [Guide to Competitive Programming](https://www.pdfdrive.com/guide-to-competitive-programming-learning-and-improving-algorithms-through-contests-e187746875.html), by Antti Laaksonen
+- [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
+</details>
 <details>
   <summary>
     📺 Videos
@@ -291,6 +303,7 @@ V
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software. 
+- [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 </details>
 
 <details>
@@ -302,10 +315,12 @@ V
 
 Useful fun activities that can be done at the meetup/events/activities.
 
+- [Git reference tool](https://ohshitgit.com/) - FAQ site for Git commands.
 - [Kahoot](https://kahoot.com/) - Kahoot! brings engagement and fun to your events and makes learning awesome.
 - [Wheel Of Names](https://wheelofnames.com/) - Random name picker with Wheel Of Fortunes style animation.
 - [AirConsole](https://www.airconsole.com/) - Multiplayer browser games with your smartphones as the gamepads.
 - [Gartic](https://gartic.io/) - Pictionary-inspired games that can be played online
+- [DevSwag](https://devswag.io/) - FREE Swag for developers!
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a good way to engage the community live and understand them using it's analytical dashboard.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
