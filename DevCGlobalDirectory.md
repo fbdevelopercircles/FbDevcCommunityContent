@@ -419,6 +419,18 @@
   - Github: https://github.com/DevCEldoret
 </details>
 
+<details>
+  <summary>
+    <b>DevC Nairobi</b>
+  </summary>
+
+  - Lead(s):
+    - [Eddie Kago](https://github.com/scripttie)
+    - Carol Kariuki
+  - Facebook Group:https://www.facebook.com/groups/devcnairobi
+</details>
+
+
 ## Template
 
 <details>
