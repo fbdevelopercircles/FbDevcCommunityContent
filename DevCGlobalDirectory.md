@@ -174,7 +174,7 @@
   </summary>
   
   - Lead(s):
-    - Chandan Thakur
+    - [Chandan Thakur](https://github.com/ihackme)
     
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
 </details>
