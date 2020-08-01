@@ -119,6 +119,10 @@ Useful articles and learning resources.
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
+- [Object Oriented Programming in Python](https://omarrrz-lounge.hashnode.dev/object-oriented-programming-ckbi8105000pfzqs1fel0kppd) - A blogpost which explains the concept of OOP
+- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)- A blogpost which gives a step by step tutorial on Flask 
+
+
 </details>
 
 <details>
