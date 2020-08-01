@@ -1,4 +1,4 @@
-#DevC Global Slack Channel Invitation  
+# DevC Global Slack Channel Invitation  
 
 Click the below invite to join the temporary global DevC slack channel to discuss ideas. 
 
