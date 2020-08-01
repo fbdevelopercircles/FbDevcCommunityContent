@@ -312,7 +312,7 @@
 
 <details>
   <summary>
-    <b>DevC Bengaluru</b>
+    <b>DevC Bangalore</b>
   </summary>
   
   - Facebook Group: https://m.facebook.com/groups/DevCBengaluru/
