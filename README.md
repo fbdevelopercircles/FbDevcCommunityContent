@@ -119,10 +119,11 @@ Useful articles and learning resources.
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
+
 - [Object Oriented Programming in Python](https://omarrrz-lounge.hashnode.dev/object-oriented-programming-ckbi8105000pfzqs1fel0kppd) - A blogpost which explains the concept of OOP
 - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)- A blogpost which gives a step by step tutorial on Flask 
 
-
+- [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
 </details>
 
 <details>
@@ -177,6 +178,7 @@ Useful articles and learning resources.
 - [Guide to Competitive Programming](https://www.pdfdrive.com/guide-to-competitive-programming-learning-and-improving-algorithms-through-contests-e187746875.html), by Antti Laaksonen
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
+- [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 </details>
 <details>
   <summary>
@@ -224,7 +226,7 @@ Useful articles and learning resources.
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Weekly updates on Cloud Platform professionals, answer some of your burning questions, and introduce you to cool new things!
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai/) - A series of conversations about technology, science, and the human condition.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
-- [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software. 
+- [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 </details>
 
