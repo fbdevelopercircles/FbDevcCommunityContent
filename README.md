@@ -120,6 +120,9 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [Spotify Engineering Blog](https://engineering.atspotify.com/) - A blog about the Spotify Platform
+- [Interswitch Engineering Blog](https://medium.com/interswitch-engineering-blog) - A blog about the workings of Interswitch
+- [Git and Gitub for beginners](https://www.google.com/amp/s/product.hubspot.com/blog/git-and-github-tutorial-for-beginners%3fhs_amp=true) - A blog post with step by step guide on how to use Github
 </details>
 
 <details>
