@@ -310,6 +310,14 @@
   - Facebook Group: https://www.facebook.com/groups/DevCTRV/
 </details>
 
+<details>
+  <summary>
+    <b>DevC Bengaluru</b>
+  </summary>
+  
+  - Facebook Group: https://m.facebook.com/groups/DevCBengaluru/
+</details>
+
 ## EMEA (Europe, the Middle East and Africa)
 
 <details>
