@@ -52,7 +52,8 @@
 Useful workshop materials.
 
 - [Git training kit](https://github.github.com/training-kit/)
-- [Github Learning Lab](https://lab.github.com/)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [GitHub Guides](https://guides.github.com/)
 - [Basic Javascript](https://github.com/bpesquet/thejsway)
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
