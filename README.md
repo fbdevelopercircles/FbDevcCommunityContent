@@ -68,40 +68,88 @@ Useful workshop materials.
 <br />
 
 Useful articles and learning resources.
+<br>
 
-- [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
-- [DevC Resources CMS](https://developercircleresources.com/)
+
+0-9
+
+
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
-- [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
-- [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
-- [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
-- [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
-- [Secure and Scalable: An Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)
-- [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
-- [Zero to HTTP/2 with AWS and Hugo](https://habd.as/zero-to-http-2-aws-hugo/)
-- [JAMstack Basics: How to Create a Gatsby Starter with Contentful and Deploy to Netlify](https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc)
-- [JAMstack vs Isomorphic Server Side Rendering](https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/)
+- [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
+<br>
+
+A
+- [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [A step by step guide to your first CLI(Command Line Interface) app using Node.js](https://blog.greenroots.info/a-step-by-step-guide-to-your-first-clicommand-line-interface-app-using-nodejs-cjvm6woau000mkvs1sd8u3qxm)
-- [New to JAMstack? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
-- [From WordPress to JAMstack: How to make your website 10x faster](https://hackernoon.com/from-wordpress-to-jamstack-how-to-make-your-website-10x-faster-e363abc46e2d)
-- [JAMstack: The What, The Why and The How](https://scotch.io/tutorials/jamstack-the-what-the-why-and-the-how)
-- [Adopting the JAMStack: Building CMS-backed static websites with Vue or React](https://www.codegram.com/blog/a-jamstack-journey-headless-content-management-with-vue-react/)
-- [Build a JAMstack Personal Blog with Headless Ghost 2.0 CMS & Gatsby](https://josebrowne.com/tutorial-static-blog-using-headless-ghost-2-0-gatsby-netlify/)
-- [How to Build a JAMstack Website using Vue.js, Nuxt.js and Cosmic JS](https://cosmicjs.com/articles/how-to-build-a-jamstack-website-using-vuejs-nuxtjs-and-cosmic-js-jws3mpy1)
 - [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://hashnode.com/post/a-ghost-demo-how-to-go-headless-with-ghost-cms-tutorial-cjy4fxmmr0001rts1pyp2ch2s)
-- [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
-- [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
-- [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
-- [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
-- [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
-- [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
-- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+- [Adopting the JAMStack: Building CMS-backed static websites with Vue or React](https://www.codegram.com/blog/a-jamstack-journey-headless-content-management-with-vue-react/)
+<br>
+
+B
+- [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
+- [Build a JAMstack Personal Blog with Headless Ghost 2.0 CMS & Gatsby](https://josebrowne.com/tutorial-static-blog-using-headless-ghost-2-0-gatsby-netlify/)
+<br>
+
+D
+- [DevC Resources CMS](https://developercircleresources.com/)
+- [Dynamic product management in a static e-commerce workflow](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful)
+<br>
+
+F
+- [From WordPress to JAMstack: How to make your website 10x faster](https://hackernoon.com/from-wordpress-to-jamstack-how-to-make-your-website-10x-faster-e363abc46e2d)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
+<br>
+
+H
+- [How to Build a JAMstack Website using Vue.js, Nuxt.js and Cosmic JS](https://cosmicjs.com/articles/how-to-build-a-jamstack-website-using-vuejs-nuxtjs-and-cosmic-js-jws3mpy1)
+- [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
+- [How to build a Static Serverless Blog for Free😇] (https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
+- [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
+- [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
+<br>
+
+I
+- [Isomorphic Rendering on the JAMstack](https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/)
+<br>
+
+J
+- [JAMstack: The What, The Why and The How](https://scotch.io/tutorials/jamstack-the-what-the-why-and-the-how)
+- [JAMstack Basics: How to Create a Gatsby Starter with Contentful and Deploy to Netlify](https://itnext.io/jamstack-basics-how-to-create-a-gatsby-starter-with-contentful-and-deploy-to-netlify-846354cc74bc)
+- [JAMstack vs Isomorphic Server Side Rendering](https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/)
+<br>
+
+M
+- [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
+<br>
+
+N
+- [Next.js E-Commerce Tutorial: Quick Shopping Cart Integration](https://hashnode.com/post/nextjs-e-commerce-tutorial-quick-shopping-cart-integration-cjy074x9l0017zxs17tn6yp4d)
+- [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
+- [New to JAMstack? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
+<br>
+
+P
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
+<br>
+
+S
+- [Secure and Scalable: An Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)
+<br>
+
+T
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
+<br>
+
+W
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
+- [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
+<br>
+
+Z
+- [Zero to HTTP/2 with AWS and Hugo](https://habd.as/zero-to-http-2-aws-hugo/)
 
 </details>
 
@@ -130,25 +178,59 @@ Useful articles and learning resources.
   
 <br />
 
-- [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
-- [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
-- [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
-- [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
-- [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
-- [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
-- [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
-- [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
-- [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
-- [Vercel](https://vercel.com/) - The easiest way to deploy websites
+B
 - [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
-- [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
-- [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
+<br>
+
+C
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
-- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
-- [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
-- [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
+<br>
+
+D
+- [Disqus](https://disqus.com/) - Blog comment hosting service for your JAMstack sites
+<br>
+
+E
+- [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
+<br>
+
+G
+- [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
+<br>
+
+H
+- [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
+- [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
+<br>
+
+J
+- [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
+<br>
+
+N
+- [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
+- [NetlifyCMS](https://www.netlifycms.org/) - Headless CMS content management for your Git workflow
+<br>
+
+P
+- [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
+- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+
+<br>
+
+S
+- [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
+- [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
+- [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+- [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
+
+<br>
+
+V
+- [Vercel](https://vercel.com/) - The easiest way to deploy websites
+
 
 </details>
 
