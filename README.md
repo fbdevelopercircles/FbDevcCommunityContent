@@ -104,7 +104,7 @@ F
 H
 - [How to Build a JAMstack Website using Vue.js, Nuxt.js and Cosmic JS](https://cosmicjs.com/articles/how-to-build-a-jamstack-website-using-vuejs-nuxtjs-and-cosmic-js-jws3mpy1)
 - [How to Build a Blog using React Static and Cosmic JS](https://sumitkharche.hashnode.dev/how-to-build-a-blog-using-react-static-and-cosmic-js-cjxewj3xa000kjms1c9s0qaae)
-- [How to build a Static Serverless Blog for Free😇](https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
+- [How to build a Static Serverless Blog for Free😇] (https://sujaykundu.hashnode.dev/how-to-build-a-static-serverless-blog-for-free-cjwgqd96u001ezws1v8linwdk)
 - [Handling File Uploads in GraphQL and Vue](https://scotch.io/tutorials/handling-file-uploads-in-graphql-and-vue)
 - [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
 <br>
