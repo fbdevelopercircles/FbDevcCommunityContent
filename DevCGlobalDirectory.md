@@ -467,11 +467,12 @@
 
 <details>
   <summary>
-    <b>DevC [Add yours here]</b>
+    <b>DevC Delhi,NCR</b>
   </summary>
 
   - Lead(s):
-    - [Full Name](Github Profile Link)
-  - Facebook Group: [Link to FB Group]
-  - Github: [Link to local DevC GitHub repo (if any)]
+    - [Saransh Kataria](https://github.com/saranshkataria)
+    - [Harshit Juneja](https://github.com/harshitjuneja)
+  - Facebook Group: https://www.facebook.com/groups/DevCDelhiNCR
+  - GitHub: https://github.com/facebook-developer-circle-delhi
 </details>
