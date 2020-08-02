@@ -462,6 +462,16 @@
   - Facebook Group:https://www.facebook.com/groups/devcnairobi
 </details>
 
+<details>
+  <summary>
+    <b>DevC London</b>
+  </summary>
+
+  - Lead(s):
+    - [Sebastian Kotur](https://github.com/skotur)
+  - Facebook Group: https://www.facebook.com/groups/DevCLondon
+</details>
+
 
 ## Template
 
