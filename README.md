@@ -247,6 +247,16 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
 
+<details>
+  <summary>
+     Resume builder
+  </summary>
+
+<br />
+
+- [free resume builder sites](https://zety.com/resume-builder) - templates are given to build your resume.
+</details>
+
 ## License
 
 Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
