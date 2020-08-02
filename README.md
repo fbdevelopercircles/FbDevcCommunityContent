@@ -121,6 +121,8 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [Frontend Masters](https://frontendmasters.com/) - Learn JavaScript, React, Vue and Angular
+
 </details>
 
 <details>
@@ -149,6 +151,7 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+- [Code Pen](https://codepen.io/) - Build, test and discover frontend codes
 
 </details>
 
