@@ -149,7 +149,7 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
-
+- [Amazon Web Services](https://aws.amazon.com) - Build, Deploy, and Manage Websites, Apps or Processes On AWS' Secure, Reliable Network.
 </details>
 
 <details>
