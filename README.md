@@ -127,6 +127,7 @@ Useful articles and learning resources.
 - [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
 - [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
+- [Laravel News](https://laravel-news.com/) - A blog for tutorials, packages and latest news for the Laravel framework.
 </details>
 
 <details>
