@@ -197,6 +197,7 @@ Useful articles and learning resources.
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
+- [The Block Element Modifier (BEM) Naming Convention (Methodology) - CSS Tutorial](https://www.youtube.com/watch?v=u-XKw585KqY), the widely popular front-end naming convention called BEM (Block Element Modifier), it makes your code easier to read and maintain.
 </details>
 
 <details>
