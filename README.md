@@ -121,6 +121,7 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [Uber Engineering Blog](https://eng.uber.com/) - A blog about Uber's General Engineering
 </details>
 
 <details>
