@@ -1,0 +1,1 @@
+If you are a beginner to programming and/or Julia this guide can help get started with basic tutorials head over to: [Julia Learning Notes](https://github.com/shriaas2898/Julia-Learning-Notes) by @shriaas2898 
