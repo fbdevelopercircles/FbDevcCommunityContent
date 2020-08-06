@@ -102,6 +102,7 @@ Useful articles and learning resources.
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
+- [How to learn JavaScript quickly?](https://hackr.io/blog/how-to-learn-javascript-quickly)
 
 </details>
 
@@ -121,6 +122,7 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+
 </details>
 
 <details>
