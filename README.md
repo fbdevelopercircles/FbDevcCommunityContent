@@ -197,6 +197,8 @@ Useful articles and learning resources.
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
+- [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
+- [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 </details>
 
 <details>
