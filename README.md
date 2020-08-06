@@ -127,7 +127,7 @@ Useful articles and learning resources.
   <summary>
     🛠 Tools
   </summary>
-  
+  A list of useful Developer Tools
 <br />
 
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
@@ -149,7 +149,7 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
-
+- [MockApi](https://www.mockapi.io/) - Lets you easily mock up APIs, generate custom data, and perform operations on it using RESTful interface
 </details>
 
 <details>
