@@ -121,6 +121,7 @@ Useful articles and learning resources.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
+- [Upload images from local drive to codepen.io](https://forum.freecodecamp.org/t/how-to-add-pictures-from-photos-folder-to-code-pen/54522) - How to upload image from localdrive to code pen.
 
 ## 📖Books
 
