@@ -151,6 +151,8 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+- [Whimsical](https://whimsical.com/) - The visual workspace – collaborative wireframes, flowcharts, sticky notes, and mind maps.
+- [Colorsinspo](https://colorsinspo.com/) - A place to learn about colors by different experiences, get the right color palette from the thousands of palettes, use various approaches to select palettes, and a lot more.
 
 </details>
 
