@@ -121,7 +121,7 @@ Useful articles and learning resources.
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 - [Emotion](https://emotion.sh/docs/introduction) - A CSS-in-JS library that promises users a high level of performance and flexibility.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
-- [Upload images from local drive to codepen.io](https://forum.freecodecamp.org/t/how-to-add-pictures-from-photos-folder-to-code-pen/54522) - How to upload image from localdrive to code pen.
+- [Upload images from local drive to codepen.io](https://forum.freecodecamp.org/t/how-to-add-pictures-from-photos-folder-to-code-pen/54522) - How to upload images from localdrive to codepen.io.
 
 ## 📖Books
 
@@ -147,6 +147,7 @@ Useful articles and learning resources.
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
+-[Before learning javascript framework](https://youtu.be/Cm3U-NgJb9I),DevMountain.
 
 ## 🎙Podcasts
 
