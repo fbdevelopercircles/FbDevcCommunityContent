@@ -135,10 +135,11 @@
   - Region: West Africa
   - Github: https://github.com/devcuyo
 
-+ **DevC [Add yours here]**
++ **DevC Owerri**
   - Leads:
-    - N/A
-  - Facebook Group: [Link to FB Group]
-  - Region: [Region]
-  - Github: [Link to local DevC GitHub repo (if any)]
+    - [Ndubuisi Onyemenam](https://github.com/prondubuisi)
+    -[Prosper Opara](https://github.com/kodekage)
+  - Facebook Group: [https://web.facebook.com/groups/325261998362175/]
+  - Region: West Africa
+  - Github: https://github.com/fbdevcowerri
   

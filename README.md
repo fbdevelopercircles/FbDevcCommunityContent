@@ -96,6 +96,7 @@ Useful articles and learning resources.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
+- [Understanding Regular Function & Converting To Arrow Function](https://medium.com/@obiagba.mary.ifeoma/understanding-regular-function-converting-to-arrow-function-3121446a663)
 
 ## 📝Blogs
 
