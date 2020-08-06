@@ -102,7 +102,7 @@ Useful articles and learning resources.
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
-- [How to learn JavaScript quickly?](https://hackr.io/blog/how-to-learn-javascript-quickly)
+- [How to learn JavaScript quickly](https://hackr.io/blog/how-to-learn-javascript-quickly)
 
 </details>
 
