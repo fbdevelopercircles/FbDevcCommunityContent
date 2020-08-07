@@ -229,6 +229,17 @@ Useful articles and learning resources.
 
 <details>
   <summary>
+    :space_invader: Hackathons
+  </summary>
+  
+<br /> 
+
+- [Devpost](https://devpost.com/) - An awesome place for hackathons.
+- [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+</details>
+
+<details>
+  <summary>
     🎊 Fun
   </summary>
 
