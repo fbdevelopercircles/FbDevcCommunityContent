@@ -138,8 +138,8 @@
 + **DevC Owerri**
   - Leads:
     - [Ndubuisi Onyemenam](https://github.com/prondubuisi)
-    -[Prosper Opara](https://github.com/kodekage)
+    - [Prosper Opara](https://github.com/kodekage)
   - Facebook Group: [https://web.facebook.com/groups/325261998362175/]
   - Region: West Africa
   - Github: https://github.com/fbdevcowerri
-  
+
