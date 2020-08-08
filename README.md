@@ -104,7 +104,8 @@ Useful articles and learning resources.
 - [https://bolajiayodeji.com/](https://www.bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
-- [How to add a README to your GitHub profile](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9) - git and github related posts
+- [How to add a README to your GitHub profile](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9) - git/github related posts
+
 
 ## 🛠Tools
 
