@@ -121,6 +121,10 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+-[https://lo-victoria.com/](https://lo-victoria.com/) - Web Development and Javascript
+-[Simple Programmer](https://simpleprogrammer.com/) - Web Development and Career
+-[HackerNoon](https://hackernoon.com) -  Articles about Software Development, AI, Blockchain from real tech professionals
+
 </details>
 
 <details>
@@ -225,6 +229,7 @@ Useful articles and learning resources.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
+-[Five Minute Geek Show](http://www.fiveminutegeekshow.com/) - Technology and Motivation
 </details>
 
 <details>
