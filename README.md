@@ -178,6 +178,8 @@ Useful articles and learning resources.
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
+- [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/), by Ian Pointer
+
 </details>
 <details>
   <summary>
