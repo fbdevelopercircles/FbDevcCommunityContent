@@ -103,7 +103,7 @@ Useful articles and learning resources.
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
-
+- [How to create a Face Tracking Effect](https://sparkar.facebook.com/ar-studio/learn/tutorials/creating-a-face-tracking-effect/)
 </details>
 
 <details>
