@@ -140,6 +140,7 @@ Useful articles and learning resources.
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
+- [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
 - [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
