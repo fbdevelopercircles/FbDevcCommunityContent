@@ -402,6 +402,7 @@
     - [Aurelien Xavier](https://github.com/xavier-pay)
     - [Suzy Tresor Tchegnelene](https://github.com/tchegnelenesuzy)
   - Facebook Group: https://www.facebook.com/groups/1216588391854380/
+  - Github: https://github.com/devcyaounde
 </details>
 
 <details>
