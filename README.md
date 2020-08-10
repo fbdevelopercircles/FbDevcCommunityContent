@@ -179,6 +179,9 @@ Useful articles and learning resources.
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
+- [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
+
+
 </details>
 <details>
   <summary>
