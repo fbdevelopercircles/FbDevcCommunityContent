@@ -103,6 +103,7 @@ Useful articles and learning resources.
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
+- [Comment utiliser les salons Messenger ?](https://web.facebook.com/help/messenger-app/819584731857901?_rdc=1&_rdr)
 
 </details>
 
