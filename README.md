@@ -124,6 +124,7 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
 - [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
 </details>
