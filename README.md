@@ -116,12 +116,21 @@ Useful articles and learning resources.
 <br />
 
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
+- [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
+- [Blogs by DevC Nairobi](https://medium.com/devcnairobi) - Technical articles by Facebook for Developers Circle Nairobi
+- [GitHub Blog](https://github.blog/) - Regular updates, ideas, and inspiration from GitHub to help developers build and design software.
+- [WhatsApp Blog](https://blog.whatsapp.com/) - New features updates by Whatsapp and guides on using WhatsApp business.
+- [Facebook for Media](https://web.facebook.com/facebookmedia/blog) - Friendly tips and news on using facebook features
+- [Nextjs blog](https://nextjs.org/blog) - Javascript, React(using Nextjs framework), Nextjs
+- [Gatsby](https://www.gatsbyjs.org/blog/) - JavaScript, React(using gatsby framework), Gatsby
+- [WebDev Trick](https://webdevtrick.com/) - HTML, CSS, JQuery designs.
+- [React blog](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html) - Reactjs blog
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
 - [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
