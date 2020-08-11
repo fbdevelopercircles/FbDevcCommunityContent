@@ -105,6 +105,7 @@ Useful articles and learning resources.
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [Richer, more accessible UIs with React Spectrum](https://blog.logrocket.com/rich-accessible-uis-react-spectrum/)
+- [Gatsby APIs you need to know](https://blog.logrocket.com/gatsby-apis-you-need-to-know/)
 
 </details>
 
