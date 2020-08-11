@@ -44,6 +44,20 @@
   - Github: https://github.com/DevC-Kingston
 </details>
 
+<details>
+  <summary>
+    <b>DevC Boston</b>
+  </summary>
+
+  - Lead(s):
+    - [Henry Saniuk](https://github.com/speakerbug)
+    - [Jackie McGraw](https://github.com/JacquelineDMcGraw)
+    - [Courtney Clay](https://github.com/courtneyclayart)
+    - [Jessica Lindsay](https://github.com/jesslindz)
+  - Facebook Group: https://www.facebook.com/groups/DevCBoston
+  - GitHub: https://github.com/Boston-DevC
+</details>
+
 
 ## APAC (Asia Pacific)
 
