@@ -363,7 +363,6 @@
   <summary>
     <b>DevC Aba</b>
   </summary>
-
   - Lead(s):
     - [Uka Emmanuel](https://github.com/Mista-Rite)
   - Facebook Group:https://web.facebook.com/groups/DevCAba/
