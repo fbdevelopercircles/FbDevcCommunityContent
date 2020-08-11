@@ -136,6 +136,10 @@ Useful articles and learning resources.
 - [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
 - [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
+- [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
+- [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
+- [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
 </details>
 
 <details>
