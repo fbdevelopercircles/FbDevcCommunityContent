@@ -123,6 +123,7 @@ Useful articles and learning resources.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
+- [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
 </details>
 
 <details>
