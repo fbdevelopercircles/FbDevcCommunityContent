@@ -107,7 +107,7 @@ Useful articles and learning resources.
 - [Richer, more accessible UIs with React Spectrum](https://blog.logrocket.com/rich-accessible-uis-react-spectrum/)
 - [Gatsby APIs you need to know](https://blog.logrocket.com/gatsby-apis-you-need-to-know/)
 - [Cashing in on the JavaScript Payment Request API](https://blog.logrocket.com/javascript-payment-request-api/)
-
+- [A guide to using React Router v6 in React apps](https://blog.logrocket.com/react-router-v6/)
 </details>
 
 <details>
