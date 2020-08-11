@@ -175,6 +175,7 @@ Useful articles and learning resources.
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
+- [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
 </details>
 
 <details>
