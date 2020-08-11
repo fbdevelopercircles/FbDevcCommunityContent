@@ -193,6 +193,16 @@
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
 </details>
 
+<details>
+  <summary>
+    <b>DevC Dhaka</b>
+  </summary>
+  
+  - Lead(s):
+    - [Arif Nezami](https://github.com/arifnezami)
+    
+  - Facebook Group: https://www.facebook.com/groups/DevCDhaka/
+</details>
 
 ## India
 
