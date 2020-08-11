@@ -102,6 +102,9 @@ Useful articles and learning resources.
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
+- [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
+- [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
+
 
 </details>
 
@@ -121,6 +124,9 @@ Useful articles and learning resources.
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
+- [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
+- [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
 </details>
 
 <details>
@@ -138,6 +144,7 @@ Useful articles and learning resources.
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
+- [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
 - [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
@@ -149,6 +156,7 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
 
 </details>
 
@@ -176,6 +184,9 @@ Useful articles and learning resources.
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
+- [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
+
+
 </details>
 <details>
   <summary>
@@ -198,6 +209,8 @@ Useful articles and learning resources.
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
 - [The Block Element Modifier (BEM) Naming Convention (Methodology) - CSS Tutorial](https://www.youtube.com/watch?v=u-XKw585KqY), the widely popular front-end naming convention called BEM (Block Element Modifier), it makes your code easier to read and maintain.
+- [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
+- [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 </details>
 
 <details>
@@ -226,6 +239,17 @@ Useful articles and learning resources.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
+</details>
+
+<details>
+  <summary>
+    :space_invader: Hackathons
+  </summary>
+  
+<br /> 
+
+- [Devpost](https://devpost.com/) - An awesome place for hackathons.
+- [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
 </details>
 
 <details>
