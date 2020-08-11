@@ -106,6 +106,7 @@ Useful articles and learning resources.
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [Richer, more accessible UIs with React Spectrum](https://blog.logrocket.com/rich-accessible-uis-react-spectrum/)
 - [Gatsby APIs you need to know](https://blog.logrocket.com/gatsby-apis-you-need-to-know/)
+- [Cashing in on the JavaScript Payment Request API](https://blog.logrocket.com/javascript-payment-request-api/)
 
 </details>
 
