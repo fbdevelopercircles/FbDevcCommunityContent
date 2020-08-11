@@ -44,6 +44,20 @@
   - Github: https://github.com/DevC-Kingston
 </details>
 
+<details>
+  <summary>
+    <b>DevC Boston</b>
+  </summary>
+
+  - Lead(s):
+    - [Henry Saniuk](https://github.com/speakerbug)
+    - [Jackie McGraw](https://github.com/JacquelineDMcGraw)
+    - [Courtney Clay](https://github.com/courtneyclayart)
+    - [Jessica Lindsay](https://github.com/jesslindz)
+  - Facebook Group: https://www.facebook.com/groups/DevCBoston
+  - GitHub: https://github.com/Boston-DevC
+</details>
+
 
 ## APAC (Asia Pacific)
 
@@ -168,6 +182,17 @@
   - Github: 
 </details>
 
+<details>
+  <summary>
+    <b>DevC Kathmandu</b>
+  </summary>
+  
+  - Lead(s):
+    - [Chandan Thakur](https://github.com/ihackme)
+    
+  - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
+</details>
+
 
 ## India
 
@@ -178,7 +203,7 @@
 
   - Lead(s):
     - [Sabyasachi Mukhopadhyay](https://github.com/Sabyasachi123276)
-  - Facebook Group: https://www.facebook.com/groups/DevCKolkata/
+  - Facebook Group: https://www.facebook.com/groups/DevCKolkata
   - GitHub: 
 </details>
 
@@ -223,7 +248,7 @@
   </summary>
 
   - Lead(s):
-    - [Kaushik Mishra](https://github.com/kaushik27mishra)
+    - [Meghal Agrawal](https://github.com/meghalagrawal)
   - Facebook Group: https://www.facebook.com/groups/DevCRaipur
 </details>
 
@@ -281,9 +306,19 @@
 
 <details>
   <summary>
-    <b>DevC Trivandrum</b>
+    <b>DevC Coimbatore</b>
   </summary>
 
+  - Lead(s):
+    - [Bharath Raj Kumar](https://github.com/brk9595)
+  - Facebook Group: https://www.facebook.com/groups/DevCCoimbatore/
+</details>
+
+<details>
+  <summary>
+    <b>DevC Trivandrum</b>
+  </summary>
+  
   - Lead(s):
     - [Prashanth Reddy](https://github.com/prashanth726)
   - Facebook Group: https://www.facebook.com/groups/DevCTRV/
@@ -374,6 +409,18 @@
 
 <details>
   <summary>
+    <b>DevC Yaounde</b>
+  </summary>
+
+  - Lead(s):
+    - [Aurelien Xavier](https://github.com/xavier-pay)
+    - [Suzy Tresor Tchegnelene](https://github.com/tchegnelenesuzy)
+  - Facebook Group: https://www.facebook.com/groups/1216588391854380/
+  - Github: https://github.com/devcyaounde
+</details>
+
+<details>
+  <summary>
     <b>DevC Owerri</b>
   </summary>
 
@@ -418,6 +465,18 @@
   - Facebook Group: https://www.facebook.com/groups/DevCEldoret
   - Github: https://github.com/DevCEldoret
 </details>
+
+<details>
+  <summary>
+    <b>DevC Nairobi</b>
+  </summary>
+
+  - Lead(s):
+    - [Eddie Kago](https://github.com/scripttie)
+    - Carol Kariuki
+  - Facebook Group:https://www.facebook.com/groups/devcnairobi
+</details>
+
 
 ## Template
 
