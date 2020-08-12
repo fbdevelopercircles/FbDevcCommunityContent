@@ -193,6 +193,16 @@
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
 </details>
 
+<details>
+  <summary>
+    <b>DevC Dhaka</b>
+  </summary>
+  
+  - Lead(s):
+    - [Arif Nezami](https://github.com/arifnezami)
+    
+  - Facebook Group: https://www.facebook.com/groups/DevCDhaka/
+</details>
 
 ## India
 
@@ -392,6 +402,7 @@
 
   - Lead(s):
     - [Tane J. Tangu](https://github.com/tanerochris)
+    - [Yakam T. Cressence](https://github.com/Cressence)
   - Facebook Group: https://www.facebook.com/groups/DevCBuea
   - Github: https://github.com/devcbuea
 </details>
