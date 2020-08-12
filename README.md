@@ -96,6 +96,7 @@ Useful articles and learning resources.
 - [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
 - [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
 - [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
+- [A Basic Interview Question: Can You Explain Every Part of a URL?](https://medium.com/better-programming/a-basic-interview-question-can-you-explain-every-part-of-a-url-41fec140f80d)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
