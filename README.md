@@ -156,6 +156,7 @@ Useful articles and learning resources.
 - [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
+- [KintoHub](https://www.kintohub.com/) - KintoHub is an all-in-one platform to combine and deploy your backend services, websites, cron jobs, databases and everything your app needs in one place.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
