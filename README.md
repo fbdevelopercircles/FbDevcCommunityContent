@@ -283,6 +283,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox Froggy, a game where you help Froggy and friends by writing CSS code.
+- [CSS Garden](https://cssgridgarden.com/) - Grid Garden, where you write CSS code to grow your carrot garden!
 </details>
 
 ## License
