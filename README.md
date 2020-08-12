@@ -105,6 +105,7 @@ Useful articles and learning resources.
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [How to Make Programming a Daily Habit](https://www.freecodecamp.org/news/how-to-make-programming-a-daily-habit/)
+- [Building a Blog With Gatsby and GraphQL](https://ultimatecourses.com/blog/building-a-blog-with-gatsby-and-graphql)
 
 </details>
 
