@@ -105,7 +105,7 @@ Useful articles and learning resources.
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [JavaScript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
-
+- [5 useful tips on landing your first developer job ](https://compiled.blog/blog/five-tips-on-landing-your-first-developer-job)
 </details>
 
 <details>
