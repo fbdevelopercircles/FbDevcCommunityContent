@@ -104,7 +104,8 @@ Useful articles and learning resources.
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
-
+- [How to Make Programming a Daily Habit](https://www.freecodecamp.org/news/how-to-make-programming-a-daily-habit/)
+- [Building a Blog With Gatsby and GraphQL](https://ultimatecourses.com/blog/building-a-blog-with-gatsby-and-graphql)
 
 </details>
 
@@ -139,7 +140,7 @@ Useful articles and learning resources.
 - [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
-- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core
 </details>
 
 <details>
@@ -169,7 +170,7 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
-- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages.
 
 </details>
 
@@ -199,7 +200,6 @@ Useful articles and learning resources.
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 - [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
 
-
 </details>
 <details>
   <summary>
@@ -222,8 +222,10 @@ Useful articles and learning resources.
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
-- [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
+- [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts
 - [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
+- [Complete React Tutorial with Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG),by The Net Ninja
+- [Mobile-First Responsive Build](https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4),by The Net Ninja
 
 </details>
 
@@ -260,7 +262,7 @@ Useful articles and learning resources.
     :space_invader: Hackathons
   </summary>
   
-<br /> 
+<br />
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
