@@ -366,7 +366,7 @@
 
   - Lead(s):
     - [Uka Emmanuel](https://github.com/Mista-Rite)
-  - Facebook Group:https://web.facebook.com/groups/DevCAba/
+  - Facebook Group: https://web.facebook.com/groups/DevCAba
 </details>
 
 <details>
