@@ -17,6 +17,36 @@
   - Github: https://github.com/Facebook-Developers-Circle-CDMX-Retos
 </details>
 
+<details>
+  <summary>
+    <b>DevC Cordoba City</b>
+  </summary>
+
+  - Lead(s):    
+    - Juan Cruz Gabriel
+    - Gaston Jofre
+    - Marcos Carranza
+    - Nico Fiorito
+    - Valeria Ibañez
+    - Santi Ruffino
+    - Juan Levis
+  - Facebook Group: https://www.facebook.com/groups/DevCCordoba/
+  - Github: https://github.com/devc-cordoba
+</details>
+
+<details>
+  <summary>
+    <b>DevC Lima City</b>
+  </summary>
+
+  - Lead(s):
+    - Danilo Britto Nuñez
+    - Gabriel Melendez
+    - Sergio Melendez
+    - Pablo Huaccha Olivares
+  - Facebook Group: https://www.facebook.com/groups/DevCLima  
+</details>
+
 ## NORAM (North America)
 
 <details>
