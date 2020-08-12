@@ -104,7 +104,8 @@ Useful articles and learning resources.
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
-
+- [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
+- [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
 
 </details>
 
