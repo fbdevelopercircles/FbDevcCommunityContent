@@ -185,6 +185,7 @@ Useful articles and learning resources.
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 - [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
+- [Pattern Recognition and Machine ](https://drive.google.com/file/d/1Z-Rc4LvcvE57UBbBO32DGgnooGHIGTzU/view?usp=sharing), by Christopher M. Bishop
 
 
 </details>
