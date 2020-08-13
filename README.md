@@ -115,7 +115,7 @@ Useful articles and learning resources.
   </summary>
 
 <br />
-- [https://flaviocopes.com/](https://flaviocopes.com/) - Web Development, DevOpsand General Programming
+- [https://flaviocopes.com/](https://flaviocopes.com/) - Web Development, DevOpsand General Programming for web Development
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
