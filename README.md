@@ -115,6 +115,7 @@ Useful articles and learning resources.
   </summary>
 
 <br />
+- [ Smashing Magazine](smashingmagazine.com/) - A website  that offers editorial content and professional resources for web developers and web designers
 - [https://flaviocopes.com/](https://flaviocopes.com/) - Web Development, DevOpsand General Programming for web Development
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
