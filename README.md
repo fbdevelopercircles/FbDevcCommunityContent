@@ -142,6 +142,7 @@ Useful articles and learning resources.
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
 - [web.dev](web.dev) -  A ultimate resource for developers of all backgrounds for learning to build for the modern web
+- [Developers Documentation](https://developer.mozilla.org)- A web Development Learning Resources for developers
 </details>
 
 <details>
