@@ -104,7 +104,8 @@ Useful articles and learning resources.
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
-
+- [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
+- [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
 
 </details>
 
@@ -253,6 +254,7 @@ Useful articles and learning resources.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
+- [DataFramed](https://www.datacamp.com/community/podcast) - A DataCamp’s official podcast.they approache this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best etc...
 </details>
 
 <details>
