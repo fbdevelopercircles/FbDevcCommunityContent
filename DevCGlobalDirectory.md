@@ -488,6 +488,17 @@
   - Facebook Group:https://www.facebook.com/groups/devcnairobi
 </details>
 
+<details>
+  <summary>
+    <b>DevC Akure</b>
+  </summary>
+
+  - Lead(s):
+    - [Bashir T. Korede](https://github.com/bashirk)
+  - Facebook Group: https://web.facebook.com/groups/DevCAkure
+  - Github: https://github.com/devcakure
+</details>
+
 
 ## Template
 
