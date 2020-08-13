@@ -257,6 +257,9 @@ Useful articles and learning resources.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 - [DataFramed](https://www.datacamp.com/community/podcast) - A DataCamp’s official podcast.they approache this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best etc...
+
+- [Code Radio](https://coderadio.freecodecamp.org) Freecodecamp
+
 </details>
 
 <details>
