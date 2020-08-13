@@ -126,20 +126,21 @@ Useful articles and learning resources.
 - [Blogs by DevC Nairobi](https://medium.com/devcnairobi) - Technical articles by Facebook for Developers Circle Nairobi
 - [GitHub Blog](https://github.blog/) - Regular updates, ideas, and inspiration from GitHub to help developers build and design software.
 - [WhatsApp Blog](https://blog.whatsapp.com/) - New features updates by Whatsapp and guides on using WhatsApp business.
-- [Facebook for Media](https://web.facebook.com/facebookmedia/blog) - Friendly tips and news on using facebook features
+- [Facebook for Media](https://web.facebook.com/facebookmedia/blog) - Friendly tips and news on using facebook features.
 - [Nextjs blog](https://nextjs.org/blog) - Javascript, React(using Nextjs framework), Nextjs
 - [Gatsby](https://www.gatsbyjs.org/blog/) - JavaScript, React(using gatsby framework), Gatsby
 - [WebDev Trick](https://webdevtrick.com/) - HTML, CSS, JQuery designs.
 - [React blog](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html) - Reactjs blog
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
-- [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure.
 - [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
-- [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
-- [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
-- [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
-- [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
-- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web.
+- [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web.
+- [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics.
+- [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks.
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core.
+- [Tania Rascia](https://www.taniarascia.com/) - Guides and tutorials on Javascript, Git, CSS, React, Vue e.t.c.
 </details>
 
 <details>
