@@ -210,6 +210,7 @@ Useful articles and learning resources.
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
+- [Standing Out In OSS Programs Applications](https://www.youtube.com/watch?v=42QHZ9TRqVQ&feature=youtu.be), by She Code Africa
 </details>
 
 <details>
