@@ -226,7 +226,7 @@ Useful articles and learning resources.
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 - [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
 
-- [Become a Software Developer](https://www.linkedin.com/learning/paths/become-a-software-developer?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning) by linkedin, certification included
+- [Become a Software Developer](https://www.linkedin.com/learning/paths/become-a-software-developer?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning) by linkedin with certification
 
 </details>
 
