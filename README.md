@@ -141,6 +141,8 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [web.dev](web.dev) -  A ultimate resource for developers of all backgrounds for learning to build for the modern web
+- [Developers Documentation](https://developer.mozilla.org)- A web Development Learning Resources for developers
 </details>
 
 <details>
@@ -171,6 +173,8 @@ Useful articles and learning resources.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [HackMD](hackmd.io) - Tool for Writting in MarkDown and Sharing content, write comments.
+- [GraphCool](https://www.graph.cool/)- Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
 
 </details>
 
