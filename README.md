@@ -266,6 +266,7 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [Major League Hacking](https://mlh.io/) - A place to learn and share official students' hackathons
 </details>
 
 <details>
