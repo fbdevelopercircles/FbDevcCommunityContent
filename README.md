@@ -115,7 +115,8 @@ Useful articles and learning resources.
   </summary>
 
 <br />
-
+- [ Smashing Magazine](smashingmagazine.com/) - A website  that offers editorial content and professional resources for web developers and web designers
+- [https://flaviocopes.com/](https://flaviocopes.com/) - Web Development, DevOpsand General Programming for web Development
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
@@ -149,7 +150,7 @@ Useful articles and learning resources.
   </summary>
   
 <br />
-
+- [CodePen](https://codepen.io) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster and easier.
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
@@ -170,7 +171,8 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
-- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages.
+- [Framer](https://www.framer.com)- Framer is the best prototyping tool for teams and groups.
 
 </details>
 
