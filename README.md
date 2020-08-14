@@ -141,6 +141,7 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [ITNEXT](https://itnext.io) - A platform for IT developers & software engineers to share knowledge, connect, collaborate, learn and experience next-gen technologies
 </details>
 
 <details>
@@ -171,7 +172,8 @@ Useful articles and learning resources.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
-
+- [Sublimerge](https://www.sublimerge.com/) -The professional diff & merge tool for Sublime Text
+- [Postwoman ](https://postwoman.io/) -• A free, fast and beautiful API request builder
 </details>
 
 <details>
@@ -225,7 +227,7 @@ Useful articles and learning resources.
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 - [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
-
+- [ Virtual Reality on the Web with React 360 ](https://www.youtube.com/watch?v=yVNULzIkxCI) by Veekas Shrivastava
 </details>
 
 <details>
