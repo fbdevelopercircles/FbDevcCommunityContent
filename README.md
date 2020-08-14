@@ -266,6 +266,7 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [helpwithcovid](https://helpwithcovid.com) - A place for Covid-19 based hackathons and projects.
 </details>
 
 <details>
