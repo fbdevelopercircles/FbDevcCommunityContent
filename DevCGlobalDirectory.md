@@ -44,6 +44,20 @@
   - Github: https://github.com/DevC-Kingston
 </details>
 
+<details>
+  <summary>
+    <b>DevC Boston</b>
+  </summary>
+
+  - Lead(s):
+    - [Henry Saniuk](https://github.com/speakerbug)
+    - [Jackie McGraw](https://github.com/JacquelineDMcGraw)
+    - [Courtney Clay](https://github.com/courtneyclayart)
+    - [Jessica Lindsay](https://github.com/jesslindz)
+  - Facebook Group: https://www.facebook.com/groups/DevCBoston
+  - GitHub: https://github.com/Boston-DevC
+</details>
+
 
 ## APAC (Asia Pacific)
 
@@ -179,6 +193,16 @@
   - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
 </details>
 
+<details>
+  <summary>
+    <b>DevC Dhaka</b>
+  </summary>
+  
+  - Lead(s):
+    - [Arif Nezami](https://github.com/arifnezami)
+    
+  - Facebook Group: https://www.facebook.com/groups/DevCDhaka/
+</details>
 
 ## India
 
@@ -378,6 +402,7 @@
 
   - Lead(s):
     - [Tane J. Tangu](https://github.com/tanerochris)
+    - [Yakam T. Cressence](https://github.com/Cressence)
   - Facebook Group: https://www.facebook.com/groups/DevCBuea
   - Github: https://github.com/devcbuea
 </details>
@@ -402,6 +427,7 @@
     - [Aurelien Xavier](https://github.com/xavier-pay)
     - [Suzy Tresor Tchegnelene](https://github.com/tchegnelenesuzy)
   - Facebook Group: https://www.facebook.com/groups/1216588391854380/
+  - Github: https://github.com/devcyaounde
 </details>
 
 <details>
