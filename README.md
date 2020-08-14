@@ -215,6 +215,7 @@ Useful articles and learning resources.
 - [GraphQL: The Mental Model](https://www.youtube.com/watch?v=zWhVAN4Tg6M), by Dhaivat Pandya
 - [You need an API: Now what?](https://www.youtube.com/watch?v=uWOWTwJA4rc), by Erin McKean
 - [The All Powerful Front End Developer](https://www.youtube.com/watch?v=grSxHfGoaeg), by Chris Coyier
+- [The Front-end Developer Guide for 2020](https://www.youtube.com/watch?v=UgBTKMUxudw), by Clever Programmer
 - [Frontend for a server-less stack](https://www.youtube.com/watch?v=XpveOehxvoM), by Brian Douglas
 - [Why static types in Javascript?](https://www.youtube.com/watch?v=E5y2dozTkZU), by Preethi Kasireddy
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
