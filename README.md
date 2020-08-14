@@ -106,6 +106,7 @@ Useful articles and learning resources.
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
 - [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
+- [Frontend Developer Bootcamp](https://www.frontendmasters.com/bootcamp)
 
 </details>
 
@@ -140,7 +141,8 @@ Useful articles and learning resources.
 - [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
-- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core
+- [CSS blog](https://www.css-tricks.com)- An Awesome blog on css
 </details>
 
 <details>
