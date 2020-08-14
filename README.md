@@ -58,6 +58,7 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+- [MLH Workshops](https://mlh.io/seasons/localhost/events)
 </details>
 
 <details>
@@ -266,6 +267,7 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [MLH Hackathons](https://mlh.io/seasons/2021/events)
 </details>
 
 <details>
