@@ -182,6 +182,7 @@ Useful articles and learning resources.
 <br />
 
 - [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
+- [How to Land a Six Figure Job In Tech With No Connections](https://forum.freecodecamp.org/t/the-freecodecamp-podcast-ep-28-how-to-land-a-six-figure-job-in-tech-with-no-connections/188469), by Austin Belcak.
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
