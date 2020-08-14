@@ -266,6 +266,10 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [MLH](https://mlh.io/) - A place where league of hackathons are hosted all over the world. 
+- [Devfolio](https://devfolio.co/) - More than a hackathon platform & have special spot for blockchain lovers. 
+- [HackerEarth](https://www.hackerearth.com/) - Place where corporates and governments organise hackathons. 
+- [MachineHack](https://www.machinehack.com/) - All the love for Machine Learning, ML specific Hackathons. 
 </details>
 
 <details>
