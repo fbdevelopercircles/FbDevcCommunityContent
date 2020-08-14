@@ -141,6 +141,7 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Spotify Engineering Blog](https://engineering.atspotify.com/) - An awesome blog from Spotify Engineers
 </details>
 
 <details>
