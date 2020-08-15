@@ -201,7 +201,7 @@ Useful articles and learning resources.
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 - [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
-
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html), by Harold Abelson and Gerald Jay Sussman
 
 </details>
 <details>
