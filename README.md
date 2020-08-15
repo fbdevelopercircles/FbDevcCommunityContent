@@ -182,6 +182,9 @@ Useful articles and learning resources.
 
 <br />
 
+- [Adding Bootstrap to a Vue CLI Project](https://travishorn.com/adding-bootstrap-to-a-vue-cli-project-98c2a30e0ed0), by Travis Horn
+
+
 - [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
