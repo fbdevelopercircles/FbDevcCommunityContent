@@ -140,7 +140,9 @@ Useful articles and learning resources.
 - [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
-- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core
+- [Minko Gechev Blog](https://blog.mgechev.com/) - Blog of Minko Gechev, an Engineer in the Angular team at Google.
+
 </details>
 
 <details>
@@ -199,7 +201,7 @@ Useful articles and learning resources.
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 - [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
-
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html), by Harold Abelson and Gerald Jay Sussman
 
 </details>
 <details>
