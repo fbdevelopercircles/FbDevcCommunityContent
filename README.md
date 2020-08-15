@@ -175,6 +175,7 @@ Useful articles and learning resources.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages.
 - [CodePen](https://www.codepen.io) - An Online code editor
+- [UI design](https://www.uidesigndaily.com) - An awesome rescource for designs for practice
 
 </details>
 
