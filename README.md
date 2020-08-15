@@ -140,7 +140,9 @@ Useful articles and learning resources.
 - [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
-- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core
+- [Minko Gechev Blog](https://blog.mgechev.com/) - Blog of Minko Gechev, an Engineer in the Angular team at Google.
+
 </details>
 
 <details>
