@@ -58,6 +58,9 @@ Useful workshop materials.
 - [React Router](https://github.com/DevCBali/react-router-workshop) \*Bahasa Indonesia
 - [Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux](https://github.com/microsoft/frontend-bootcamp)
 - [NodeSchool](https://nodeschool.io/)
+- [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
+- [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
+- [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 </details>
 
 <details>
@@ -141,6 +144,7 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [@praveenscience](https://blog.praveen.science/) - Tech blog including Git shortcuts and many more. 
 </details>
 
 <details>
@@ -170,7 +174,9 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
-- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages.
+- [Repl.it](https://repl.it/) - Code and collaborate, without friction.
+- [Emmet](https://docs.emmet.io/) - Emmet — the essential toolkit for web-developers
 
 </details>
 
@@ -264,8 +270,11 @@ Useful articles and learning resources.
   
 <br /> 
 
+- [MLH](https://mlh.io/) - Amazing platform for various workshops and hackathons
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [HackerEarth](https://www.hackerearth.com/challenges/hackathon/) - Hackathons which help you put your coding skills to work. Solve interesting business problems and real-world challenges.
+- [spotle.ai](https://spotle.ai/aithon) - Recognizing the best talents in Artificial Intelligence and Technology.
 </details>
 
 <details>
@@ -286,6 +295,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a good way to engage the community live and understand them using it's analytical dashboard.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
 </details>
 
 ## License
