@@ -69,6 +69,7 @@ Useful workshop materials.
 
 Useful articles and learning resources.
 
+- [How to learn React.js in 2020](https://www.robinwieruch.de/learn-React-Js)
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
