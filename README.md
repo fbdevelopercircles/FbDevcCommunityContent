@@ -172,7 +172,7 @@ Useful articles and learning resources.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages.
 = [Tailwindcss](https://tailwindcss.com/) - A css low level utilty framework
-
+- [React Query](https://react-query.tanstack.com/) - React query
 </details>
 
 <details>
