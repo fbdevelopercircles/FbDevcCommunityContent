@@ -1,0 +1,16 @@
+{
+  "name": "quick-bot",
+  "version": "1.0.0",
+  "description": "Quick Messenger Chatbot Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Messenger",
+    "Chatbot",
+    "Node.js"
+  ],
+  "author": "Khaled Abouseada",
+  "license": "ISC"
+}
