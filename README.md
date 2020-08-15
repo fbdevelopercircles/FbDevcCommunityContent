@@ -151,6 +151,7 @@ Useful articles and learning resources.
   
 <br />
 
+- [Codepen](https://codepen.io/) - The best place to build, test, and discover front-end code.
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
