@@ -286,6 +286,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [Mentimeter](https://www.mentimeter.com/) - Mentimeter is a good way to engage the community live and understand them using it's analytical dashboard.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox Froggy is a fun-filled way to learn Flexbox by helping Froggy and friends. 
 </details>
 
 ## License
