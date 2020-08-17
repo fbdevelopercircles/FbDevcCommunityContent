@@ -141,6 +141,7 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [TechCrunch](https://techcrunch.com/) – Startup and Technology News Blog
 </details>
 
 <details>
@@ -172,6 +173,7 @@ Useful articles and learning resources.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
 - [Postwoman](https://postwoman.io/) - A free, fast and beautiful API request builder
+- [JSFiddle](https://jsfiddle.net/)- An online IDE service and online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets.
 
 </details>
 
