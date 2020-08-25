@@ -106,6 +106,7 @@ Useful articles and learning resources.
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
 - [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
+- [Javascript Handbook](https://eloquentjavascript.net)
 
 </details>
 
@@ -172,6 +173,7 @@ Useful articles and learning resources.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
 
 </details>
 
