@@ -273,6 +273,17 @@ Useful articles and learning resources.
 
 <details>
   <summary>
+    ⚔️Code Battle
+  </summary>
+  
+ <br />
+ 
+- [Battlecode](https://www.battlecode.org/) - MIT's Longest-Running Programming Competition.In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at $30,000 in prizes!
+- [Hackerrank](https://www.hackerrank.com/code-battle/) - The contest will consist of 10 problems which have to be solved in 36 hours. The challenges may require the participant to write functions to solve specific part of problem or write the complete solution.
+</detail>
+
+<details>
+  <summary>
     🎊 Fun
   </summary>
 
@@ -290,6 +301,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
+
 
 ## License
 
