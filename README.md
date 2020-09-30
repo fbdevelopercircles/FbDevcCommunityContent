@@ -269,6 +269,7 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [HackerEarth](https://www.hackerearth.com/challenges/hackathon/) - A must-visit site for hackathon lovers.
 </details>
 
 <details>
