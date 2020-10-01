@@ -172,7 +172,7 @@ Useful articles and learning resources.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
-
+- [colorsinspo](https://colorsinspo.com/) - an online color pallet for web designers 
 </details>
 
 <details>
