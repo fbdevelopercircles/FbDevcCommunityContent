@@ -228,6 +228,7 @@ Useful articles and learning resources.
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 - [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
+- [Learn Javascript For Free Within 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk),by Code With Mosh
 
 </details>
 
@@ -280,6 +281,7 @@ Useful articles and learning resources.
  
 - [Battlecode](https://www.battlecode.org/) - MIT's Longest-Running Programming Competition.In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at $30,000 in prizes!
 - [Hackerrank](https://www.hackerrank.com/code-battle/) - The contest will consist of 10 problems which have to be solved in 36 hours. The challenges may require the participant to write functions to solve specific part of problem or write the complete solution.
+- [CodinGame](https://www.codingame.com/multiplayer/clashofcode) - Clash of Code is a game to improve your coding efficiency by solving short programming problems with other people, at the same time. Players share their solution at the end of a game to help other players improve their coding skills.
 </details>
 
 <details>
