@@ -102,6 +102,11 @@ Useful articles and learning resources.
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
+- [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
+- [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
+- [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
+- [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
+- [Javascript Handbook](https://eloquentjavascript.net)
 
 </details>
 
@@ -113,15 +118,31 @@ Useful articles and learning resources.
 <br />
 
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
+- [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
 - [LogRocket Blog](https://blog.logrocket.com/) - For Frontend Developers and Web App Engineers
 - [Hashnode](https://hashnode.com/) - A one-stop platform to start blogging as a developer.
+- [Blogs by DevC Nairobi](https://medium.com/devcnairobi) - Technical articles by Facebook for Developers Circle Nairobi
+- [GitHub Blog](https://github.blog/) - Regular updates, ideas, and inspiration from GitHub to help developers build and design software.
+- [WhatsApp Blog](https://blog.whatsapp.com/) - New features updates by Whatsapp and guides on using WhatsApp business.
+- [Facebook for Media](https://web.facebook.com/facebookmedia/blog) - Friendly tips and news on using facebook features
+- [Nextjs blog](https://nextjs.org/blog) - Javascript, React(using Nextjs framework), Nextjs
+- [Gatsby](https://www.gatsbyjs.org/blog/) - JavaScript, React(using gatsby framework), Gatsby
+- [WebDev Trick](https://webdevtrick.com/) - HTML, CSS, JQuery designs.
+- [React blog](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html) - Reactjs blog
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+- [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
+- [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
+- [Chrome Developers Blog](https://web.dev/blog/) - Everything you need to know about building for the modern web
+- [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
+- [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
+- [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [web.dev](https://web.dev/learn/) - Explore structured learning paths to discover everything you need to know about building high scallable web apps  for the modern web.
 </details>
 
 <details>
@@ -139,6 +160,7 @@ Useful articles and learning resources.
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
+- [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
 - [Vercel](https://vercel.com/) - The easiest way to deploy websites
 - [Babel](https://babeljs.io/) - A JS compiler and toolchain to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
@@ -151,6 +173,7 @@ Useful articles and learning resources.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
 
 </details>
 
@@ -178,6 +201,9 @@ Useful articles and learning resources.
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
+- [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
+
+
 </details>
 <details>
   <summary>
@@ -201,6 +227,8 @@ Useful articles and learning resources.
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
+- [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
+
 </details>
 
 <details>
@@ -229,6 +257,7 @@ Useful articles and learning resources.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
+- [DataFramed](https://www.datacamp.com/community/podcast) - A DataCamp’s official podcast.they approache this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best etc...
 </details>
 
 <details>
@@ -240,6 +269,17 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+</details>
+
+<details>
+  <summary>
+    ⚔️Code Battle
+  </summary>
+  
+ <br />
+ 
+- [Battlecode](https://www.battlecode.org/) - MIT's Longest-Running Programming Competition.In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at $30,000 in prizes!
+- [Hackerrank](https://www.hackerrank.com/code-battle/) - The contest will consist of 10 problems which have to be solved in 36 hours. The challenges may require the participant to write functions to solve specific part of problem or write the complete solution.
 </details>
 
 <details>
@@ -261,6 +301,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
+
 
 ## License
 
