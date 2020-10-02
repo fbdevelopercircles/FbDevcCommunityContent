@@ -251,6 +251,7 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [Devfolio](https://devfolio.co/hackathons)- An one stop place to find many Hackathons
 </details>
 
 <details>
