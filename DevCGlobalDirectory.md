@@ -488,6 +488,18 @@
   - Facebook Group:https://www.facebook.com/groups/devcnairobi
 </details>
 
+## South Asia
+
+<details>  
+  <summary>
+    <b>DevC Kathmandu</b>
+  </summary>
+
+  - Lead(s):
+    - Chandan Thakur
+  - Facebook Group: https://www.facebook.com/groups/DevCKathmandu/
+  - Github: N/A
+</details>
 
 ## Template
 
