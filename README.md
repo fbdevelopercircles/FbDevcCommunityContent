@@ -234,6 +234,7 @@ Useful articles and learning resources.
 <details>
   <summary>
     🎙 Podcasts
+    https://datastor.es/
   </summary>
 
 <br />
