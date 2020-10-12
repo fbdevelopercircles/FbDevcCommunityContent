@@ -107,6 +107,7 @@ Useful articles and learning resources.
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
 - [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
+- [Javascript Handbook](https://eloquentjavascript.net)
 
 </details>
 
@@ -144,6 +145,7 @@ Useful articles and learning resources.
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
 
+- [web.dev](https://web.dev/learn/) - Explore structured learning paths to discover everything you need to know about building high scallable web apps  for the modern web.
 </details>
 
 <details>
@@ -177,6 +179,7 @@ Useful articles and learning resources.
 - [Whimsical](https://whimsical.com/) - The visual workspace – collaborative wireframes, flowcharts, sticky notes, and mind maps.
 - [Colorsinspo](https://colorsinspo.com/) - A place to learn about colors by different experiences, get the right color palette from the thousands of palettes, use various approaches to select palettes, and a lot more.
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
 
 
 </details>
@@ -279,6 +282,17 @@ Useful articles and learning resources.
 
 <details>
   <summary>
+    ⚔️Code Battle
+  </summary>
+  
+ <br />
+ 
+- [Battlecode](https://www.battlecode.org/) - MIT's Longest-Running Programming Competition.In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at $30,000 in prizes!
+- [Hackerrank](https://www.hackerrank.com/code-battle/) - The contest will consist of 10 problems which have to be solved in 36 hours. The challenges may require the participant to write functions to solve specific part of problem or write the complete solution.
+</details>
+
+<details>
+  <summary>
     🎊 Fun
   </summary>
 
@@ -296,6 +310,7 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
+
 
 ## License
 
