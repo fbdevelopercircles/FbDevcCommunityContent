@@ -202,6 +202,7 @@ Useful articles and learning resources.
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 - [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
+- [Deep Learning](https://pytorch.org/deep-learning-with-pytorch), Eli Stevens, Luca Antiga, and Thomas Viehmann -- As Pytorch Organization has published it for free.
 
 
 </details>
