@@ -270,6 +270,7 @@ Useful articles and learning resources.
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
 - [HackathonsNear.Me](http://www.hackathonsnear.me) - It has a nice feature of Searching by a city or even address to find local hackathons. The coolest part is that they have a map.
+- [Hackalist](http://www.hackalist.org) - open source, it is also very cool for those who like to travel. It has a filter that only shows you hackathons giving travel reimbursement.
 </details>
 
 <details>
