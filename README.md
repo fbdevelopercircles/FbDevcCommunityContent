@@ -202,6 +202,7 @@ Useful articles and learning resources.
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
 - [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
+- [Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch), by Eli Stevens, Luca Antiga, Thomas Viehmann
 
 
 </details>
@@ -269,6 +270,8 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [HackathonsNear.Me](http://www.hackathonsnear.me) - It has a nice feature of Searching by a city or even address to find local hackathons. The coolest part is that they have a map.
+- [Hackalist](http://www.hackalist.org) - open source, it is also very cool for those who like to travel. It has a filter that only shows you hackathons giving travel reimbursement.
 </details>
 
 <details>
