@@ -269,6 +269,7 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [HackathonsNear.Me](http://www.hackathonsnear.me) - It has a nice feature of Searching by a city or even address to find local hackathons. The coolest part is that they have a map.
 </details>
 
 <details>
