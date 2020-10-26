@@ -143,6 +143,7 @@ Useful articles and learning resources.
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
 - [web.dev](https://web.dev/learn/) - Explore structured learning paths to discover everything you need to know about building high scallable web apps  for the modern web.
+- [@praveenscience](https://blog.praveen.science/) - Tech blog including Git shortcuts and many more. 
 </details>
 
 <details>
@@ -174,6 +175,8 @@ Useful articles and learning resources.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
 - [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
+- [Repl.it](https://repl.it/) - Code and collaborate, without friction.
+- [Emmet](https://docs.emmet.io/) - Emmet — the essential toolkit for web-developers
 
 </details>
 
@@ -228,6 +231,9 @@ Useful articles and learning resources.
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 - [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
+- [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
+- [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
+- [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
 </details>
 
@@ -269,6 +275,9 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [MLH](https://mlh.io/) - Amazing platform for various workshops and hackathons
+- [HackerEarth](https://www.hackerearth.com/challenges/hackathon/) - Hackathons which help you put your coding skills to work. Solve interesting business problems and real-world challenges.
+- [spotle.ai](https://spotle.ai/aithon) - Recognizing the best talents in Artificial Intelligence and Technology.
 </details>
 
 <details>
@@ -301,7 +310,6 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [QuizBreaker](https://www.quizbreaker.com/) - A scheduled virtual team building quiz delivered in inbox. Can be a good ice breaker.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
-
 
 ## License
 
