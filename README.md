@@ -311,19 +311,6 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
 
-<details>
-  <summary>
-    👨🏻‍💻 OpenSource
-  </summary>
-
-<br />
-
-OpenSource is for everyone.
-
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
-- [Fossasia](https://fossasia.org/) - FOSSASIA | Asia's Open Technology Organization 
-</details>
-
 ## License
 
 Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
