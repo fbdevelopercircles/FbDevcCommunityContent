@@ -144,6 +144,8 @@ Useful articles and learning resources.
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
 - [web.dev](https://web.dev/learn/) - Explore structured learning paths to discover everything you need to know about building high scallable web apps  for the modern web.
 - [@praveenscience](https://blog.praveen.science/) - Tech blog including Git shortcuts and many more. 
+- [TechCrunch](https://techcrunch.com/) – Startup and Technology News Blog
+
 </details>
 
 <details>
@@ -177,6 +179,9 @@ Useful articles and learning resources.
 - [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
 - [Repl.it](https://repl.it/) - Code and collaborate, without friction.
 - [Emmet](https://docs.emmet.io/) - Emmet — the essential toolkit for web-developers
+- [Postwoman](https://postwoman.io/) - A free, fast and beautiful API request builder
+- [JSFiddle](https://jsfiddle.net/)- An online IDE service and online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets.
+
 
 </details>
 
@@ -187,7 +192,7 @@ Useful articles and learning resources.
 
 <br />
 
-- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
+- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin 
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
