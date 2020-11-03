@@ -106,6 +106,7 @@ Useful articles and learning resources.
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
 - [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
+- [Javascript Handbook](https://eloquentjavascript.net)
 
 </details>
 
@@ -141,7 +142,10 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+- [web.dev](https://web.dev/learn/) - Explore structured learning paths to discover everything you need to know about building high scallable web apps  for the modern web.
+- [@praveenscience](https://blog.praveen.science/) - Tech blog including Git shortcuts and many more. 
 - [TechCrunch](https://techcrunch.com/) – Startup and Technology News Blog
+
 </details>
 
 <details>
@@ -172,8 +176,12 @@ Useful articles and learning resources.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
+- [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
+- [Repl.it](https://repl.it/) - Code and collaborate, without friction.
+- [Emmet](https://docs.emmet.io/) - Emmet — the essential toolkit for web-developers
 - [Postwoman](https://postwoman.io/) - A free, fast and beautiful API request builder
 - [JSFiddle](https://jsfiddle.net/)- An online IDE service and online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets.
+
 
 </details>
 
@@ -184,7 +192,7 @@ Useful articles and learning resources.
 
 <br />
 
-- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
+- [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin 
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
@@ -228,6 +236,9 @@ Useful articles and learning resources.
 - [Grit, the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) by Angela Lee Duckworth
 - [Growth vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) animated video by Sprouts  
 - [Make Your Own 3D Instagram Filters │Spark AR Basics Tutorial](https://www.youtube.com/watch?v=mIt2fdjExy0),by Black Mixture
+- [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
+- [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
+- [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
 </details>
 
@@ -269,6 +280,20 @@ Useful articles and learning resources.
 
 - [Devpost](https://devpost.com/) - An awesome place for hackathons.
 - [hackathon.io](https://www.hackathon.io/events) - A place where lots of hackathons are hosted.
+- [MLH](https://mlh.io/) - Amazing platform for various workshops and hackathons
+- [HackerEarth](https://www.hackerearth.com/challenges/hackathon/) - Hackathons which help you put your coding skills to work. Solve interesting business problems and real-world challenges.
+- [spotle.ai](https://spotle.ai/aithon) - Recognizing the best talents in Artificial Intelligence and Technology.
+</details>
+
+<details>
+  <summary>
+    ⚔️Code Battle
+  </summary>
+  
+ <br />
+ 
+- [Battlecode](https://www.battlecode.org/) - MIT's Longest-Running Programming Competition.In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at $30,000 in prizes!
+- [Hackerrank](https://www.hackerrank.com/code-battle/) - The contest will consist of 10 problems which have to be solved in 36 hours. The challenges may require the participant to write functions to solve specific part of problem or write the complete solution.
 </details>
 
 <details>
