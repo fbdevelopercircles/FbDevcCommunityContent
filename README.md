@@ -116,7 +116,7 @@ Useful articles and learning resources.
   </summary>
 
 <br />
-
+- [Facebook for Developers Blog](https://developers.facebook.com/blog/) - Official Blog from Facebook for Developers
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
