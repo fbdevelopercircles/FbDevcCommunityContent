@@ -280,6 +280,7 @@ Useful articles and learning resources.
  
 - [Battlecode](https://www.battlecode.org/) - MIT's Longest-Running Programming Competition.In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at $30,000 in prizes!
 - [Hackerrank](https://www.hackerrank.com/code-battle/) - The contest will consist of 10 problems which have to be solved in 36 hours. The challenges may require the participant to write functions to solve specific part of problem or write the complete solution.
+- [CLASH OF CODE](https://www.codingame.com/multiplayer/clashofcode) - Clash of Code is a game to improve your coding efficiency by solving short programming problems with other people, at the same time. Players share their solution at the end of a game to help other players improve their coding skills.
 </details>
 
 <details>
