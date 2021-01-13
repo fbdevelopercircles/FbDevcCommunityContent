@@ -71,6 +71,7 @@ Useful articles and learning resources.
 
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [DevC Resources CMS](https://developercircleresources.com/)
+- [20 VS Code Shortcuts for Faster Coding](https://medium.com/better-programming/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
 - [5 Reasons Why You Should Find the Time for Mentoring](https://mmaksimovic.dev/5-reasons-why-you-should-find-the-time-for-mentoring-cju3tarp4007gqcs19cxysfo7)
 - [Byte Sized Computer Science: Order of Operations](https://scotch.io/tutorials/byte-sized-computer-science-order-of-operations)
