@@ -107,6 +107,7 @@ Useful articles and learning resources.
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
 - [How to deploy a create react app to Github pages](https://reactgo.com/deploy-react-app-github-pages/)
 - [Javascript Handbook](https://eloquentjavascript.net)
+- [Create a portfolio using React and GitHub Student Developer Pack](https://hackernoon.com/create-a-portfolio-using-react-and-github-student-developer-pack-955379207855)
 
 </details>
 
