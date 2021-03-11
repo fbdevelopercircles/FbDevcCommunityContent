@@ -312,6 +312,17 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
 
+<details>
+  <summary>
+    🐕 Pet Projects
+  </summary>
+
+<br />
+
+Awesome pet projects created by Facebook Developer Circles Community members.
+
+</details>
+
 ## License
 
 Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
