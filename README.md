@@ -312,6 +312,20 @@ Useful fun activities that can be done at the meetup/events/activities.
 - [TypeRacer](https://play.typeracer.com/) - TypeRacer is a fun way to engage people during a meetup while improving their typing skills.
 </details>
 
+<details>
+  <summary>
+    🎉 Events
+  </summary>
+
+<br />
+
+Current Events/Projects that are being hosted by Facebook (currently or upcoming).
+
+- [Open Source Immersion](https://developers.facebook.com/developercircles/open-source-immersion/) - The Developer Circles Open Source Immersion initiative is a month-long celebration of Open Source technology run by Facebook.
+  <b>Start Date:</b>&nbsp;July 15, 2020 at 12:00 AM PST
+  <b>End Date:</b>&nbsp;August 15, 2020 at 11:59:59 PM PST
+</details>
+
 ## License
 
 Facebook Developer Circles Community Content is [MIT licensed](./LICENSE).
