@@ -263,6 +263,7 @@ Useful articles and learning resources.
 - [Software Engineering](https://www.se-radio.net/) - A podcast targeted at the professional software developer managed by the volunteers and staff of IEEE Software.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
+- [TalkPython](https://talkpython.fm/) - A podcast on Python and related technologies.
 - [DataFramed](https://www.datacamp.com/community/podcast) - A DataCamp’s official podcast.they approache this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best etc...
 </details>
 
