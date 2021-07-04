@@ -102,6 +102,7 @@ Useful articles and learning resources.
 - [Prepare for your next interview](https://github.com/Nabagata/interview-prep)
 - [The Deno Handbook](https://flaviocopes.com/deno/)
 - [Why you should be using JAMSTACK](https://blog.logrocket.com/why-you-should-be-using-jamstack/)
+- [How to learn JavaScript quickly](https://hackr.io/blog/how-to-learn-javascript-quickly)
 - [Web development Technologies](https://www.tutorialspoint.com/web_development_tutorials.htm)
 - [Spark AR tutorials](https://sparkar.facebook.com/ar-studio/learn/tutorials/)
 - [How to learn React.js in 2020 ](https://www.robinwieruch.de/learn-react-js)
@@ -135,6 +136,7 @@ Useful articles and learning resources.
 - [React blog](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html) - Reactjs blog
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
+
 - [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
 - [Stephen Jude's Blog](http://stephenjude.me/) - Everything about PHP, Laravel and the Web
@@ -142,6 +144,7 @@ Useful articles and learning resources.
 - [IBM's Data and AI Blogs](https://www.ibm.com/analytics/blogs) - A blog on machine learning, artificial intelligence and relevant hot topics
 - [Wesbos](https://wesbos.com/blog) - A blog on JavaScript, it's libraries and frameworks
 - [Wake Up And Code](https://wakeupandcode.com/aspnetcore/) - An awesome blog series on ASP.NET Core 
+
 - [web.dev](https://web.dev/learn/) - Explore structured learning paths to discover everything you need to know about building high scallable web apps  for the modern web.
 - [@praveenscience](https://blog.praveen.science/) - Tech blog including Git shortcuts and many more. 
 </details>
@@ -173,10 +176,14 @@ Useful articles and learning resources.
 - [Create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configurations.
 - [Swagger](https://swagger.io/) - Design and document APIs compatible with OpenAPI specification.
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+
+- [Whimsical](https://whimsical.com/) - The visual workspace – collaborative wireframes, flowcharts, sticky notes, and mind maps.
+- [Colorsinspo](https://colorsinspo.com/) - A place to learn about colors by different experiences, get the right color palette from the thousands of palettes, use various approaches to select palettes, and a lot more.
 - [CodeSandBox](https://codesandbox.io/) - An Online IDE for rapid web development with live preview and support for npm packages. 
 - [FrontendMentor](https://www.frontendmentors.io)- An online resources for Frontend challenge
 - [Repl.it](https://repl.it/) - Code and collaborate, without friction.
 - [Emmet](https://docs.emmet.io/) - Emmet — the essential toolkit for web-developers
+
 
 </details>
 
@@ -204,8 +211,10 @@ Useful articles and learning resources.
 - [Pure React: Learn to think in React](https://purereact.com/), by Dave Ceddia
 
 - [Starting out with Python](https://www.pearson.com/us/higher-education/program/Gaddis-Starting-Out-with-Python-plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-3rd-Edition/PGM9873.html?tab=contents), by Tony Gaddis
-- [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
 
+- [Head First Object-Oriented Analysis and Design](https://amzn.to/3ki7KMk), by Brett D.McLaughlin, David West, and Gary Pollice 
+
+- [Road To Redux](https://www.roadtoredux.com/), by Robin Wieruch
 
 </details>
 <details>
