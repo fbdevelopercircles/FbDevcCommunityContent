@@ -134,6 +134,10 @@ Useful articles and learning resources.
 - [WebDev Trick](https://webdevtrick.com/) - HTML, CSS, JQuery designs.
 - [React blog](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html) - Reactjs blog
 - [Codepen Blog](https://blog.codepen.io/) - A blog about the ins and outs of running a web software business.
+
+- [Object Oriented Programming in Python](https://omarrrz-lounge.hashnode.dev/object-oriented-programming-ckbi8105000pfzqs1fel0kppd) - A blogpost which explains the concept of OOP
+- [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)- A blogpost which gives a step by step tutorial on Flask 
+
 - [Airbnb Engineering Blog](https://airbnb.io/) - A blog about Airbnb's Engineering and Data Science Structure
 - [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visually pleasing way of understanding machine learning
 - [Facebook AI Blog](https://ai.facebook.com/blog) - A blog on researches and open source projects at Facebook AI.
