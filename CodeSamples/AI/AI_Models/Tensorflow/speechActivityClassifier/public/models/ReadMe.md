@@ -1,0 +1,1 @@
+<p>A folder where our trained model will be saved</p>
