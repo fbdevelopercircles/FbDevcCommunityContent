@@ -21,6 +21,18 @@
 
 <details>
   <summary>
+    <b>DevC New York City</b>
+  </summary>
+
+  - Lead(s):
+    - [Olalekan Abou Bakar]()
+    - [Anna Med]()
+    - [Khaled Abouseada](https://github.com/khaled-11)
+  - Facebook Group: https://www.facebook.com/groups/DevCNewYork
+</details>
+
+<details>
+  <summary>
     <b>DevC Santo Domingo</b>
   </summary>
 
