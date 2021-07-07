@@ -96,6 +96,7 @@ Useful articles and learning resources.
 - [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
 - [Maximizing Your Professional Value, from Junior to Leader](https://hashnode.com/post/maximizing-your-professional-value-from-junior-to-leader-ck113mwvf000xmus1bpcke702)
 - [How to Launch a Side Project from Zero](https://sitepoint.hashnode.dev/how-to-launch-a-side-project-from-zero-cjznmdrs4001tcws1n2guubk3)
+- [A Basic Interview Question: Can You Explain Every Part of a URL?](https://medium.com/better-programming/a-basic-interview-question-can-you-explain-every-part-of-a-url-41fec140f80d)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Front-end Developer Handbook](https://thoughtworksinc.github.io/front-end-handbook/en/index.html)
@@ -119,7 +120,6 @@ Useful articles and learning resources.
 
 - [Wisdom Geek](https://www.wisdomgeek.com) - Web development and data science related posts
 - [https://bolajiayodeji.com/](https://bolajiayodeji.com/) - Web development, JavaScript and JAMstack related posts
-- [https://bolajiayodeji.com/](https://bolajiayodeji.com) - Web development, JavaScript and JAMstack related posts
 - [Free Code Camp](https://www.freecodecamp.org) - Software development related posts
 - [CSS Tricks](https://css-tricks.com) - CSS related posts
 - [DEV.to](https://dev.to) - The All in One Blogs Portal for Developers
@@ -160,6 +160,7 @@ Useful articles and learning resources.
 - [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
+- [KintoHub](https://www.kintohub.com/) - KintoHub is an all-in-one platform to combine and deploy your backend services, websites, cron jobs, databases and everything your app needs in one place.
 - [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
 - [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client
 - [StaticKit](https://statickit.com/) - Form Hosting for JAMstack Sites
