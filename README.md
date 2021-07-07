@@ -148,6 +148,18 @@ Useful articles and learning resources.
 
 <details>
   <summary>
+    🐱‍💻 Courses
+  </summary>
+
+<br />
+
+- [Github Education Pack](https://education.github.com/pack/) - Resources for programming and other
+
+</details>
+
+
+<details>
+  <summary>
     🛠 Tools
   </summary>
   
@@ -191,6 +203,7 @@ Useful articles and learning resources.
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
 - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), by Andy Hunt, Dave Thomas
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview), by Gayle Laakmann McDowell
+- [Introduction to Algorithms] (https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms), by Thomas H. Cormen, Charles E. Leiserson
 - [The Effective Engineer](https://www.goodreads.com/book/show/25238425-the-effective-engineer), by Edmond Lau
 - [The Developer's Guide to Content Creation](https://www.developersguidetocontent.com/), by Stephanie Morillo
 - [The Developer's Guide to Creating a Successful Blog](https://gumroad.com/l/successfulblog), by Flavio Copes
@@ -225,6 +238,7 @@ Useful articles and learning resources.
 - [Using Elm to Prototype and Build Web Applications](https://www.youtube.com/watch?v=Lmg9v2U6-y4), by David Calavera
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
+- [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) 
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
 - [Top 10 Best VS Code Extensions for developers](https://www.youtube.com/watch?v=c5GAS_PMXDs),by codeSTACKr
 - [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44), a full course for beginners by freeCodeCamp.org
