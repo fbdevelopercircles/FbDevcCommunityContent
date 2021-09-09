@@ -69,6 +69,7 @@ Useful workshop materials.
 
 Useful articles and learning resources.
 
+- [How to learn React.js in 2020](https://www.robinwieruch.de/learn-React-Js)
 - [Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
 - [DevC Resources CMS](https://developercircleresources.com/)
 - [5 Steps to Overcoming Deployment Anxiety with Error Monitoring](https://scotch.io/bar-talk/5-steps-to-overcoming-deployment-anxiety-with-error-monitoring)
@@ -153,6 +154,7 @@ Useful articles and learning resources.
   
 <br />
 
+- [Codepen](https://codepen.io/) - The best place to build, test, and discover front-end code.
 - [Graph API Explorer](https://developers.facebook.com/tools/explorer/) - Test, create, and authenticate API calls and debug responses.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
@@ -186,6 +188,9 @@ Useful articles and learning resources.
   </summary>
 
 <br />
+
+- [Adding Bootstrap to a Vue CLI Project](https://travishorn.com/adding-bootstrap-to-a-vue-cli-project-98c2a30e0ed0), by Travis Horn
+
 
 - [The Clean Coder](https://www.goodreads.com/book/show/10284614-the-clean-coder), by Robert C. Martin
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code), by Robert C. Martin
