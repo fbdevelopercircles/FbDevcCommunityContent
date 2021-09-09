@@ -4,7 +4,7 @@
   <a href="https://developers.facebook.com/developercircles/">
     Facebook Developer Circles Community Content
   </a>
-</h1>
+</h1>  
 
 <p align="center">
   <strong>Developer Circles are communities of innovators, where aspiring and experienced developers receive free tools to build new skills, grow ideas and boost their careers.</strong><br>
@@ -157,6 +157,7 @@ Useful articles and learning resources.
 - [Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/) - Preview how your content will look when it's shared to Facebook.
 - [JetBrains Tools App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
 - [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for JAMstack Sites
+- [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source
 - [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for JAMstack Sites
 - [Netlify](https://www.netlify.com/) - Everything you need to build fast, modern websites from local development to global deployment.
 - [Heroku](https://www.heroku.com/) - Heroku is a platform as a service (PaaS) that enables developers to build, run, host, and operate applications entirely in the cloud.
