@@ -235,6 +235,8 @@ Useful articles and learning resources.
 - [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
 - [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
+- [Become a Software Developer](https://www.linkedin.com/learning/paths/become-a-software-developer?trk=lilblog_06-30-20_msft-announcement-reskilling-linkedin-learning_learning) by linkedin plus certification
+
 </details>
 
 <details>
@@ -264,6 +266,9 @@ Useful articles and learning resources.
 - [The Changelog](https://changelog.com/podcast)- The Changelog mainly discusses topics related to open source software.
 - [This Developer's Life](https://daraoladapo.com/thisdevlife/) - A Podcast about developer work and life balance.
 - [DataFramed](https://www.datacamp.com/community/podcast) - A DataCamp’s official podcast.they approache this question from the perspective of what problems Data Science tries to solve instead of what definition fits it best etc...
+
+- [Code Radio](https://coderadio.freecodecamp.org) Freecodecamp
+
 </details>
 
 <details>
